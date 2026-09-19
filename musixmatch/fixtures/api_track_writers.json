@@ -1,0 +1,40 @@
+{
+ "writer_list": [
+  {
+   "writer": {
+    "writer_id": 949,
+    "writer_name": "Christopher Anthony John Martin",
+    "writer_vanity_id": "Christopher-Anthony-John-Martin",
+    "restricted": 0
+   },
+   "role": ""
+  },
+  {
+   "writer": {
+    "writer_id": 950,
+    "writer_name": "Guy Rupert Berryman",
+    "writer_vanity_id": "Guy-Rupert-Berryman",
+    "restricted": 0
+   },
+   "role": ""
+  },
+  {
+   "writer": {
+    "writer_id": 951,
+    "writer_name": "William Champion",
+    "writer_vanity_id": "William-Champion",
+    "restricted": 0
+   },
+   "role": ""
+  },
+  {
+   "writer": {
+    "writer_id": 952,
+    "writer_name": "Jonathan Mark Buckland",
+    "writer_vanity_id": "Jonathan-Mark-Buckland",
+    "restricted": 0
+   },
+   "role": ""
+  }
+ ]
+}

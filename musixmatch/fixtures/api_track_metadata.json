@@ -1,0 +1,96 @@
+{
+ "metadata": {
+  "track_structure": [
+   {
+    "type_id": "track_structure",
+    "description": "verse",
+    "abstract_id": 288342521,
+    "snippet": "Look at the stars\nLook how they shine for you\nAnd everything you do\nYeah, they were all yellow",
+    "position": 0,
+    "artist_id": 1039,
+    "key": "93e672c555593f86a1b5ba9f385bfba7175d8959a84bc4e38f445ef1335ac150",
+    "last_updated": "2026-08-29T05:50:33Z"
+   },
+   {
+    "type_id": "track_structure",
+    "description": "verse",
+    "abstract_id": 288342521,
+    "snippet": "I came along\nI wrote a song for you\nAnd all the things you do\nAnd it was called, \"Yellow\"",
+    "position": 0,
+    "artist_id": 1039,
+    "key": "27e5ada06175a0e4a76d114db30d31c63e76582284074625a5a49d61b64c046d",
+    "last_updated": "2026-08-29T05:50:33Z"
+   },
+   {
+    "type_id": "track_structure",
+    "description": "pre-chorus",
+    "abstract_id": 288342521,
+    "snippet": "So then I took my turn\nOh, what a thing to have done\nAnd it was all yellow",
+    "position": 0,
+    "artist_id": 1039,
+    "key": "ff98f1fe4bf5d40a407e34f501b130c0e5c283e97b467d12529130fb2579f2a1",
+    "last_updated": "2026-08-29T05:50:33Z"
+   },
+   {
+    "type_id": "track_structure",
+    "description": "chorus",
+    "abstract_id": 288342521,
+    "snippet": "(Ah) your skin, oh yeah, your skin and bones\n(Ooh) turn into something beautiful\n(Ah) and you know, you know I love you so\nYou know I love you so",
+    "position": 0,
+    "artist_id": 1039,
+    "key": "3b3c13f9c757c38b93ae5efacac31f2a6d4a191bcecc67d7f4f182c21cfe15db",
+    "last_updated": "2026-08-29T05:50:33Z"
+   },
+   {
+    "type_id": "track_structure",
+    "description": "verse",
+    "abstract_id": 288342521,
+    "snippet": "I swam across\nI jumped across for you\nOh, what a thing to do\n′Cause you were all yellow",
+    "position": 0,
+    "artist_id": 1039,
+    "key": "eb176a0f5f94737bfcc95afbab6078ec0dad0c64ba4be9f3a78d909c67b67cce",
+    "last_updated": "2026-08-29T05:50:33Z"
+   },
+   {
+    "type_id": "track_structure",
+    "description": "verse",
+    "abstract_id": 288342521,
+    "snippet": "I drew a line\nI drew a line for you\nOh, what a thing to do\nAnd it was all yellow",
+    "position": 0,
+    "artist_id": 1039,
+    "key": "7600ed94aecac1cf340395092b15a4aeea6eefd4795adee3175f5742381ead4d",
+    "last_updated": "2026-08-29T05:50:33Z"
+   },
+   {
+    "type_id": "track_structure",
+    "description": "chorus",
+    "abstract_id": 288342521,
+    "snippet": "(Ah) and your skin, oh, yeah, your skin and bones\n(Ooh) turn into somethin' beautiful\n(Ah) and you know, for you, I′d bleed myself dry\nFor you, I'd bleed myself dry",
+    "position": 0,
+    "artist_id": 1039,
+    "key": "b6af138fffd55eca39f6c527d2e54f922d34bfd19dd77e8d95d447980a30edd8",
+    "last_updated": "2026-08-29T05:50:33Z"
+   },
+   {
+    "type_id": "track_structure",
+    "description": "bridge",
+    "abstract_id": 288342521,
+    "snippet": "It's true\nLook how they shine for you\nLook how they shine for you\nLook how they shine for-\nLook how they shine for you\nLook how they shine for you\nLook how they shine",
+    "position": 0,
+    "artist_id": 1039,
+    "key": "618af08c4c85a363fbb76f935bf4cacddab1d9e410cc0852ec25d08c488c07a7",
+    "last_updated": "2026-08-29T05:50:33Z"
+   },
+   {
+    "type_id": "track_structure",
+    "description": "outro",
+    "abstract_id": 288342521,
+    "snippet": "Look at the stars\nLook how they shine for you\nAnd all the things that you do",
+    "position": 0,
+    "artist_id": 1039,
+    "key": "174c321247a6940d331bbe0b233372cd842dde17713ff6cf6246ed40ffd2b075",
+    "last_updated": "2026-08-29T05:50:33Z"
+   }
+  ]
+ }
+}

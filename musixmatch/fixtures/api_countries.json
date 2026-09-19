@@ -1,0 +1,54 @@
+{
+ "countries_list": [
+  {
+   "id": "5",
+   "iso_code": "AD",
+   "name": "Andorra",
+   "actual": "1",
+   "continent_id": "4",
+   "continent_code": "EU",
+   "continent_description": "Europe",
+   "priority": null
+  },
+  {
+   "id": "220",
+   "iso_code": "AE",
+   "name": "United Arab Emirates",
+   "actual": "1",
+   "continent_id": "3",
+   "continent_code": "AS",
+   "continent_description": "Asia",
+   "priority": null
+  },
+  {
+   "id": "1",
+   "iso_code": "AF",
+   "name": "Afghanistan",
+   "actual": "1",
+   "continent_id": "3",
+   "continent_code": "AS",
+   "continent_description": "Asia",
+   "priority": null
+  },
+  {
+   "id": "9",
+   "iso_code": "AG",
+   "name": "Antigua and Barbuda",
+   "actual": "1",
+   "continent_id": "5",
+   "continent_code": "NA",
+   "continent_description": "North America",
+   "priority": null
+  },
+  {
+   "id": "7",
+   "iso_code": "AI",
+   "name": "Anguilla",
+   "actual": "1",
+   "continent_id": "5",
+   "continent_code": "NA",
+   "continent_description": "North America",
+   "priority": null
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "music_genre_list": [
+  {
+   "music_genre": {
+    "music_genre_id": 34,
+    "music_genre_parent_id": 0,
+    "music_genre_name": "Music",
+    "music_genre_name_extended": "Music",
+    "music_genre_vanity": "Music"
+   }
+  },
+  {
+   "music_genre": {
+    "music_genre_id": 1007,
+    "music_genre_parent_id": 2,
+    "music_genre_name": "Chicago Blues",
+    "music_genre_name_extended": "Blues / Chicago Blues",
+    "music_genre_vanity": "Blues-Chicago-Blues"
+   }
+  },
+  {
+   "music_genre": {
+    "music_genre_id": 1009,
+    "music_genre_parent_id": 2,
+    "music_genre_name": "Classic Blues",
+    "music_genre_name_extended": "Blues / Classic Blues",
+    "music_genre_vanity": "Blues-Classic-Blues"
+   }
+  },
+  {
+   "music_genre": {
+    "music_genre_id": 1010,
+    "music_genre_parent_id": 2,
+    "music_genre_name": "Contemporary Blues",
+    "music_genre_name_extended": "Blues / Contemporary Blues",
+    "music_genre_vanity": "Blues-Contemporary-Blues"
+   }
+  },
+  {
+   "music_genre": {
+    "music_genre_id": 1011,
+    "music_genre_parent_id": 2,
+    "music_genre_name": "Country Blues",
+    "music_genre_name_extended": "Blues / Country Blues",
+    "music_genre_vanity": "Blues-Country-Blues"
+   }
+  }
+ ]
+}

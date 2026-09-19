@@ -1,0 +1,141 @@
+{
+ "album_list": [
+  {
+   "album": {
+    "album_id": 82888251,
+    "album_mbid": "",
+    "album_name": "ALL MY LOVE - Single",
+    "album_rating": 0,
+    "album_track_count": 3,
+    "album_release_date": "2025-08-22",
+    "album_release_type": "Single",
+    "artist_id": 1039,
+    "artist_name": "Coldplay",
+    "primary_genres": {
+     "music_genre_list": [
+      {
+       "music_genre": {
+        "music_genre_id": 34,
+        "music_genre_parent_id": 0,
+        "music_genre_name": "Music",
+        "music_genre_name_extended": "Music",
+        "music_genre_vanity": "Music"
+       }
+      }
+     ]
+    },
+    "secondary_genres": {
+     "music_genre_list": [
+      {
+       "music_genre": {
+        "music_genre_id": 20,
+        "music_genre_parent_id": 34,
+        "music_genre_name": "Alternative",
+        "music_genre_name_extended": "Alternative",
+        "music_genre_vanity": "Alternative"
+       }
+      }
+     ]
+    },
+    "album_pline": "Under exclusive licence to Parlophone Records Limited, ℗ 2024 Coldplay",
+    "album_copyright": "Under exclusive licence to Parlophone Records Limited, ℗ 2024 Coldplay",
+    "album_label": "Parlophone UK",
+    "album_vanity_id": "Coldplay/ALL-MY-LOVE-Single-1",
+    "album_edit_url": "https://www.musixmatch.com/album/Coldplay/ALL-MY-LOVE-Single-1?utm_source=application&utm_campaign=api&utm_medium=musixmatch-community%3A1409608317702",
+    "restricted": 0,
+    "updated_time": "2025-08-23T16:40:00Z",
+    "external_ids": {
+     "spotify": [],
+     "itunes": [
+      "1834275216"
+     ],
+     "amazon_music": [],
+     "7digital": [],
+     "pro_pre_release": []
+    },
+    "album_coverart_100x100": "https://s.mxmcdn.net/images-storage/albums2/7/6/0/9/0/0/94009067.jpg",
+    "album_coverart_350x350": "https://s.mxmcdn.net/images-storage/albums2/7/6/0/9/0/0/94009067_350_350.jpg",
+    "album_coverart_500x500": "https://s.mxmcdn.net/images-storage/albums2/7/6/0/9/0/0/94009067_500_500.jpg",
+    "album_coverart_800x800": "https://s.mxmcdn.net/images-storage/albums2/7/6/0/9/0/0/94009067_800_800.jpg"
+   }
+  },
+  {
+   "album": {
+    "album_id": 82899220,
+    "album_mbid": "",
+    "album_name": "ALL MY LOVE",
+    "album_rating": 0,
+    "album_track_count": 3,
+    "album_release_date": "2025-08-22",
+    "album_release_type": "Single",
+    "artist_id": 1039,
+    "artist_name": "Coldplay",
+    "primary_genres": {
+     "music_genre_list": []
+    },
+    "secondary_genres": {
+     "music_genre_list": []
+    },
+    "album_pline": "Under exclusive licence to Parlophone Records Limited, ℗ 2024 Coldplay",
+    "album_copyright": "Under exclusive licence to Parlophone Records Limited., © 2024 Coldplay",
+    "album_label": "Parlophone UK",
+    "album_vanity_id": "Coldplay/ALL-MY-LOVE-1",
+    "album_edit_url": "https://www.musixmatch.com/album/Coldplay/ALL-MY-LOVE-1?utm_source=application&utm_campaign=api&utm_medium=musixmatch-community%3A1409608317702",
+    "restricted": 0,
+    "updated_time": "2025-08-23T18:48:10Z",
+    "external_ids": {
+     "spotify": [
+      "5N2PVskrF5Sl7cLsIKMwfT"
+     ],
+     "itunes": [],
+     "amazon_music": [],
+     "7digital": [],
+     "pro_pre_release": []
+    },
+    "album_coverart_100x100": "http://s.mxmcdn.net/images-storage/albums/nocover.png",
+    "album_coverart_350x350": "",
+    "album_coverart_500x500": "",
+    "album_coverart_800x800": ""
+   }
+  },
+  {
+   "album": {
+    "album_id": 73732466,
+    "album_mbid": "",
+    "album_name": "WE PRAY (Jasleen Royal Version)",
+    "album_rating": 11,
+    "album_track_count": 1,
+    "album_release_date": "2025-02-13",
+    "album_release_type": "Single",
+    "artist_id": 1039,
+    "artist_name": "Coldplay",
+    "primary_genres": {
+     "music_genre_list": []
+    },
+    "secondary_genres": {
+     "music_genre_list": []
+    },
+    "album_pline": "Under exclusive licence to Parlophone Records Limited, ℗ 2025 Coldplay",
+    "album_copyright": "Under exclusive licence to Parlophone Records Limited., © 2025 Coldplay",
+    "album_label": "Parlophone UK",
+    "album_vanity_id": "Coldplay/WE-PRAY-Jasleen-Royal-Version",
+    "album_edit_url": "https://www.musixmatch.com/album/Coldplay/WE-PRAY-Jasleen-Royal-Version?utm_source=application&utm_campaign=api&utm_medium=musixmatch-community%3A1409608317702",
+    "restricted": 0,
+    "updated_time": "2025-02-13T19:28:41Z",
+    "external_ids": {
+     "spotify": [
+      "7hvPIynnfNUqcj0QjJ3K1W"
+     ],
+     "itunes": [],
+     "amazon_music": [],
+     "7digital": [],
+     "pro_pre_release": []
+    },
+    "album_coverart_100x100": "https://s.mxmcdn.net/images-storage/albums5/3/8/2/3/5/8/84853283.jpg",
+    "album_coverart_350x350": "https://s.mxmcdn.net/images-storage/albums5/3/8/2/3/5/8/84853283_350_350.jpg",
+    "album_coverart_500x500": "https://s.mxmcdn.net/images-storage/albums5/3/8/2/3/5/8/84853283_500_500.jpg",
+    "album_coverart_800x800": ""
+   }
+  }
+ ]
+}

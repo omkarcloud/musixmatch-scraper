@@ -1,0 +1,211 @@
+{
+ "track_list": [
+  {
+   "track": {
+    "track_id": 459292432,
+    "track_mbid": "",
+    "track_isrc": "USAT22603420",
+    "commontrack_isrcs": [
+     [
+      "USAT22603420"
+     ]
+    ],
+    "track_spotify_id": "6hUZIxN8u8VhaEYeEcudXQ",
+    "commontrack_spotify_ids": [
+     "6hUZIxN8u8VhaEYeEcudXQ"
+    ],
+    "commontrack_7digital_ids": [
+     319154849
+    ],
+    "commontrack_itunes_ids": [],
+    "track_soundcloud_id": 0,
+    "track_xboxmusic_id": "",
+    "track_name": "500 Horses",
+    "track_name_translation_list": [],
+    "track_rating": 98,
+    "track_length": 0,
+    "commontrack_id": 286083927,
+    "instrumental": 0,
+    "explicit": 1,
+    "has_lyrics": 1,
+    "has_lyrics_crowd": 0,
+    "has_subtitles": 1,
+    "has_richsync": 0,
+    "has_track_structure": 1,
+    "has_lyrics_analysis": 1,
+    "num_favourite": 0,
+    "lyrics_id": 48510496,
+    "subtitle_id": 53810444,
+    "album_id": 110856022,
+    "album_name": "PROLIFIC",
+    "album_vanity_id": "Nipsey-Hussle-Bino-Rideaux-8/PROLIFIC",
+    "artist_id": 62060809,
+    "artist_mbid": "",
+    "artist_name": "Nipsey Hussle feat. Bino Rideaux",
+    "album_coverart_100x100": "https://s.mxmcdn.net/images-storage/albums5/6/2/9/1/7/9/121971926.jpg",
+    "album_coverart_350x350": "https://s.mxmcdn.net/images-storage/albums5/6/2/9/1/7/9/121971926_350_350.jpg",
+    "album_coverart_500x500": "https://s.mxmcdn.net/images-storage/albums5/6/2/9/1/7/9/121971926_500_500.jpg",
+    "album_coverart_800x800": "",
+    "track_share_url": "https://www.musixmatch.com/lyrics/Nipsey-Hussle-Bino-Rideaux-8/500-Horses?utm_source=application&utm_campaign=api&utm_medium=musixmatch-community%3A1409608317702",
+    "track_edit_url": "https://www.musixmatch.com/lyrics/Nipsey-Hussle-Bino-Rideaux-8/500-Horses/edit?utm_source=application&utm_campaign=api&utm_medium=musixmatch-community%3A1409608317702",
+    "commontrack_vanity_id": "Nipsey-Hussle-Bino-Rideaux-8/500-Horses",
+    "restricted": 0,
+    "first_release_date": "2026-08-14T00:00:00Z",
+    "updated_time": "2026-08-15T19:13:14Z",
+    "primary_genres": {
+     "music_genre_list": []
+    },
+    "secondary_genres": {
+     "music_genre_list": []
+    }
+   }
+  },
+  {
+   "track": {
+    "track_id": 354533242,
+    "track_mbid": "",
+    "track_isrc": "USUYG1761011",
+    "commontrack_isrcs": [
+     [
+      "USUYG1761011"
+     ]
+    ],
+    "track_spotify_id": "5IVbbdhaxuNWxea9skrTOK",
+    "commontrack_spotify_ids": [
+     "5IVbbdhaxuNWxea9skrTOK"
+    ],
+    "commontrack_7digital_ids": [
+     279443861
+    ],
+    "commontrack_itunes_ids": [
+     1842501396
+    ],
+    "track_soundcloud_id": 0,
+    "track_xboxmusic_id": "",
+    "track_name": "Still Snowin'",
+    "track_name_translation_list": [],
+    "track_rating": 96,
+    "track_length": 0,
+    "commontrack_id": 222933673,
+    "instrumental": 0,
+    "explicit": 1,
+    "has_lyrics": 1,
+    "has_lyrics_crowd": 0,
+    "has_subtitles": 1,
+    "has_richsync": 0,
+    "has_track_structure": 1,
+    "has_lyrics_analysis": 1,
+    "num_favourite": 1,
+    "lyrics_id": 42401496,
+    "subtitle_id": 44979108,
+    "album_id": 84668688,
+    "album_name": "Still Snowin'",
+    "album_vanity_id": "Jeezy-feat-DJ-Drama/Still-Snowin",
+    "artist_id": 29258306,
+    "artist_mbid": "",
+    "artist_name": "Jeezy feat. DJ Drama",
+    "album_coverart_100x100": "https://s.mxmcdn.net/images-storage/albums5/3/0/5/9/8/7/95789503.jpg",
+    "album_coverart_350x350": "https://s.mxmcdn.net/images-storage/albums5/3/0/5/9/8/7/95789503_350_350.jpg",
+    "album_coverart_500x500": "https://s.mxmcdn.net/images-storage/albums5/3/0/5/9/8/7/95789503_500_500.jpg",
+    "album_coverart_800x800": "",
+    "track_share_url": "https://www.musixmatch.com/lyrics/Jeezy/Still-Snowin?utm_source=application&utm_campaign=api&utm_medium=musixmatch-community%3A1409608317702",
+    "track_edit_url": "https://www.musixmatch.com/lyrics/Jeezy/Still-Snowin/edit?utm_source=application&utm_campaign=api&utm_medium=musixmatch-community%3A1409608317702",
+    "commontrack_vanity_id": "Jeezy/Still-Snowin",
+    "restricted": 0,
+    "first_release_date": "2025-09-28T00:00:00Z",
+    "updated_time": "2026-09-07T11:48:00Z",
+    "primary_genres": {
+     "music_genre_list": [
+      {
+       "music_genre": {
+        "music_genre_id": 18,
+        "music_genre_parent_id": 34,
+        "music_genre_name": "Hip Hop/Rap",
+        "music_genre_name_extended": "Hip-Hop/Rap",
+        "music_genre_vanity": "Hip-Hop-Rap"
+       }
+      }
+     ]
+    },
+    "secondary_genres": {
+     "music_genre_list": []
+    }
+   }
+  },
+  {
+   "track": {
+    "track_id": 320688961,
+    "track_mbid": "",
+    "track_isrc": "QZPEW2558521",
+    "commontrack_isrcs": [
+     [
+      "QZPEW2558521"
+     ]
+    ],
+    "track_spotify_id": "1ZZQCiZCk2AIXTz8MqwHEo",
+    "commontrack_spotify_ids": [
+     "1ZZQCiZCk2AIXTz8MqwHEo",
+     "0ZcN9Vx5j4exYEyAlThwKa"
+    ],
+    "commontrack_7digital_ids": [
+     254675744,
+     254478205
+    ],
+    "commontrack_itunes_ids": [
+     1794262370,
+     1793667458
+    ],
+    "track_soundcloud_id": 0,
+    "track_xboxmusic_id": "",
+    "track_name": "Full Speed",
+    "track_name_translation_list": [],
+    "track_rating": 91,
+    "track_length": 0,
+    "commontrack_id": 197385614,
+    "instrumental": 0,
+    "explicit": 1,
+    "has_lyrics": 1,
+    "has_lyrics_crowd": 0,
+    "has_subtitles": 1,
+    "has_richsync": 0,
+    "has_track_structure": 1,
+    "has_lyrics_analysis": 1,
+    "num_favourite": 0,
+    "lyrics_id": 37257301,
+    "subtitle_id": 42750091,
+    "album_id": 73615341,
+    "album_name": "Albion Files",
+    "album_vanity_id": "Terrace-Martin/Albion-Files",
+    "artist_id": 13910357,
+    "artist_mbid": "47d06156-05af-420e-8835-be50353a5d52",
+    "artist_name": "Terrace Martin",
+    "album_coverart_100x100": "https://s.mxmcdn.net/images-storage/albums2/8/5/1/6/3/7/84736158.jpg",
+    "album_coverart_350x350": "https://s.mxmcdn.net/images-storage/albums2/8/5/1/6/3/7/84736158_350_350.jpg",
+    "album_coverart_500x500": "https://s.mxmcdn.net/images-storage/albums2/8/5/1/6/3/7/84736158_500_500.jpg",
+    "album_coverart_800x800": "https://s.mxmcdn.net/images-storage/albums2/8/5/1/6/3/7/84736158_800_800.jpg",
+    "track_share_url": "https://www.musixmatch.com/lyrics/Terrace-Martin/Full-Speed?utm_source=application&utm_campaign=api&utm_medium=musixmatch-community%3A1409608317702",
+    "track_edit_url": "https://www.musixmatch.com/lyrics/Terrace-Martin/Full-Speed/edit?utm_source=application&utm_campaign=api&utm_medium=musixmatch-community%3A1409608317702",
+    "commontrack_vanity_id": "Terrace-Martin/Full-Speed",
+    "restricted": 0,
+    "first_release_date": "2025-02-21T00:00:00Z",
+    "updated_time": "2026-05-18T23:44:15Z",
+    "primary_genres": {
+     "music_genre_list": [
+      {
+       "music_genre": {
+        "music_genre_id": 15,
+        "music_genre_parent_id": 34,
+        "music_genre_name": "R&B/Soul",
+        "music_genre_name_extended": "R&B/Soul",
+        "music_genre_vanity": "R-B-Soul"
+       }
+      }
+     ]
+    },
+    "secondary_genres": {
+     "music_genre_list": []
+    }
+   }
+  }
+ ]
+}

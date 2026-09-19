@@ -1,0 +1,1258 @@
+{
+ "trendingTracksGet": {
+  "data": [
+   {
+    "albumId": 113374918,
+    "albumName": "Last Thing You Need (from GTAVI: The Album)",
+    "albumVanityId": "Morgan-Wallen-Grand-Theft-Auto-VI/Last-Thing-You-Need-from-GTAVI-The-Album",
+    "artistId": 97819140,
+    "artistName": "Morgan Wallen feat. Grand Theft Auto VI",
+    "artists": [
+     {
+      "aliases": [],
+      "bandsintownUrl": "https://www.bandsintown.com/a/4726457?came_from=267&app_id=7559e17e1f14e047556d08f47c08faf8",
+      "externalIds": {
+       "itunes": [
+        "829142092"
+       ],
+       "spotify": [
+        "4oUHIQIBe0LHzYfvXNW4QM"
+       ]
+      },
+      "genres": [
+       {
+        "id": 14,
+        "name": "Pop",
+        "vanity_id": "Pop"
+       }
+      ],
+      "id": 27082035,
+      "isFeaturingArtist": false,
+      "isVerified": true,
+      "name": "Morgan Wallen",
+      "rating": 12,
+      "vanityId": "Morgan-Wallen"
+     },
+     {
+      "aliases": [],
+      "externalIds": {
+       "itunes": [],
+       "spotify": [
+        "15o7qdDTBzs6xWRUYUtZc1"
+       ]
+      },
+      "genres": [],
+      "id": 63597833,
+      "isFeaturingArtist": false,
+      "isVerified": false,
+      "name": "Grand Theft Auto VI",
+      "rating": 1,
+      "vanityId": "Grand-Theft-Auto-VI"
+     }
+    ],
+    "commonTrackId": 291662425,
+    "commontrackItunesIds": [],
+    "commontrackSpotifyIds": [
+     "5qGziX9216V8hKJjGg8RtH"
+    ],
+    "contributors": [
+     {
+      "avatar": "https://s.mxmcdn.net/user/mxm-avatar-04-redpink.png",
+      "id": "3vUCAMhWz9Wk_gzZ-_0WvxS1XhvFnKZYDx69zaX5VErJD-uSfr_rJ7dLea5wARjl86f08tiGlkUJsYZwTh929H8mNJLttmbAhkeOAtBintXwqkO_RZzez0KeTRbrXu-pJ-q5PeMuOqsBrblJxlkQV3KrkvijPkzcWB2C3tvXAqI",
+      "isAI": false,
+      "name": "Valentine O.",
+      "role": "rookie"
+     }
+    ],
+    "coverImage": "https://s.mxmcdn.net/images-storage/albums5/0/3/7/0/9/4/124490730_350_350.jpg",
+    "coverImageHD": "https://s.mxmcdn.net/images-storage/albums5/0/3/7/0/9/4/124490730_500_500.jpg",
+    "hasLyrics": true,
+    "hasPreReleaseRestricted": false,
+    "hasSync": true,
+    "hasTrackStructure": true,
+    "id": 465558508,
+    "isExplicit": false,
+    "isInstrumental": false,
+    "isPreRelease": false,
+    "lastEditDate": "2026-09-18T02:21:51Z",
+    "lyricsBody": "The last thing you said to me\n\"If I don't leave now, then I never will\nI miss you, but I gotta see\nHow somebody good for me feels\"\n\nYou took off your dress and said, \"One more night\"\nHead on my chest, though I felt you cry\nAnd I took my time with what we had left\nThen you said, \"Goodbye,\" and baby, I said\n\n\"You know where I am, you know where I'll be\nWhenever you want the last thing you need\nWhen you miss the hands that know how to speak\nBad for your heart and good for your sheets\nKeep saying that it's over now\nGirl, I ain't gonna slow you down\nBut you know where I am, you know where I'll be\nWhenever you want the last thing you need\nThe last thing\"\n\nLast thing I'm meant to do\nWas be the best you ever had in your memory\nAnd if you find somebody new\nAnd think he needs a new enemy\n\nGirl, come take off your dress and stay one more night\nHead on my chest, a lot on your mind\nStay 'til the sun and make a mistake\nYou say it's just once but girl, if it ain't\n\nYou know where I am, you know where I'll be\nWhenever you want the last thing you need\nWhen you miss the hands that know how to speak\nBad for your heart and good for your sheets\nKeep saying that it's over now\nGirl, I ain't gonna slow you down\nBut you know where I am, you know where I'll be\nWhenever you want the last thing you need\nThe last thing\n\nI know I should do you a favor\nDraw the line and make you a stranger\nBut I can't, girl\nIf it's tomorrow night or in another life\n\nYou know where I am, you know where I'll be\nWhenever you want the last thing you need\nWhen you miss the hands that know how to speak\nBad for your heart and good for your sheets\nKeep saying that it's over now\nGirl, I ain't gonna slow you down\nBut you know where I am, you know where I'll be\nWhenever you want the last thing you need\nThe last thing\n\nThe last thing\nYeah, you know where I am, you know where I'll be\nWhenever you want the last thing you need\nThe last thing",
+    "lyricsSnippet": "Whenever you want the last thing you need",
+    "name": "Last Thing You Need (from GTAVI: The Album)",
+    "releaseDate": "2026-09-17T00:00:00Z",
+    "spotifyId": "5qGziX9216V8hKJjGg8RtH",
+    "vanityId": "Morgan-Wallen-Grand-Theft-Auto-VI/Last-Thing-You-Need-from-GTAVI-The-Album"
+   },
+   {
+    "albumId": 41219809,
+    "albumName": "Live at the Cafe Carlyle (New York, NY / 2017)",
+    "albumVanityId": "Duncan-Sheik/Live-at-the-Cafe-Carlyle-New-York-NY-2017-1",
+    "artistId": 1058,
+    "artistName": "Duncan Sheik",
+    "artists": [
+     {
+      "aliases": [
+       "ダンカン・シーク",
+       "Dancan Sheik",
+       "Duncan Shiek"
+      ],
+      "bandsintownUrl": "https://www.bandsintown.com/a/3421?came_from=706&app_id=7559e17e1f14e047556d08f47c08faf8",
+      "externalIds": {
+       "itunes": [
+        "881355"
+       ],
+       "spotify": [
+        "3AO6RTDA16mg8czQI5Y9K0"
+       ]
+      },
+      "genres": [
+       {
+        "id": 1064,
+        "name": "Contemporary Singer/Songwriter",
+        "vanity_id": "Singer-Songwriter-Contemporary-Singer-Songwriter"
+       },
+       {
+        "id": 1131,
+        "name": "Adult Contemporary",
+        "vanity_id": "Pop-Adult-Contemporary"
+       },
+       {
+        "id": 1166,
+        "name": "Musicals",
+        "vanity_id": "Soundtrack-Musicals"
+       }
+      ],
+      "id": 1058,
+      "instagramUrl": "https://www.instagram.com/?hl=en",
+      "isFeaturingArtist": false,
+      "isVerified": true,
+      "name": "Duncan Sheik",
+      "rating": 33,
+      "twitterUrl": "https://twitter.com/TheDuncanSheik?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+      "vanityId": "Duncan-Sheik",
+      "websiteUrl": "https://www.duncansheik.com/"
+     }
+    ],
+    "commonTrackId": 72315172,
+    "commontrackItunesIds": [
+     1740550327,
+     1613805201,
+     1369850515
+    ],
+    "commontrackSpotifyIds": [
+     "5e603NzvBp5Glq2vTqseWL",
+     "2sUCTJedlGWP91Y25n0JfQ",
+     "0DU6d5IfSktgvoCbfTEAbR"
+    ],
+    "contributors": [
+     {
+      "avatar": "https://lh3.googleusercontent.com/a-/AFdZucoxO5TneVW0M8NetgZWmswdqIMcMnajSVN7f8DJKg=s50",
+      "id": "3vUCAD99PVv4Rlw2LPQfvXfxHrGMe0qTqaoe3eCiNeKdIovcIfdwIxCsCSfidlolVswiJhvFsMnHk4JDAQj2DF2BzBLj_ckLw4QW_bk0BZ_qfRatO2hGtzIfhiBMSJMVnKSrlE_C1xSXa0koQJCu8kKDsOc",
+      "isAI": false,
+      "name": "glenn ornedo",
+      "role": "rookie"
+     },
+     {
+      "avatar": "https://graph.facebook.com/2115951731808366/picture",
+      "id": "3vUCAHbo7dMQcfBP6D_qm0EH0sKN9QO2NzVyGV1jAAL1Hbyxmkku3DGmocVo5beWtYQ-Op_bHKXEC0GQrkRE8ceFpGtLiHeAu2VVyeKNjssTBF49_6Jg1Ic0sP-AsLuWwn79SNraF9xgmCglI094",
+      "isAI": false,
+      "name": "Rodrigo Oliveira",
+      "role": "rookie"
+     },
+     {
+      "avatar": "https://s.mxmcdn.net/user/user_empty.png",
+      "id": "3vUCANAyCofXqsEvIjTqCEKg3q-j-IBGEaaSTh8d3xKc9515preUTq9TTli1XzR1snu8UJ0ZUg7C-BQgfDH0Zb-HmTkT_9mV0JV0VSU-6gBXRQB1NYN19b9NaxeSp5AbIJC2y55MGTMVkR2L6gVix8nU6fzda9ZtCvEmpnmQcMA",
+      "isAI": true,
+      "name": "Anna Cruz",
+      "role": "rookie"
+     }
+    ],
+    "coverImage": "https://s.mxmcdn.net/images-storage/albums2/7/2/6/0/4/3/52340627_350_350.jpg",
+    "coverImageHD": "https://s.mxmcdn.net/images-storage/albums2/7/2/6/0/4/3/52340627_500_500.jpg",
+    "hasLyrics": true,
+    "hasPreReleaseRestricted": false,
+    "hasSync": true,
+    "hasTrackStructure": true,
+    "id": 206219480,
+    "isExplicit": false,
+    "isInstrumental": false,
+    "isPreRelease": false,
+    "lastEditDate": "2026-09-19T01:59:48Z",
+    "lyricsBody": "Well, I know what you're doing\nI see it all too clear\nI only taste the saline\nWhen I kiss away your tears\n\nYou really had me going\nWishing on a star\nBut the black holes that surround you\nAre heavier by far\n\nI believed in your confusion\nYou were so completely torn\nIt must've been that yesterday\nThe day that I was born\n\nNot much to examine\nNothing left to hide\nYou really can't be serious\nYou have to ask me why\nI say goodbye\n\n'Cause I am barely breathing\nAnd I can't find the air\nDon't know who I am kidding\nImagining you care\nAnd I could stand here waiting\n\nA fool for another day\nI don't suppose it's worth the price\nIt's worth the price\nThe price that I would pay\nYeah, yeah, yeah\n\nAnd everyone keeps asking\nWhat's it all about?\nI used to be so certain\nAnd I can't figure out\n\nWhat is this attraction?\nI can only feel the pain\nNothing left to reason\nAnd only you to blame\nWill it ever change?\n\n'Cause I am barely breathing\nAnd I can't find the air\nI don't know who I'm kidding\nImagining you care\nI could stand here waiting\n\nA fool for another day\nI don't suppose it's worth the price\nIt's worth the price\nThe price that I would pay\nYeah, yeah, yeah\n\nI'm thinking it over anyway\nI'm thinking it over anyway\nYeah, yeah, yeah, yeah\nOh\n\nI've come to find\nI may never know\nYour changing mind\nIs it friend or foe?\n\nI rise above or sink below\nWith every time you come and go\nPlease don't come and go\n\n'Cause I am barely breathing\nAnd I can't find the air\nI don't know who I'm kidding\nImagining you care\nAnd I could stand here waiting\n\nA fool for another day\nI don't suppose it's worth the price\nIt's worth the price\nThe price that I would pay\nYeah, yeah, yeah\n\nI'm thinking it over anyway, yeah\nI'm thinking it over anyway\nYeah, yeah, yeah, yeah\nOh\n\nAnd I know what you're doing\nI see it all too clear\n\nAlright, thank you guy\nSo much for coming tonight\nSee you next time\nThank you",
+    "lyricsSnippet": "And I can't find the air",
+    "name": "Barely Breathing",
+    "releaseDate": "1996-01-01T00:00:00Z",
+    "spotifyId": "5e603NzvBp5Glq2vTqseWL",
+    "vanityId": "Duncan-Sheik/barely-breathing-live-from-the-cafe-carlyle-new-york-ny-2017"
+   },
+   {
+    "albumId": 85028457,
+    "albumName": "Choosin' Texas - Single",
+    "albumVanityId": "Ella-Langley/Choosin-Texas",
+    "artistId": 36034079,
+    "artistName": "Ella Langley",
+    "artists": [
+     {
+      "aliases": [],
+      "bandsintownUrl": "https://www.bandsintown.com/a/14902799?came_from=267&app_id=7559e17e1f14e047556d08f47c08faf8",
+      "externalIds": {
+       "itunes": [
+        "1384373733"
+       ],
+       "spotify": [
+        "6BRxQ8cD3eqnrVj6WKDok8"
+       ]
+      },
+      "genres": [
+       {
+        "id": 6,
+        "name": "Country",
+        "vanity_id": "Country"
+       },
+       {
+        "id": 10,
+        "name": "Singer/Songwriter",
+        "vanity_id": "Singer-Songwriter"
+       },
+       {
+        "id": 14,
+        "name": "Pop",
+        "vanity_id": "Pop"
+       }
+      ],
+      "id": 36034079,
+      "instagramUrl": "https://www.instagram.com/",
+      "isFeaturingArtist": false,
+      "isVerified": true,
+      "name": "Ella Langley",
+      "rating": 31,
+      "tiktokUrl": "https://www.tiktok.com/@ellalangleymusic1",
+      "vanityId": "Ella-Langley",
+      "websiteUrl": "https://ellalangley.com/"
+     }
+    ],
+    "commonTrackId": 223773736,
+    "commontrackItunesIds": [
+     6794945006,
+     6763094066,
+     1869436839
+    ],
+    "commontrackSpotifyIds": [
+     "4Rin9yz8fuTDI0fLGqngFT",
+     "65DbTqJKhbwqYbZ1Okr0rc",
+     "1REy2Bm9XrSoRMBKNXW69l"
+    ],
+    "contributors": [
+     {
+      "avatar": "https://s.mxmcdn.net/user/user_empty.png",
+      "id": "3vUCAEfhTCK48wnrk8NVTe3hGVxy5XjsorwR6nvxf3Dib7WbcGA0TdV9AwHpqFsgVOMFGHc5g8M1cUsw8__KtzXdLZO5DtEAJyGxrAS9vmu3H5XSvhbQPYMqC0Qv3uv4i8Yiea4OJfYDAidEZw-quiEEUBI",
+      "isAI": false,
+      "name": "Jose Pineros",
+      "role": "rookie"
+     },
+     {
+      "avatar": "https://s.mxmcdn.net/user/mxm-avatar-06-yellowgreen.png",
+      "id": "3vUCAHvgNasVZ5-DG1zp2yftQFu6YAqkz9u02MOjzAt_1wUxjkcoxeH7E8xb-eqzJ_LUxBW5OpypVsiRHh8kNFkeuUBZfI5zjW9Wt606LhrysNZ2p-g7v-UFib1DhRagGo5XTG4MEIWFzlQq6vzBCPdXD-lZmY3GcxUUkqxo2Z4",
+      "isAI": false,
+      "name": "Godpower Zegenee",
+      "role": "rookie"
+     },
+     {
+      "avatar": "https://drive.google.com/thumbnail?id=1_mVCJsxqHmiYAysvp9a2xEBbIfKSrmUu&sz=w1000",
+      "id": "3vUCALOtTaUWODmWgtQB3vmEY3VSfEaI8ffNlPc5rK0CJI46pPKFFVsP3mopmhIJj4_z1MvtE7XnzMIfalOEGu7fLC9Tsnr5U0kXdKhHsVDsK2nYOCGvrbLGMYtLWDPRfdzMm7cM6QrVeEmBybP6iUJ_bm4qOWUIf2zK68D4DJM",
+      "isAI": false,
+      "name": "Mangezi R.",
+      "role": "rookie"
+     }
+    ],
+    "coverImage": "https://s.mxmcdn.net/images-storage/albums2/2/7/2/9/4/1/96149272_350_350.jpg",
+    "coverImageHD": "https://s.mxmcdn.net/images-storage/albums2/2/7/2/9/4/1/96149272_500_500.jpg",
+    "hasLyrics": true,
+    "hasPreReleaseRestricted": false,
+    "hasSync": true,
+    "hasTrackStructure": true,
+    "id": 355497369,
+    "isExplicit": false,
+    "isInstrumental": false,
+    "isPreRelease": false,
+    "lastEditDate": "2026-09-07T12:48:26Z",
+    "lyricsBody": "Just when I thought I got him to fall in love with Tennessee\nI should've known better than to take him back to Abilene\nI put him right back into her arms\nI wasn't a match for that kind of spark\n\nShe's from Texas, I can tell by the way\nHe's two-steppin' 'round the room\nAnd judging by the smile that's written on his face\nThere's nothin' I can do\n\nIt doesn't take a crystal ball to see\nA cowboy always finds a way to leave\nDrinkin' Jack all by myself\nHe's choosin' Texas, I can tell\n\nWell, I guess he forgot about the Smoky Mountain rain\nThem old Hank tunes, the Memphis blues we used to sing\nHe always loved \"Amarillo By Morning\"\nI should've taken that as a warnin'\n\nShe's from Texas, I can tell by the way\nHe's two-steppin' 'round the room\nAnd judging by the smile that's written on his face\nThere's nothin' I can do\n\nIt doesn't take a crystal ball to see\nA cowboy always finds a way to leave\nDrinkin' Jack all by myself\nHe's choosin' Texas, I can tell\n\nWhen I'm eastbound and down, and I can't help but cry\n'Cause I-40 gets lonelier with every mile\nI'll know that his mind wasn't ever gonna change\n'Cause his heart still belongs to the Lone Star State\n\nShe's from Texas, I can tell by the way\nHe's two-steppin' 'round the room\nAnd judging by the smile that's written on his face\nThere's nothin' I can do, no\n\nIt doesn't take a crystal ball to see\nA cowboy always finds a way to leave\nDrinkin' Jack all by myself\nHe's choosin' Texas, I can tell, no\nDrinkin' Jack all by myself\nHe's choosin' Texas, I can tell\n\nCome on, baby\nOh-oh, yeah\nJust when I thought I got him to fall in love with Tennessee",
+    "lyricsSnippet": "Drinkin' Jack all by myself",
+    "name": "Choosin' Texas",
+    "releaseDate": "2026-01-30T00:00:00Z",
+    "spotifyId": "65DbTqJKhbwqYbZ1Okr0rc",
+    "vanityId": "Ella-Langley/Choosin-Texas"
+   }
+  ]
+ },
+ "topTracksGet": {
+  "data": [
+   {
+    "albumId": 110359990,
+    "albumName": "NO ME ARREPIENTO DE SENTIR TANTO",
+    "albumVanityId": "KAROL-G-7/NO-ME-ARREPIENTO-DE-SENTIR-TANTO",
+    "artistId": 54050596,
+    "artistName": "KAROL G",
+    "artists": [
+     {
+      "aliases": [],
+      "bandsintownUrl": "https://www.bandsintown.com/a/2671969?came_from=267&app_id=7559e17e1f14e047556d08f47c08faf8",
+      "externalIds": {
+       "itunes": [
+        "290814601"
+       ],
+       "spotify": [
+        "790FomKkXshlbRYZFtlgla"
+       ]
+      },
+      "genres": [],
+      "id": 54050596,
+      "isFeaturingArtist": false,
+      "isVerified": true,
+      "name": "KAROL G",
+      "rating": 15,
+      "vanityId": "KAROL-G-7"
+     }
+    ],
+    "commonTrackId": 285051242,
+    "commontrackItunesIds": [
+     6796864754
+    ],
+    "commontrackSpotifyIds": [
+     "3h5T5JypYU7huFiVYhv1dr"
+    ],
+    "coverImage": "https://s.mxmcdn.net/images-storage/albums2/7/0/9/5/7/4/121475907_350_350.jpg",
+    "coverImageHD": "https://s.mxmcdn.net/images-storage/albums2/7/0/9/5/7/4/121475907_500_500.jpg",
+    "hasLyrics": true,
+    "hasPreReleaseRestricted": false,
+    "hasSync": true,
+    "hasTrackStructure": true,
+    "id": 458121648,
+    "isExplicit": false,
+    "isInstrumental": false,
+    "isPreRelease": false,
+    "lastEditDate": "2026-09-15T02:35:56Z",
+    "lyricsSnippet": "Suena tu canción y tú no estás aquí a mi lao",
+    "name": "BbY WOW",
+    "releaseDate": "2026-08-07T00:00:00Z",
+    "spotifyId": "3h5T5JypYU7huFiVYhv1dr",
+    "vanityId": "KAROL-G-Judeline-rusowsky/BbY-WOW"
+   },
+   {
+    "albumId": 63627174,
+    "albumName": "Sweet Boy",
+    "albumVanityId": "Malcolm-Todd/Sweet-Boy",
+    "artistId": 53491740,
+    "artistName": "Malcolm Todd",
+    "artists": [
+     {
+      "aliases": [],
+      "bandsintownUrl": "https://www.bandsintown.com/a/15531265?came_from=267&app_id=7559e17e1f14e047556d08f47c08faf8",
+      "externalIds": {
+       "itunes": [
+        "1624326848"
+       ],
+       "spotify": [
+        "7eKkW1zo5uzW8kUntiiBvz"
+       ]
+      },
+      "genres": [],
+      "id": 53491740,
+      "isFeaturingArtist": false,
+      "isVerified": true,
+      "name": "Malcolm Todd",
+      "rating": 56,
+      "vanityId": "Malcolm-Todd"
+     }
+    ],
+    "commonTrackId": 175121400,
+    "commontrackItunesIds": [
+     6803300849,
+     6789674666,
+     1738257931
+    ],
+    "commontrackSpotifyIds": [
+     "0eAuGrXyGFYwur9ARUe7LJ"
+    ],
+    "coverImage": "https://s.mxmcdn.net/images-storage/albums2/2/9/9/7/4/7/74747992_350_350.jpg",
+    "coverImageHD": "https://s.mxmcdn.net/images-storage/albums2/2/9/9/7/4/7/74747992_500_500.jpg",
+    "hasLyrics": true,
+    "hasPreReleaseRestricted": false,
+    "hasSync": true,
+    "hasTrackStructure": true,
+    "id": 282423374,
+    "isExplicit": false,
+    "isInstrumental": false,
+    "isPreRelease": false,
+    "lastEditDate": "2026-09-10T01:09:12Z",
+    "lyricsSnippet": "Extra, extra read all about it",
+    "name": "Earrings",
+    "releaseDate": "1999-01-01T00:00:00Z",
+    "spotifyId": "0eAuGrXyGFYwur9ARUe7LJ",
+    "vanityId": "Malcolm-Todd/Earrings"
+   },
+   {
+    "albumId": 109402710,
+    "albumName": "PRIMA",
+    "albumVanityId": "ADÉLA-23/PRIMA",
+    "artistId": 61768745,
+    "artistName": "ADÉLA",
+    "artists": [
+     {
+      "aliases": [],
+      "bandsintownUrl": "https://www.bandsintown.com/a/15618866?came_from=267&app_id=7559e17e1f14e047556d08f47c08faf8",
+      "externalIds": {
+       "itunes": [
+        "1765924916"
+       ],
+       "spotify": [
+        "2qanRMyA5bNuTvz1dK45OP"
+       ]
+      },
+      "genres": [],
+      "id": 61768745,
+      "isFeaturingArtist": false,
+      "isVerified": true,
+      "name": "ADÉLA",
+      "rating": 60,
+      "vanityId": "ADÉLA-23"
+     }
+    ],
+    "commonTrackId": 282585237,
+    "commontrackItunesIds": [
+     6802430887,
+     6792884101
+    ],
+    "commontrackSpotifyIds": [
+     "6U9VpmP3dEinuezxCJ2Zg9",
+     "02HyFYmpzt02VJ8k0CqxKj",
+     "2N9Ph3q44rrDoGzG0fWVxL"
+    ],
+    "coverImage": "https://s.mxmcdn.net/images-storage/albums2/8/2/6/8/1/5/120518628_350_350.jpg",
+    "coverImageHD": "https://s.mxmcdn.net/images-storage/albums2/8/2/6/8/1/5/120518628_500_500.jpg",
+    "hasLyrics": true,
+    "hasPreReleaseRestricted": false,
+    "hasSync": true,
+    "hasTrackStructure": true,
+    "id": 455748142,
+    "isExplicit": true,
+    "isInstrumental": false,
+    "isPreRelease": false,
+    "lastEditDate": "2026-09-14T01:09:45Z",
+    "lyricsSnippet": "Uh, back it up, subwoofers in the trunk",
+    "name": "Ain't In LA",
+    "releaseDate": "2026-07-23T00:00:00Z",
+    "spotifyId": "6U9VpmP3dEinuezxCJ2Zg9",
+    "vanityId": "ADÉLA-81/Ain-t-In-LA"
+   }
+  ]
+ },
+ "topTracksWeeklyGetUS": {
+  "data": [
+   {
+    "albumId": 113377491,
+    "albumName": "RHYNO (from GTAVI: The Album)",
+    "albumVanityId": "Travis-Scott-Grand-Theft-Auto-VI/RHYNO-from-GTAVI-The-Album",
+    "artistId": 97839439,
+    "artistName": "Travis Scott feat. Grand Theft Auto VI",
+    "artists": [
+     {
+      "aliases": [
+       "トラヴィス スコット",
+       "Travi$ Scott",
+       "Travis Scott"
+      ],
+      "bandsintownUrl": "https://www.bandsintown.com/a/14594144?came_from=267&app_id=7559e17e1f14e047556d08f47c08faf8",
+      "externalIds": {
+       "itunes": [
+        "549236696"
+       ],
+       "spotify": [
+        "0Y5tJX1MQlPlqiwlOH1tJY"
+       ]
+      },
+      "genres": [
+       {
+        "id": 18,
+        "name": "Hip Hop/Rap",
+        "vanity_id": "Hip-Hop-Rap"
+       }
+      ],
+      "id": 14382416,
+      "isFeaturingArtist": false,
+      "isVerified": false,
+      "name": "Travis Scott",
+      "rating": 12,
+      "vanityId": "Travis-Scott",
+      "websiteUrl": "https://travisscott.com/"
+     },
+     {
+      "aliases": [],
+      "externalIds": {
+       "itunes": [],
+       "spotify": [
+        "15o7qdDTBzs6xWRUYUtZc1"
+       ]
+      },
+      "genres": [],
+      "id": 63597833,
+      "isFeaturingArtist": false,
+      "isVerified": false,
+      "name": "Grand Theft Auto VI",
+      "rating": 1,
+      "vanityId": "Grand-Theft-Auto-VI"
+     }
+    ],
+    "commonTrackId": 291668804,
+    "commontrackItunesIds": [],
+    "commontrackSpotifyIds": [
+     "2QrLrUqdSg5njDVEqq5QFp"
+    ],
+    "coverImage": "https://s.mxmcdn.net/images-storage/albums5/3/0/3/3/9/4/124493303_350_350.jpg",
+    "coverImageHD": "https://s.mxmcdn.net/images-storage/albums5/3/0/3/3/9/4/124493303_500_500.jpg",
+    "hasLyrics": true,
+    "hasPreReleaseRestricted": false,
+    "hasSync": true,
+    "hasTrackStructure": true,
+    "id": 465568100,
+    "isExplicit": true,
+    "isInstrumental": false,
+    "isPreRelease": false,
+    "lastEditDate": "2026-09-18T12:36:25Z",
+    "lyricsSnippet": "Everybody gettin' loose, everybody gettin' loose",
+    "name": "RHYNO (from GTAVI: The Album)",
+    "releaseDate": "2026-09-17T00:00:00Z",
+    "spotifyId": "2QrLrUqdSg5njDVEqq5QFp",
+    "vanityId": "Travis-Scott-Grand-Theft-Auto-VI/RHYNO-from-GTAVI-The-Album"
+   },
+   {
+    "albumId": 113360212,
+    "albumName": "Bass Persuades",
+    "albumVanityId": "Miley-Cyrus-76/Bass-Persuades",
+    "artistId": 224210,
+    "artistName": "Miley Cyrus",
+    "artists": [
+     {
+      "aliases": [
+       "マイリー・サイラス"
+      ],
+      "bandsintownUrl": "https://www.bandsintown.com/a/1205?came_from=267&app_id=7559e17e1f14e047556d08f47c08faf8",
+      "externalIds": {
+       "itunes": [
+        "137057909"
+       ],
+       "spotify": [
+        "5YGY8feqx7naU7z4HrwZM6"
+       ]
+      },
+      "genres": [
+       {
+        "id": 1133,
+        "name": "Pop/Rock",
+        "vanity_id": "Pop-Pop-Rock"
+       },
+       {
+        "id": 14,
+        "name": "Pop",
+        "vanity_id": "Pop"
+       }
+      ],
+      "id": 224210,
+      "isFeaturingArtist": false,
+      "isVerified": true,
+      "name": "Miley Cyrus",
+      "rating": 42,
+      "twitterUrl": "https://twitter.com/mileycyrus",
+      "vanityId": "Miley-Cyrus",
+      "websiteUrl": "https://www.mileycyrus.com/",
+      "youtubeUrl": "https://www.youtube.com/@MileyCyrusVEVO"
+     }
+    ],
+    "commonTrackId": 289456208,
+    "commontrackItunesIds": [
+     6807197465
+    ],
+    "commontrackSpotifyIds": [
+     "3Ln4JSpTO4Zc7oRinGsp4k"
+    ],
+    "coverImage": "https://s.mxmcdn.net/images-storage/albums5/4/2/0/6/7/4/124476024_350_350.jpg",
+    "coverImageHD": "https://s.mxmcdn.net/images-storage/albums5/4/2/0/6/7/4/124476024_500_500.jpg",
+    "hasLyrics": true,
+    "hasPreReleaseRestricted": false,
+    "hasSync": true,
+    "hasTrackStructure": true,
+    "id": 465509699,
+    "isExplicit": false,
+    "isInstrumental": false,
+    "isPreRelease": false,
+    "lastEditDate": "2026-09-18T14:37:45Z",
+    "lyricsSnippet": "Let's turn the rest of our lives to a holiday",
+    "name": "Let’s Get Married",
+    "releaseDate": "2026-09-18T00:00:00Z",
+    "spotifyId": "3Ln4JSpTO4Zc7oRinGsp4k",
+    "vanityId": "Miley-Cyrus/Let-s-Get-Married"
+   },
+   {
+    "albumId": 113343300,
+    "albumName": "new trick - Single",
+    "albumVanityId": "ROSÉ/new-trick",
+    "artistId": 48262133,
+    "artistName": "ROSÉ",
+    "artists": [
+     {
+      "aliases": [],
+      "bandsintownUrl": "https://www.bandsintown.com/a/7559?came_from=267&app_id=7559e17e1f14e047556d08f47c08faf8",
+      "externalIds": {
+       "itunes": [
+        "1406242696"
+       ],
+       "spotify": [
+        "3eVa5w3URK5duf6eyVDbu9"
+       ]
+      },
+      "genres": [],
+      "id": 48262133,
+      "isFeaturingArtist": false,
+      "isVerified": true,
+      "name": "ROSÉ",
+      "rating": 25,
+      "vanityId": "ROSÉ-79"
+     }
+    ],
+    "commonTrackId": 291583906,
+    "commontrackItunesIds": [
+     6812894907
+    ],
+    "commontrackSpotifyIds": [
+     "5GKBPdWbW4RQtx9VkQ6xKO"
+    ],
+    "coverImage": "https://s.mxmcdn.net/images-storage/albums2/2/1/1/9/5/4/124459112_350_350.jpg",
+    "coverImageHD": "https://s.mxmcdn.net/images-storage/albums2/2/1/1/9/5/4/124459112_500_500.jpg",
+    "hasLyrics": true,
+    "hasPreReleaseRestricted": false,
+    "hasSync": true,
+    "hasTrackStructure": true,
+    "id": 465462170,
+    "isExplicit": true,
+    "isInstrumental": false,
+    "isPreRelease": false,
+    "lastEditDate": "2026-09-18T13:21:19Z",
+    "lyricsSnippet": "(Ah, ah, ah, ah) new trick",
+    "name": "new trick",
+    "releaseDate": "2026-09-17T00:00:00Z",
+    "spotifyId": "5GKBPdWbW4RQtx9VkQ6xKO",
+    "vanityId": "ROSÉ/new-trick"
+   }
+  ]
+ },
+ "topTracksWeeklyGetIT": {
+  "data": [
+   {
+    "albumId": 113392305,
+    "albumName": "TUTTO",
+    "albumVanityId": "Ultimo-1/TUTTO",
+    "artistId": 41888478,
+    "artistName": "Ultimo",
+    "artists": [
+     {
+      "aliases": [],
+      "bandsintownUrl": "https://www.bandsintown.com/a/95151?came_from=267&app_id=7559e17e1f14e047556d08f47c08faf8",
+      "externalIds": {
+       "itunes": [
+        "1198934067"
+       ],
+       "spotify": [
+        "3hN3iJMbbBmqBSAMx5veDa"
+       ]
+      },
+      "genres": [],
+      "id": 41888478,
+      "isFeaturingArtist": false,
+      "isVerified": true,
+      "name": "Ultimo",
+      "rating": 30,
+      "vanityId": "Ultimo-1"
+     }
+    ],
+    "commonTrackId": 291709485,
+    "commontrackItunesIds": [],
+    "commontrackSpotifyIds": [
+     "7sDgC1k4mXTLfjOUxwGM7V"
+    ],
+    "coverImage": "https://s.mxmcdn.net/images-storage/albums5/7/1/1/8/0/5/124508117_350_350.jpg",
+    "coverImageHD": "https://s.mxmcdn.net/images-storage/albums5/7/1/1/8/0/5/124508117_500_500.jpg",
+    "hasLyrics": true,
+    "hasPreReleaseRestricted": false,
+    "hasSync": true,
+    "hasTrackStructure": true,
+    "id": 465614991,
+    "isExplicit": false,
+    "isInstrumental": false,
+    "isPreRelease": false,
+    "lastEditDate": "2026-09-19T01:27:27Z",
+    "lyricsSnippet": "Ma siediti accanto a me",
+    "name": "TUTTO",
+    "releaseDate": "2026-09-18T00:00:00Z",
+    "spotifyId": "7sDgC1k4mXTLfjOUxwGM7V",
+    "vanityId": "Ultimo-1/TUTTO"
+   },
+   {
+    "albumId": 113390545,
+    "albumName": "Paparazzi - Single",
+    "albumVanityId": "Cesare-Cremonini-8/Paparazzi",
+    "artistId": 30414,
+    "artistName": "Cesare Cremonini",
+    "artists": [
+     {
+      "aliases": [],
+      "bandsintownUrl": "https://www.bandsintown.com/a/80109?came_from=267&app_id=7559e17e1f14e047556d08f47c08faf8",
+      "externalIds": {
+       "itunes": [
+        "63075998"
+       ],
+       "spotify": [
+        "396Jr76018oUMR6QBnqT8T"
+       ]
+      },
+      "genres": [
+       {
+        "id": 14,
+        "name": "Pop",
+        "vanity_id": "Pop"
+       }
+      ],
+      "id": 30414,
+      "isFeaturingArtist": false,
+      "isVerified": true,
+      "name": "Cesare Cremonini",
+      "rating": 32,
+      "vanityId": "Cesare-Cremonini",
+      "websiteUrl": "https://www.cesarecremonini.it/"
+     }
+    ],
+    "commonTrackId": 291705118,
+    "commontrackItunesIds": [
+     6810852350
+    ],
+    "commontrackSpotifyIds": [
+     "4a4t8njW5ZcYt2kKvii7bM"
+    ],
+    "coverImage": "https://s.mxmcdn.net/images-storage/albums2/7/5/3/6/0/5/124506357_350_350.jpg",
+    "coverImageHD": "https://s.mxmcdn.net/images-storage/albums2/7/5/3/6/0/5/124506357_500_500.jpg",
+    "hasLyrics": true,
+    "hasPreReleaseRestricted": false,
+    "hasSync": true,
+    "hasTrackStructure": false,
+    "id": 465610183,
+    "isExplicit": false,
+    "isInstrumental": false,
+    "isPreRelease": false,
+    "lastEditDate": "2026-09-19T01:29:23Z",
+    "lyricsSnippet": "Tu credi ai paparazzi, a me non parli più",
+    "name": "Paparazzi",
+    "releaseDate": "2026-09-17T00:00:00Z",
+    "spotifyId": "4a4t8njW5ZcYt2kKvii7bM",
+    "vanityId": "Cesare-Cremonini-8/Paparazzi"
+   },
+   {
+    "albumId": 112400342,
+    "albumName": "Bass Persuades",
+    "albumVanityId": "Miley-Cyrus/Bass-Persuades",
+    "artistId": 224210,
+    "artistName": "Miley Cyrus",
+    "artists": [
+     {
+      "aliases": [
+       "マイリー・サイラス"
+      ],
+      "bandsintownUrl": "https://www.bandsintown.com/a/1205?came_from=267&app_id=7559e17e1f14e047556d08f47c08faf8",
+      "externalIds": {
+       "itunes": [
+        "137057909"
+       ],
+       "spotify": [
+        "5YGY8feqx7naU7z4HrwZM6"
+       ]
+      },
+      "genres": [
+       {
+        "id": 1133,
+        "name": "Pop/Rock",
+        "vanity_id": "Pop-Pop-Rock"
+       },
+       {
+        "id": 14,
+        "name": "Pop",
+        "vanity_id": "Pop"
+       }
+      ],
+      "id": 224210,
+      "isFeaturingArtist": false,
+      "isVerified": true,
+      "name": "Miley Cyrus",
+      "rating": 42,
+      "twitterUrl": "https://twitter.com/mileycyrus",
+      "vanityId": "Miley-Cyrus",
+      "websiteUrl": "https://www.mileycyrus.com/",
+      "youtubeUrl": "https://www.youtube.com/@MileyCyrusVEVO"
+     }
+    ],
+    "commonTrackId": 289456208,
+    "commontrackItunesIds": [
+     6807197465
+    ],
+    "commontrackSpotifyIds": [
+     "3Ln4JSpTO4Zc7oRinGsp4k"
+    ],
+    "coverImage": "https://s.mxmcdn.net/images-storage/albums2/8/9/1/6/1/5/123516198_350_350.jpg",
+    "coverImageHD": "https://s.mxmcdn.net/images-storage/albums2/8/9/1/6/1/5/123516198_500_500.jpg",
+    "hasLyrics": true,
+    "hasPreReleaseRestricted": false,
+    "hasSync": true,
+    "hasTrackStructure": true,
+    "id": 463054189,
+    "isExplicit": false,
+    "isInstrumental": false,
+    "isPreRelease": false,
+    "lastEditDate": "2026-09-18T14:37:45Z",
+    "lyricsSnippet": "Let's turn the rest of our lives to a holiday",
+    "name": "Let’s Get Married",
+    "releaseDate": "2026-09-18T00:00:00Z",
+    "spotifyId": "3Ln4JSpTO4Zc7oRinGsp4k",
+    "vanityId": "Miley-Cyrus/Let-s-Get-Married"
+   }
+  ]
+ },
+ "topAlbums": {
+  "data": [
+   {
+    "artistId": 27123908,
+    "artistName": "IDLES",
+    "coverImage": "https://s.mxmcdn.net/images-storage/albums2/0/6/2/6/9/1/70196260.jpg",
+    "coverImage500x500": "https://s.mxmcdn.net/images-storage/albums2/0/6/2/6/9/1/70196260_500_500.jpg",
+    "externalIds": {
+     "spotify": [
+      "13fXtIpIyvz4D5Ny3TSHym",
+      "6JBHYSMp3KYqiTTjmn26BU",
+      "6U11VNHZAfYY3E9V4oFB2p"
+     ],
+     "itunes": [
+      "1708015501",
+      "1783174952"
+     ],
+     "amazon_music": [],
+     "7digital": [
+      "49142107"
+     ],
+     "pro_pre_release": []
+    },
+    "id": 59075441,
+    "isPreRelease": false,
+    "name": "TANGK",
+    "releaseDate": 1708041600000,
+    "releaseType": "album",
+    "trackCount": 11,
+    "trackList": [],
+    "vanityId": "Idles/Tangk"
+   },
+   {
+    "artistId": 456684,
+    "artistName": "Paloma Faith",
+    "coverImage": "https://s.mxmcdn.net/images-storage/albums2/2/5/6/3/7/0/70073652.jpg",
+    "coverImage500x500": "https://s.mxmcdn.net/images-storage/albums2/2/5/6/3/7/0/70073652_500_500.jpg",
+    "externalIds": {
+     "spotify": [
+      "3TpQfWDRBdDBqn9Edfr8uk"
+     ],
+     "itunes": [
+      "1711191802"
+     ],
+     "amazon_music": [],
+     "7digital": [
+      "37647142"
+     ],
+     "pro_pre_release": []
+    },
+    "id": 58952833,
+    "isPreRelease": false,
+    "name": "The Glorification of Sadness",
+    "releaseDate": 1708041600000,
+    "releaseType": "album",
+    "trackCount": 17,
+    "trackList": [],
+    "vanityId": "Paloma-Faith/The-Glorification-of-Sadness"
+   },
+   {
+    "artistId": 51049836,
+    "artistName": "Post Malone",
+    "coverImage": "https://s.mxmcdn.net/images-storage/albums2/1/2/5/4/8/2/68284521.jpg",
+    "coverImage500x500": "https://s.mxmcdn.net/images-storage/albums2/1/2/5/4/8/2/68284521_500_500.jpg",
+    "externalIds": {
+     "spotify": [
+      "6r1lh7fHMB499vGKtIyJLy"
+     ],
+     "itunes": [
+      "1688021170"
+     ],
+     "amazon_music": [],
+     "7digital": [],
+     "pro_pre_release": []
+    },
+    "id": 57163701,
+    "isPreRelease": false,
+    "name": "AUSTIN",
+    "releaseDate": 1690502400000,
+    "releaseType": "album",
+    "trackCount": 17,
+    "trackList": [],
+    "vanityId": "Post-Malone/AUSTIN-1"
+   }
+  ]
+ },
+ "chartArtistsGet": {
+  "data": [
+   {
+    "aliases": [],
+    "externalIds": {
+     "itunes": [],
+     "spotify": []
+    },
+    "genres": [],
+    "id": 26941672,
+    "isFeaturingArtist": false,
+    "isVerified": false,
+    "name": "R-1 feat. Drino, Poli Luciano, Don D.",
+    "rating": 77,
+    "vanityId": "R-1-feat-Drino-Poli-Luciano-Don-D"
+   },
+   {
+    "aliases": [],
+    "externalIds": {
+     "itunes": [
+      "1481730743"
+     ],
+     "spotify": []
+    },
+    "genres": [],
+    "id": 51689987,
+    "isFeaturingArtist": false,
+    "isVerified": false,
+    "name": "Rich Rowe",
+    "rating": 76,
+    "vanityId": "Rich-Rowe"
+   },
+   {
+    "aliases": [],
+    "externalIds": {
+     "itunes": [],
+     "spotify": []
+    },
+    "genres": [],
+    "id": 35365224,
+    "isFeaturingArtist": false,
+    "isVerified": false,
+    "name": "Sofia Reyes feat. Jason Derulo & De La Ghetto",
+    "rating": 75,
+    "vanityId": "Sofia-Reyes-feat-Jason-Derulo-De-La-Ghetto"
+   }
+  ]
+ },
+ "topVideoTracksGet": {
+  "data": [
+   {
+    "albumId": 66559796,
+    "albumName": "Big Machine #1's, Vol. 4",
+    "albumVanityId": "Various-Artists/Big-Machine-1-s-Volume-4",
+    "artistId": 259675,
+    "artistName": "Taylor Swift",
+    "artists": [
+     {
+      "aliases": [
+       "テイラー・スウィフト",
+       "泰勒·史薇芙特",
+       "Taylor Alison Swift"
+      ],
+      "bandsintownUrl": "https://www.bandsintown.com/a/157?came_from=267&app_id=7559e17e1f14e047556d08f47c08faf8",
+      "externalIds": {
+       "itunes": [
+        "159260351"
+       ],
+       "spotify": [
+        "06HL4z0CvFAxyc27GXpf02"
+       ]
+      },
+      "genres": [
+       {
+        "id": 6,
+        "name": "Country",
+        "vanity_id": "Country"
+       },
+       {
+        "id": 14,
+        "name": "Pop",
+        "vanity_id": "Pop"
+       },
+       {
+        "id": 1042,
+        "name": "Traditional Country",
+        "vanity_id": "Country-Traditional-Country"
+       }
+      ],
+      "id": 259675,
+      "instagramUrl": "https://www.instagram.com/taylorswift",
+      "isFeaturingArtist": false,
+      "isVerified": true,
+      "name": "Taylor Swift",
+      "rating": 19,
+      "tiktokUrl": "https://www.tiktok.com/@taylorswift",
+      "twitterUrl": "https://twitter.com/taylorswift13",
+      "vanityId": "Taylor-Swift",
+      "websiteUrl": "https://www.taylorswift.com",
+      "youtubeUrl": "https://www.youtube.com/@taylorswift"
+     }
+    ],
+    "commonTrackId": 43410232,
+    "commontrackItunesIds": [
+     1477562326,
+     1445882174,
+     1445765740
+    ],
+    "commontrackSpotifyIds": [
+     "2ls70nUDfjzm1lSRDuKxmw",
+     "1vwCXIAjSkUxvn78Cmz84g",
+     "1p80LdxRV74UKvL8gnD7ky"
+    ],
+    "coverImage": "https://s.mxmcdn.net/images-storage/albums2/3/1/6/0/8/6/77680613_350_350.jpg",
+    "coverImageHD": "https://s.mxmcdn.net/images-storage/albums2/3/1/6/0/8/6/77680613_500_500.jpg",
+    "hasLyrics": true,
+    "hasPreReleaseRestricted": false,
+    "hasSync": true,
+    "hasTrackStructure": true,
+    "id": 292884462,
+    "isExplicit": false,
+    "isInstrumental": false,
+    "isPreRelease": false,
+    "lastEditDate": "2025-12-02T06:19:39Z",
+    "name": "Blank Space",
+    "releaseDate": "2014-01-01T00:00:00Z",
+    "spotifyId": "0jjIPthFhpbBNr4my8cePO",
+    "vanityId": "Taylor-Swift/Blank-Space-Karaoke-Version",
+    "lvType": "official",
+    "youtubeEmbed": "https://www.youtube.com/watch?v=gir8BEqAutk"
+   },
+   {
+    "albumId": 104300148,
+    "albumName": "Dangerous Woman (Tenth Anniversary Edition)",
+    "albumVanityId": "Ariana-Grande/Dangerous-Woman-Tenth-Anniversary-Edition-2",
+    "artistId": 13958599,
+    "artistName": "Ariana Grande",
+    "artists": [
+     {
+      "aliases": [
+       "アリアナ グランデ"
+      ],
+      "bandsintownUrl": "https://www.bandsintown.com/a/1120421?came_from=267&app_id=7559e17e1f14e047556d08f47c08faf8",
+      "externalIds": {
+       "itunes": [
+        "412778295"
+       ],
+       "spotify": [
+        "66CXWjxzNUsdJxJ2JdwvnR"
+       ]
+      },
+      "genres": [
+       {
+        "id": 1136,
+        "name": "Contemporary R&B",
+        "vanity_id": "R-B-Soul-Contemporary-R-B"
+       },
+       {
+        "id": 1143,
+        "name": "Soul",
+        "vanity_id": "R-B-Soul-Soul"
+       },
+       {
+        "id": 14,
+        "name": "Pop",
+        "vanity_id": "Pop"
+       }
+      ],
+      "id": 13958599,
+      "instagramUrl": "https://www.instagram.com/arianagrande",
+      "isFeaturingArtist": false,
+      "isVerified": true,
+      "name": "Ariana Grande",
+      "rating": 19,
+      "tiktokUrl": "https://www.tiktok.com/@arianagrande",
+      "vanityId": "Ariana-Grande",
+      "websiteUrl": "https://www.arianagrande.com",
+      "youtubeUrl": "https://www.youtube.com/@arianagrande"
+     }
+    ],
+    "commonTrackId": 57866572,
+    "commontrackItunesIds": [
+     6770601003,
+     1568020292,
+     1567991057
+    ],
+    "commontrackSpotifyIds": [
+     "63y6xWR4gXz7bnUGOk8iI6",
+     "76FZM38RC8XaAjJ77CVTNe",
+     "73u1ip4mDThhjg0I8AmR2V"
+    ],
+    "coverImage": "https://s.mxmcdn.net/images-storage/albums2/0/6/3/6/1/4/115416360_350_350.jpg",
+    "coverImageHD": "https://s.mxmcdn.net/images-storage/albums2/0/6/3/6/1/4/115416360_500_500.jpg",
+    "hasLyrics": true,
+    "hasPreReleaseRestricted": false,
+    "hasSync": true,
+    "hasTrackStructure": true,
+    "id": 441981707,
+    "isExplicit": false,
+    "isInstrumental": false,
+    "isPreRelease": false,
+    "lastEditDate": "2026-07-01T10:41:22Z",
+    "name": "Into You",
+    "releaseDate": "2016-04-01T00:00:00Z",
+    "spotifyId": "63y6xWR4gXz7bnUGOk8iI6",
+    "vanityId": "Ariana-Grande/Into-You",
+    "lvType": "official",
+    "youtubeEmbed": "https://www.youtube.com/watch?v=Q4KZaI_jtKs"
+   },
+   {
+    "albumId": 35380773,
+    "albumName": "thank u, next",
+    "albumVanityId": "Ariana-Grande/thank-u-next-1",
+    "artistId": 13958599,
+    "artistName": "Ariana Grande",
+    "artists": [
+     {
+      "aliases": [
+       "アリアナ グランデ"
+      ],
+      "bandsintownUrl": "https://www.bandsintown.com/a/1120421?came_from=267&app_id=7559e17e1f14e047556d08f47c08faf8",
+      "externalIds": {
+       "itunes": [
+        "412778295"
+       ],
+       "spotify": [
+        "66CXWjxzNUsdJxJ2JdwvnR"
+       ]
+      },
+      "genres": [
+       {
+        "id": 1136,
+        "name": "Contemporary R&B",
+        "vanity_id": "R-B-Soul-Contemporary-R-B"
+       },
+       {
+        "id": 1143,
+        "name": "Soul",
+        "vanity_id": "R-B-Soul-Soul"
+       },
+       {
+        "id": 14,
+        "name": "Pop",
+        "vanity_id": "Pop"
+       }
+      ],
+      "id": 13958599,
+      "instagramUrl": "https://www.instagram.com/arianagrande",
+      "isFeaturingArtist": false,
+      "isVerified": true,
+      "name": "Ariana Grande",
+      "rating": 19,
+      "tiktokUrl": "https://www.tiktok.com/@arianagrande",
+      "vanityId": "Ariana-Grande",
+      "websiteUrl": "https://www.arianagrande.com",
+      "youtubeUrl": "https://www.youtube.com/@arianagrande"
+     }
+    ],
+    "commonTrackId": 101552104,
+    "commontrackItunesIds": [
+     1450334169
+    ],
+    "commontrackSpotifyIds": [
+     "4KBx9DSSbFaumwlEqjX4CP"
+    ],
+    "coverImage": "https://s.mxmcdn.net/images-storage/albums2/9/2/0/0/0/5/46500029_350_350.jpg",
+    "coverImageHD": "https://s.mxmcdn.net/images-storage/albums2/9/2/0/0/0/5/46500029_500_500.jpg",
+    "hasLyrics": true,
+    "hasPreReleaseRestricted": false,
+    "hasSync": true,
+    "hasTrackStructure": true,
+    "id": 185697543,
+    "isExplicit": false,
+    "isInstrumental": false,
+    "isPreRelease": false,
+    "lastEditDate": "2026-09-07T13:19:04Z",
+    "name": "thank u, next",
+    "releaseDate": "2019-02-08T00:00:00Z",
+    "spotifyId": "4KBx9DSSbFaumwlEqjX4CP",
+    "vanityId": "Ariana-Grande/thank-u-next-1",
+    "lvType": "official",
+    "youtubeEmbed": "https://www.youtube.com/watch?v=EEhZAHZQyf4"
+   }
+  ]
+ },
+ "allMxmComTopLyricsVideos": {
+  "data": [
+   {
+    "trackVanityId": "Taylor-Swift/Blank-Space-Taylor-s-Version",
+    "helperTrackName": "Blank Space (Taylor's Version)",
+    "youtubeVideo": "https://www.youtube.com/watch?v=gir8BEqAutk",
+    "commonTrackId": "43410232",
+    "lvType": "official",
+    "createdAt": "2024-11-28T21:04:41+00:00",
+    "__typename": "MxmComLyricsVideoRecord"
+   },
+   {
+    "trackVanityId": "Ariana-Grande/Into-You",
+    "helperTrackName": "Into You",
+    "youtubeVideo": "https://www.youtube.com/watch?v=Q4KZaI_jtKs",
+    "commonTrackId": "57866572",
+    "lvType": "official",
+    "createdAt": "2024-11-28T21:20:47+00:00",
+    "__typename": "MxmComLyricsVideoRecord"
+   },
+   {
+    "trackVanityId": "Ariana-Grande/thank-u-next-1",
+    "helperTrackName": "thank u, next",
+    "youtubeVideo": "https://www.youtube.com/watch?v=EEhZAHZQyf4",
+    "commonTrackId": "101552104",
+    "lvType": "official",
+    "createdAt": "2024-11-28T21:15:53+00:00",
+    "__typename": "MxmComLyricsVideoRecord"
+   }
+  ]
+ },
+ "allMxmComLyricsVideos": {
+  "data": [
+   {
+    "trackVanityId": "The-B4-Band-Fin/Just-For-One-Night",
+    "helperTrackName": "Just For One Night",
+    "youtubeVideo": "https://www.youtube.com/watch?v=GD6SL1-nUGQ",
+    "commonTrackId": "194769575",
+    "lvType": "pro",
+    "createdAt": "2025-01-24T17:12:29+00:00",
+    "__typename": "MxmComLyricsVideoRecord"
+   },
+   {
+    "trackVanityId": "Winner-Boy/Star",
+    "helperTrackName": "Star",
+    "youtubeVideo": "https://www.youtube.com/watch?v=KyKaJ7auaj0",
+    "commonTrackId": "166878483",
+    "lvType": "pro",
+    "createdAt": "2025-01-24T17:16:51+00:00",
+    "__typename": "MxmComLyricsVideoRecord"
+   },
+   {
+    "trackVanityId": "WineSmoke-1/%D0%A5%D0%BE%D0%BB%D0%BE%D0%B4%D0%BD%D0%BE",
+    "helperTrackName": "Холодно",
+    "youtubeVideo": "https://www.youtube.com/watch?v=5zZ8ioxRHjI",
+    "commonTrackId": "167667263",
+    "lvType": "pro",
+    "createdAt": "2025-01-24T17:07:43+00:00",
+    "__typename": "MxmComLyricsVideoRecord"
+   }
+  ]
+ }
+}

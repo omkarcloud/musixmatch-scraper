@@ -1,0 +1,442 @@
+[
+{
+"code": "a5",
+"slug": "assamese-romanized",
+"name": "assamese-romaji"
+},
+{
+"code": "af",
+"slug": "afrikaans",
+"name": "afrikaans"
+},
+{
+"code": "ar",
+"slug": "arab",
+"name": "arabic"
+},
+{
+"code": "as",
+"slug": "assamese",
+"name": "assamese"
+},
+{
+"code": "az",
+"slug": "azerbaijani",
+"name": "azerbaijani"
+},
+{
+"code": "b5",
+"slug": "bengali-romanized",
+"name": "bengali-romaji"
+},
+{
+"code": "bg",
+"slug": "bulgarian",
+"name": "bulgarian"
+},
+{
+"code": "bn",
+"slug": "bengali",
+"name": "bengali"
+},
+{
+"code": "bs",
+"slug": "bosnian",
+"name": "bosnian"
+},
+{
+"code": "cs",
+"slug": "czech",
+"name": "czech"
+},
+{
+"code": "da",
+"slug": "danish",
+"name": "danish"
+},
+{
+"code": "de",
+"slug": "german",
+"name": "german"
+},
+{
+"code": "e2",
+"slug": "greek-romanized",
+"name": "greek-romaji"
+},
+{
+"code": "el",
+"slug": "greek",
+"name": "greek"
+},
+{
+"code": "en",
+"slug": "english",
+"name": "english"
+},
+{
+"code": "es",
+"slug": "spanish",
+"name": "spanish"
+},
+{
+"code": "et",
+"slug": "estonian",
+"name": "estonian"
+},
+{
+"code": "f1",
+"slug": "filipino",
+"name": "filipino"
+},
+{
+"code": "fa",
+"slug": "farsi",
+"name": "persian"
+},
+{
+"code": "fi",
+"slug": "suomi",
+"name": "finnish"
+},
+{
+"code": "fr",
+"slug": "french",
+"name": "french"
+},
+{
+"code": "g2",
+"slug": "gujarati-romanized",
+"name": "gujarati-romaji"
+},
+{
+"code": "gu",
+"slug": "gujarati",
+"name": "gujarati"
+},
+{
+"code": "h3",
+"slug": "hindi-romanized",
+"name": "hindi-romaji"
+},
+{
+"code": "he",
+"slug": "hebrew",
+"name": "hebrew"
+},
+{
+"code": "hi",
+"slug": "hindi",
+"name": "hindi"
+},
+{
+"code": "hr",
+"slug": "croatian",
+"name": "croatian"
+},
+{
+"code": "ht",
+"slug": "haitian-creole",
+"name": "haitian creole"
+},
+{
+"code": "hu",
+"slug": "hungarian",
+"name": "hungarian"
+},
+{
+"code": "hy",
+"slug": "armenian",
+"name": "armenian"
+},
+{
+"code": "id",
+"slug": "bahasa-indonesia",
+"name": "indonesian"
+},
+{
+"code": "is",
+"slug": "icelandic",
+"name": "icelandic"
+},
+{
+"code": "it",
+"slug": "italian",
+"name": "italian"
+},
+{
+"code": "ja",
+"slug": "japanese",
+"name": "japanese"
+},
+{
+"code": "k2",
+"slug": "kannada-romanized",
+"name": "kannada-romaji"
+},
+{
+"code": "ka",
+"slug": "georgian",
+"name": "georgian"
+},
+{
+"code": "kk",
+"slug": "kazakh",
+"name": "kazakh"
+},
+{
+"code": "km",
+"slug": "khmer",
+"name": "khmer, central"
+},
+{
+"code": "kn",
+"slug": "kannada",
+"name": "kannada"
+},
+{
+"code": "ko",
+"slug": "korean",
+"name": "korean"
+},
+{
+"code": "ky",
+"slug": "kirghiz",
+"name": "kirghiz"
+},
+{
+"code": "lo",
+"slug": "lao",
+"name": "lao"
+},
+{
+"code": "lt",
+"slug": "lithuanian",
+"name": "lithuanian"
+},
+{
+"code": "lv",
+"slug": "latvian",
+"name": "latvian"
+},
+{
+"code": "m8",
+"slug": "malayalam-romanized",
+"name": "malayalam-romaji"
+},
+{
+"code": "m9",
+"slug": "marathi-romanized",
+"name": "marathi-romaji"
+},
+{
+"code": "mk",
+"slug": "macedonian",
+"name": "macedonian"
+},
+{
+"code": "ml",
+"slug": "malayalam",
+"name": "malayalam"
+},
+{
+"code": "mn",
+"slug": "mongolian",
+"name": "mongolian"
+},
+{
+"code": "ms",
+"slug": "malay",
+"name": "malay"
+},
+{
+"code": "my",
+"slug": "burmese",
+"name": "burmese"
+},
+{
+"code": "n5",
+"slug": "nepali-romanized",
+"name": "nepali-romaji"
+},
+{
+"code": "ne",
+"slug": "nepali",
+"name": "nepali"
+},
+{
+"code": "nl",
+"slug": "dutch",
+"name": "dutch"
+},
+{
+"code": "no",
+"slug": "norwegian",
+"name": "norwegian"
+},
+{
+"code": "o1",
+"slug": "oriya-romanized",
+"name": "oriya-romaji"
+},
+{
+"code": "or",
+"slug": "odia",
+"name": "oriya"
+},
+{
+"code": "p5",
+"slug": "panjabi-romanized",
+"name": "panjabi-romaji"
+},
+{
+"code": "pa",
+"slug": "panjabi",
+"name": "panjabi"
+},
+{
+"code": "pl",
+"slug": "polish",
+"name": "polish"
+},
+{
+"code": "pt",
+"slug": "portuguese",
+"name": "portuguese"
+},
+{
+"code": "r2",
+"slug": "russian-romanized",
+"name": "russian-romaji"
+},
+{
+"code": "rj",
+"slug": "japanese-romaji",
+"name": "japanese-romaji"
+},
+{
+"code": "rk",
+"slug": "korean-romaji",
+"name": "korean-romaji"
+},
+{
+"code": "ro",
+"slug": "romanian",
+"name": "romanian"
+},
+{
+"code": "ru",
+"slug": "russian",
+"name": "russian"
+},
+{
+"code": "rz",
+"slug": "chinese-romaji",
+"name": "chinese-romaji"
+},
+{
+"code": "s4",
+"slug": "sanskrit-romanized",
+"name": "sanskrit-romaji"
+},
+{
+"code": "si",
+"slug": "sinhala",
+"name": "sinhala"
+},
+{
+"code": "sk",
+"slug": "slovak",
+"name": "slovak"
+},
+{
+"code": "sl",
+"slug": "slovenian",
+"name": "slovenian"
+},
+{
+"code": "sq",
+"slug": "albanian",
+"name": "albanian"
+},
+{
+"code": "sr",
+"slug": "serbian",
+"name": "serbian"
+},
+{
+"code": "sv",
+"slug": "swedish",
+"name": "swedish"
+},
+{
+"code": "t2",
+"slug": "tamil-romanized",
+"name": "tamil-romaji"
+},
+{
+"code": "t3",
+"slug": "telugu-romanized",
+"name": "telugu-romaji"
+},
+{
+"code": "t4",
+"slug": "thai-romaji",
+"name": "thai-romaji"
+},
+{
+"code": "ta",
+"slug": "tamil",
+"name": "tamil"
+},
+{
+"code": "te",
+"slug": "telugu",
+"name": "telugu"
+},
+{
+"code": "th",
+"slug": "thai",
+"name": "thai"
+},
+{
+"code": "tr",
+"slug": "turkish",
+"name": "turkish"
+},
+{
+"code": "u1",
+"slug": "urdu-romaji",
+"name": "urdu-romaji"
+},
+{
+"code": "uk",
+"slug": "ukrainian",
+"name": "ukrainian"
+},
+{
+"code": "ur",
+"slug": "urdu",
+"name": "urdu"
+},
+{
+"code": "uz",
+"slug": "uzbek",
+"name": "uzbek"
+},
+{
+"code": "vi",
+"slug": "vietnamese",
+"name": "vietnamese"
+},
+{
+"code": "z1",
+"slug": "chinese-trad",
+"name": "chinese (traditional)"
+},
+{
+"code": "zh",
+"slug": "chinese",
+"name": "chinese (simplified)"
+}
+]

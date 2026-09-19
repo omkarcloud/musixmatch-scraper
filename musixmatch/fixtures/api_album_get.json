@@ -1,0 +1,39 @@
+{
+ "album": {
+  "album_id": 20908173,
+  "album_mbid": "",
+  "album_name": "Parachutes",
+  "album_rating": 63,
+  "album_track_count": 12,
+  "album_release_date": "2000-07-10",
+  "album_release_type": "Album",
+  "artist_id": 1039,
+  "artist_name": "Coldplay",
+  "primary_genres": {
+   "music_genre_list": []
+  },
+  "secondary_genres": {
+   "music_genre_list": []
+  },
+  "album_pline": "℗ 2000 Parlophone Records Ltd, a Warner Music Group Company",
+  "album_copyright": "© 2000 Parlophone Records Ltd, a Warner Music Group Company",
+  "album_label": "Parlophone UK",
+  "album_vanity_id": "Coldplay/Parachutes",
+  "album_edit_url": "https://www.musixmatch.com/album/Coldplay/Parachutes?utm_source=application&utm_campaign=api&utm_medium=musixmatch-community%3A1409608317702",
+  "restricted": 0,
+  "updated_time": "2026-09-14T13:27:33Z",
+  "external_ids": {
+   "spotify": [
+    "6ZG5lRT77aJ3btmArcykra"
+   ],
+   "itunes": [],
+   "amazon_music": [],
+   "7digital": [],
+   "pro_pre_release": []
+  },
+  "album_coverart_100x100": "https://s.mxmcdn.net/images-storage/albums/5/9/6/5/7/4/11475695.jpg",
+  "album_coverart_350x350": "https://s.mxmcdn.net/images-storage/albums/5/9/6/5/7/4/11475695_350_350.jpg",
+  "album_coverart_500x500": "https://s.mxmcdn.net/images-storage/albums/5/9/6/5/7/4/11475695_500_500.jpg",
+  "album_coverart_800x800": "https://s.mxmcdn.net/images-storage/albums/5/9/6/5/7/4/11475695_800_800.jpg"
+ }
+}

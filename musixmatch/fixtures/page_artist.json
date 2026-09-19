@@ -1,0 +1,136 @@
+{
+ "artistGet": {
+  "data": {
+   "aliases": [
+    "コールドプレイ",
+    "ku wan yue dui",
+    "The Coldplay"
+   ],
+   "bandsintownUrl": "https://www.bandsintown.com/a/99?came_from=267&app_id=7559e17e1f14e047556d08f47c08faf8",
+   "externalIds": {
+    "itunes": [
+     "471744"
+    ],
+    "spotify": [
+     "4gzpq5DPGxSnKTe4SA8HAU"
+    ]
+   },
+   "genres": [
+    {
+     "id": 1133,
+     "name": "Pop/Rock",
+     "vanity_id": "Pop-Pop-Rock"
+    }
+   ],
+   "id": 1039,
+   "image": "https://static.musixmatch.com/images-storage/mxmimages/6/2/26_2.jpg",
+   "imageCopyright": "",
+   "isFeaturingArtist": false,
+   "isVerified": true,
+   "name": "Coldplay",
+   "rating": 32,
+   "twitterUrl": "https://twitter.com/coldplay",
+   "vanityId": "Coldplay",
+   "websiteUrl": "https://www.coldplay.com/",
+   "youtubeUrl": "https://www.youtube.com/@ColdplayVEVO"
+  }
+ },
+ "artistCollaborators": {
+  "data": [
+   {
+    "avatarPicture": null,
+    "displayRoles": [
+     "Composer Lyricist"
+    ],
+    "firstName": "Mikkel",
+    "id": "00bb69fc-4839-4cb2-93fc-55a57affa33b",
+    "lastName": "Eriksen",
+    "name": "Mikkel Storleer",
+    "roles": [
+     {
+      "id": "4",
+      "name": "Composer Lyricist",
+      "verified": false
+     }
+    ],
+    "stageName": "Mikkel S. Eriksen",
+    "vanity": "Mikkel-Storleer"
+   },
+   {
+    "avatarPicture": "https://upload.wikimedia.org/wikipedia/commons/7/72/ColdplayBBC0712214453_%28cropped%29.jpg",
+    "displayRoles": [
+     "Composer Lyricist",
+     "Background Vocals",
+     "Drums"
+    ],
+    "firstName": "William",
+    "id": "1101e679-b42f-44ea-a9bc-ed3fb87a733c",
+    "lastName": "Champion",
+    "name": "William Champion",
+    "roles": [
+     {
+      "id": "4",
+      "name": "Composer Lyricist",
+      "verified": false
+     },
+     {
+      "id": "42",
+      "name": "Background Vocals",
+      "verified": false
+     },
+     {
+      "id": "185",
+      "name": "Drums",
+      "verified": false
+     }
+    ],
+    "stageName": "Will Champion",
+    "vanity": "William-Champion"
+   },
+   {
+    "avatarPicture": "https://upload.wikimedia.org/wikipedia/commons/3/31/Max_Martin.jpg",
+    "displayRoles": [
+     "Composer Lyricist"
+    ],
+    "firstName": "Karl Martin",
+    "id": "001bceb8-5f25-4815-a3a1-8ba0b3c83085",
+    "lastName": "Sandberg",
+    "name": "Martin Sandberg",
+    "roles": [
+     {
+      "id": "4",
+      "name": "Composer Lyricist",
+      "verified": false
+     }
+    ],
+    "stageName": "Max Martin",
+    "vanity": "Martin-Sandberg"
+   }
+  ]
+ },
+ "artistLyricVideos": {
+  "data": [
+   {
+    "trackVanityId": "The-Chainsmokers-feat-Coldplay/Something-Just-Like-This",
+    "helperTrackName": "Something Just Like This",
+    "youtubeVideo": "https://www.youtube.com/watch?v=FM7MFYoylVs",
+    "commonTrackId": "88863615",
+    "lvType": "official",
+    "createdAt": "2024-11-28T21:02:03+00:00",
+    "__typename": "MxmComLyricsVideoRecord"
+   },
+   {
+    "trackVanityId": "Coldplay/My-Universe",
+    "helperTrackName": "My Universe",
+    "youtubeVideo": "https://www.youtube.com/watch?v=bZYPI4mYwhw",
+    "commonTrackId": "129971684",
+    "lvType": "official",
+    "createdAt": "2024-11-28T21:03:49+00:00",
+    "__typename": "MxmComLyricsVideoRecord"
+   }
+  ]
+ },
+ "artistLyricVideosCountGet": {
+  "data": 142
+ }
+}

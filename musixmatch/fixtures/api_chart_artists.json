@@ -1,0 +1,162 @@
+{
+ "artist_list": [
+  {
+   "artist": {
+    "artist_id": 85224127,
+    "artist_fq_id": "mxm:artist:85224127",
+    "artist_mbid": null,
+    "artist_name": "Imael Angel",
+    "artist_name_translation_list": [],
+    "artist_comment": "",
+    "artist_crowd_favourites": 0,
+    "artist_country": "",
+    "artist_alias_list": [],
+    "artist_rating": 48,
+    "primary_genres": {
+     "music_genre_list": []
+    },
+    "secondary_genres": {
+     "music_genre_list": []
+    },
+    "artist_twitter_url": "",
+    "artist_website_url": "",
+    "artist_instagram_url": "",
+    "artist_tiktok_url": "",
+    "artist_facebook_url": "",
+    "artist_bandsintown_url": "",
+    "artist_ticketmaster_url": "",
+    "artist_youtube_url": "",
+    "artist_merchandising_url": "",
+    "artist_tour_url": "",
+    "artist_vanity_id": "Imael-Angel",
+    "artist_edit_url": "https://www.musixmatch.com/artist/Imael-Angel?utm_source=application&utm_campaign=api&utm_medium=musixmatch-community%3A1409608317702",
+    "artist_share_url": "https://www.musixmatch.com/artist/Imael-Angel",
+    "artist_credits": {
+     "artist_list": []
+    },
+    "restricted": 0,
+    "managed": 0,
+    "updated_time": "2026-04-08T03:01:32Z",
+    "external_ids": {
+     "itunes": [
+      "1890366317"
+     ]
+    },
+    "begin_date_year": "",
+    "begin_date": "0000-00-00",
+    "end_date_year": "",
+    "end_date": "0000-00-00"
+   }
+  },
+  {
+   "artist": {
+    "artist_id": 51232259,
+    "artist_fq_id": "mxm:artist:51232259",
+    "artist_mbid": null,
+    "artist_name": "sombr",
+    "artist_name_translation_list": [],
+    "artist_comment": "",
+    "artist_crowd_favourites": 138,
+    "artist_country": "",
+    "artist_alias_list": [],
+    "artist_rating": 31,
+    "primary_genres": {
+     "music_genre_list": []
+    },
+    "secondary_genres": {
+     "music_genre_list": []
+    },
+    "artist_twitter_url": "",
+    "artist_website_url": "",
+    "artist_instagram_url": "",
+    "artist_tiktok_url": "",
+    "artist_facebook_url": "",
+    "artist_bandsintown_url": "https://www.bandsintown.com/a/15560450?came_from=267&app_id=7559e17e1f14e047556d08f47c08faf8",
+    "artist_ticketmaster_url": "",
+    "artist_youtube_url": "",
+    "artist_merchandising_url": "",
+    "artist_tour_url": "",
+    "artist_vanity_id": "sombr-1",
+    "artist_edit_url": "https://www.musixmatch.com/artist/sombr-1?utm_source=application&utm_campaign=api&utm_medium=musixmatch-community%3A1409608317702",
+    "artist_share_url": "https://www.musixmatch.com/artist/sombr-1",
+    "artist_credits": {
+     "artist_list": []
+    },
+    "restricted": 0,
+    "managed": 1,
+    "updated_time": "2021-10-22T12:13:51Z",
+    "external_ids": {
+     "spotify": [
+      "4G9NDjRyZFDlJKMRL8hx3S"
+     ],
+     "itunes": [
+      "1589842503"
+     ],
+     "7digital": [
+      "7823470"
+     ]
+    },
+    "begin_date_year": "",
+    "begin_date": "0000-00-00",
+    "end_date_year": "",
+    "end_date": "0000-00-00"
+   }
+  },
+  {
+   "artist": {
+    "artist_id": 49514105,
+    "artist_fq_id": "mxm:artist:49514105",
+    "artist_mbid": null,
+    "artist_name": "Alex Warren",
+    "artist_name_translation_list": [],
+    "artist_comment": "",
+    "artist_crowd_favourites": 138,
+    "artist_country": "",
+    "artist_alias_list": [],
+    "artist_rating": 50,
+    "primary_genres": {
+     "music_genre_list": []
+    },
+    "secondary_genres": {
+     "music_genre_list": []
+    },
+    "artist_twitter_url": "",
+    "artist_website_url": "",
+    "artist_instagram_url": "",
+    "artist_tiktok_url": "",
+    "artist_facebook_url": "",
+    "artist_bandsintown_url": "https://www.bandsintown.com/a/1019697?came_from=267&app_id=7559e17e1f14e047556d08f47c08faf8",
+    "artist_ticketmaster_url": "",
+    "artist_youtube_url": "",
+    "artist_merchandising_url": "",
+    "artist_tour_url": "",
+    "artist_vanity_id": "Alex-Warren-1",
+    "artist_edit_url": "https://www.musixmatch.com/artist/Alex-Warren-1?utm_source=application&utm_campaign=api&utm_medium=musixmatch-community%3A1409608317702",
+    "artist_share_url": "https://www.musixmatch.com/artist/Alex-Warren-1",
+    "artist_credits": {
+     "artist_list": []
+    },
+    "restricted": 0,
+    "managed": 0,
+    "updated_time": "2021-06-14T03:44:57Z",
+    "external_ids": {
+     "spotify": [
+      "0fTSzq9jAh4c36UVb4V7CB"
+     ],
+     "itunes": [
+      "1572671688"
+     ],
+     "7digital": [
+      "13938223",
+      "19214989",
+      "20547746"
+     ]
+    },
+    "begin_date_year": "",
+    "begin_date": "0000-00-00",
+    "end_date_year": "",
+    "end_date": "0000-00-00"
+   }
+  }
+ ]
+}

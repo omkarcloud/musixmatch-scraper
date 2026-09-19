@@ -1,0 +1,125 @@
+{
+ "professionalProfileGet": {
+  "data": {
+   "aliases": [],
+   "avatarPicture": "https://upload.wikimedia.org/wikipedia/commons/6/68/ChrisMartinManch030623_%28cropped%29.jpg",
+   "biography": "Christopher Anthony John Martin is an English singer, songwriter, musician and philanthropist. He is best known as the lead vocalist, pianist, rhythm guitarist and co-founder of the rock band Coldplay.",
+   "biography_url": "en.wikipedia.org/wiki/Chris_Martin",
+   "country": "United States of America (the)",
+   "coverPicture": null,
+   "displayRoles": [
+    "Lyricist",
+    "Electric Guitar",
+    "Drum Machine"
+   ],
+   "firstName": "",
+   "id": "2132991",
+   "isClaimed": true,
+   "lastName": "",
+   "name": "Chris Martin",
+   "registryId": "2132991",
+   "socials": [
+    {
+     "type": "twitter",
+     "url": "twitter.com/coldplay",
+     "__typename": "SocialLink"
+    },
+    {
+     "type": "instagram",
+     "url": "www.instagram.com/coldplay",
+     "__typename": "SocialLink"
+    },
+    {
+     "type": "facebook",
+     "url": "www.facebook.com/coldplay",
+     "__typename": "SocialLink"
+    }
+   ],
+   "stageName": "Chris Martin",
+   "vanity": "Chris-Martin-3"
+  }
+ },
+ "professionalCreditsGet": {
+  "data": [
+   {
+    "albumId": "47031772",
+    "albumPictureUrl": "https://s.mxmcdn.net/images-storage/albums5/2/9/5/2/5/1/58152592_350_350.jpg",
+    "albumTitle": "My Universe",
+    "artistId": "50986488",
+    "artistName": "Coldplay feat. BTS",
+    "artistVanity": "Coldplay-BTS",
+    "displayRoles": [
+     "Composer Lyricist"
+    ],
+    "roles": [
+     {
+      "id": "4",
+      "name": "Composer Lyricist",
+      "verified": false
+     }
+    ],
+    "trackId": "133582254",
+    "trackTitle": "My Universe"
+   },
+   {
+    "albumId": "72644890",
+    "albumPictureUrl": "https://s.mxmcdn.net/images-storage/albums5/7/0/7/5/6/7/83765707_350_350.jpg",
+    "albumTitle": "Hip-Hop das Antigas - de 2000 até 2010",
+    "artistId": "14382416",
+    "artistName": "Travis Scott",
+    "artistVanity": "Travis-Scott",
+    "displayRoles": [
+     "Composer"
+    ],
+    "roles": [
+     {
+      "id": "3",
+      "name": "Composer",
+      "verified": false
+     }
+    ],
+    "trackId": "85958063",
+    "trackTitle": "SICKO MODE"
+   },
+   {
+    "albumId": "26413206",
+    "albumPictureUrl": "https://s.mxmcdn.net/images-storage/albums4/4/1/2/6/8/5/37586214_350_350.jpg",
+    "albumTitle": "Acoustic Lounge: Coldplay Hits In Relax Mode",
+    "artistId": "33685584",
+    "artistName": "Instrumental Chillout Lounge Music Club",
+    "artistVanity": "Instrumental-Chillout-Lounge-Music-Club",
+    "displayRoles": [
+     "Composer Lyricist"
+    ],
+    "roles": [
+     {
+      "id": "4",
+      "name": "Composer Lyricist",
+      "verified": false
+     }
+    ],
+    "trackId": "73485508",
+    "trackTitle": "Fix You"
+   }
+  ]
+ },
+ "professionalArtistsGet": {
+  "data": [
+   {
+    "id": 1039,
+    "label": "Coldplay",
+    "vanityId": "Coldplay"
+   },
+   {
+    "id": 28862714,
+    "label": "Chris Martin",
+    "vanityId": "Chris-Martin-13"
+   },
+   {
+    "id": 10854,
+    "label": "Gang Starr",
+    "vanityId": "Gang-Starr"
+   }
+  ]
+ }
+}

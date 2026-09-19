@@ -1,0 +1,11 @@
+services:
+  musixmatch-scraper:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      # Optional — AWS WAF allows ~100 requests / 5 min per IP. For volume,
+      # set a rotating residential proxy:
+      # - MUSIXMATCH_PROXY=http://user:pass@host:port

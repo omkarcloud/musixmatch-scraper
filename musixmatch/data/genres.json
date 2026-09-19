@@ -1,0 +1,2536 @@
+[
+{
+"id": 34,
+"parent_id": 0,
+"name": "Music",
+"full_name": "Music",
+"vanity_id": "Music"
+},
+{
+"id": 1007,
+"parent_id": 2,
+"name": "Chicago Blues",
+"full_name": "Blues / Chicago Blues",
+"vanity_id": "Blues-Chicago-Blues"
+},
+{
+"id": 1009,
+"parent_id": 2,
+"name": "Classic Blues",
+"full_name": "Blues / Classic Blues",
+"vanity_id": "Blues-Classic-Blues"
+},
+{
+"id": 1010,
+"parent_id": 2,
+"name": "Contemporary Blues",
+"full_name": "Blues / Contemporary Blues",
+"vanity_id": "Blues-Contemporary-Blues"
+},
+{
+"id": 1011,
+"parent_id": 2,
+"name": "Country Blues",
+"full_name": "Blues / Country Blues",
+"vanity_id": "Blues-Country-Blues"
+},
+{
+"id": 1012,
+"parent_id": 2,
+"name": "Delta Blues",
+"full_name": "Blues / Delta Blues",
+"vanity_id": "Blues-Delta-Blues"
+},
+{
+"id": 1013,
+"parent_id": 2,
+"name": "Electric Blues",
+"full_name": "Blues / Electric Blues",
+"vanity_id": "Blues-Electric-Blues"
+},
+{
+"id": 1210,
+"parent_id": 2,
+"name": "Acoustic Blues",
+"full_name": "Blues / Acoustic Blues",
+"vanity_id": "Blues-Acoustic-Blues"
+},
+{
+"id": 1167,
+"parent_id": 3,
+"name": "Novelty",
+"full_name": "Comedy / Novelty",
+"vanity_id": "Comedy-Novelty"
+},
+{
+"id": 1171,
+"parent_id": 3,
+"name": "Standup Comedy",
+"full_name": "Comedy / Standup Comedy",
+"vanity_id": "Comedy-Standup-Comedy"
+},
+{
+"id": 1014,
+"parent_id": 4,
+"name": "Lullabies",
+"full_name": "Children's Music / Lullabies",
+"vanity_id": "Children's-Music-Lullabies"
+},
+{
+"id": 1015,
+"parent_id": 4,
+"name": "Sing-Along",
+"full_name": "Children's Music / Sing-Along",
+"vanity_id": "Children's-Music-Sing-Along"
+},
+{
+"id": 1016,
+"parent_id": 4,
+"name": "Stories",
+"full_name": "Children's Music / Stories",
+"vanity_id": "Children's-Music-Stories"
+},
+{
+"id": 1017,
+"parent_id": 5,
+"name": "Avant-Garde",
+"full_name": "Classical / Avant-Garde",
+"vanity_id": "Classical-Avant-Garde"
+},
+{
+"id": 1018,
+"parent_id": 5,
+"name": "Baroque Era",
+"full_name": "Classical / Baroque Era",
+"vanity_id": "Classical-Baroque-Era"
+},
+{
+"id": 1019,
+"parent_id": 5,
+"name": "Chamber Music",
+"full_name": "Classical / Chamber Music",
+"vanity_id": "Classical-Chamber-Music"
+},
+{
+"id": 1020,
+"parent_id": 5,
+"name": "Chant",
+"full_name": "Classical / Chant",
+"vanity_id": "Classical-Chant"
+},
+{
+"id": 1021,
+"parent_id": 5,
+"name": "Choral",
+"full_name": "Classical / Choral",
+"vanity_id": "Classical-Choral"
+},
+{
+"id": 1022,
+"parent_id": 5,
+"name": "Classical Crossover",
+"full_name": "Classical / Classical Crossover",
+"vanity_id": "Classical-Classical-Crossover"
+},
+{
+"id": 1023,
+"parent_id": 5,
+"name": "Early Music",
+"full_name": "Classical / Early Music",
+"vanity_id": "Classical-Early-Music"
+},
+{
+"id": 1024,
+"parent_id": 5,
+"name": "Impressionist",
+"full_name": "Classical / Impressionist",
+"vanity_id": "Classical-Impressionist"
+},
+{
+"id": 1025,
+"parent_id": 5,
+"name": "Medieval Era",
+"full_name": "Classical / Medieval Era",
+"vanity_id": "Classical-Medieval-Era"
+},
+{
+"id": 1026,
+"parent_id": 5,
+"name": "Minimalism",
+"full_name": "Classical / Minimalism",
+"vanity_id": "Classical-Minimalism"
+},
+{
+"id": 1027,
+"parent_id": 5,
+"name": "Modern Era",
+"full_name": "Classical / Modern Era",
+"vanity_id": "Classical-Modern-Era"
+},
+{
+"id": 1028,
+"parent_id": 5,
+"name": "Opera",
+"full_name": "Classical / Opera",
+"vanity_id": "Classical-Opera"
+},
+{
+"id": 1029,
+"parent_id": 5,
+"name": "Orchestral",
+"full_name": "Classical / Orchestral",
+"vanity_id": "Classical-Orchestral"
+},
+{
+"id": 1030,
+"parent_id": 5,
+"name": "Renaissance",
+"full_name": "Classical / Renaissance",
+"vanity_id": "Classical-Renaissance"
+},
+{
+"id": 1031,
+"parent_id": 5,
+"name": "Romantic Era",
+"full_name": "Classical / Romantic Era",
+"vanity_id": "Classical-Romantic-Era"
+},
+{
+"id": 1032,
+"parent_id": 5,
+"name": "Wedding Music",
+"full_name": "Classical / Wedding Music",
+"vanity_id": "Classical-Wedding-Music"
+},
+{
+"id": 1211,
+"parent_id": 5,
+"name": "Classical Era",
+"full_name": "Classical / Classical Era",
+"vanity_id": "Classical-Classical-Era"
+},
+{
+"id": 100001,
+"parent_id": 5,
+"name": "Art Song",
+"full_name": "Classical / Art Song",
+"vanity_id": "Classical-Art-Song"
+},
+{
+"id": 100002,
+"parent_id": 5,
+"name": "Brass & Woodwinds",
+"full_name": "Classical / Brass & Woodwinds",
+"vanity_id": "Classical-Brass-Woodwinds"
+},
+{
+"id": 100003,
+"parent_id": 5,
+"name": "Solo Instrumental",
+"full_name": "Classical / Solo Instrumental",
+"vanity_id": "Classical-Solo-Instrumental"
+},
+{
+"id": 100004,
+"parent_id": 5,
+"name": "Contemporary Era",
+"full_name": "Classical / Contemporary Era",
+"vanity_id": "Classical-Contemporary-Era"
+},
+{
+"id": 100005,
+"parent_id": 5,
+"name": "Oratorio",
+"full_name": "Classical / Oratorio",
+"vanity_id": "Classical-Oratorio"
+},
+{
+"id": 100006,
+"parent_id": 5,
+"name": "Cantata",
+"full_name": "Classical / Cantata",
+"vanity_id": "Classical-Cantata"
+},
+{
+"id": 100007,
+"parent_id": 5,
+"name": "Electronic",
+"full_name": "Classical / Electronic",
+"vanity_id": "Classic-Electronic"
+},
+{
+"id": 100008,
+"parent_id": 5,
+"name": "Sacred",
+"full_name": "Classical / Sacred",
+"vanity_id": "Classical-Sacred"
+},
+{
+"id": 100009,
+"parent_id": 5,
+"name": "Guitar",
+"full_name": "Classical / Guitar",
+"vanity_id": "Classical-Guitar"
+},
+{
+"id": 100010,
+"parent_id": 5,
+"name": "Piano",
+"full_name": "Classical / Piano",
+"vanity_id": "Classical-Piano"
+},
+{
+"id": 100011,
+"parent_id": 5,
+"name": "Violin",
+"full_name": "Classical / Violin",
+"vanity_id": "Classical-Violin"
+},
+{
+"id": 100012,
+"parent_id": 5,
+"name": "Cello",
+"full_name": "Classical / Cello",
+"vanity_id": "Classical-Cello"
+},
+{
+"id": 100013,
+"parent_id": 5,
+"name": "Percussion",
+"full_name": "Classical / Percussion",
+"vanity_id": "Classical-Percussion"
+},
+{
+"id": 1033,
+"parent_id": 6,
+"name": "Alternative Country",
+"full_name": "Country / Alternative Country",
+"vanity_id": "Country-Alternative-Country"
+},
+{
+"id": 1034,
+"parent_id": 6,
+"name": "Americana",
+"full_name": "Country / Americana",
+"vanity_id": "Country-Americana"
+},
+{
+"id": 1035,
+"parent_id": 6,
+"name": "Bluegrass",
+"full_name": "Country / Bluegrass",
+"vanity_id": "Country-Bluegrass"
+},
+{
+"id": 1036,
+"parent_id": 6,
+"name": "Contemporary Bluegrass",
+"full_name": "Country / Contemporary Bluegrass",
+"vanity_id": "Country-Contemporary-Bluegrass"
+},
+{
+"id": 1037,
+"parent_id": 6,
+"name": "Contemporary Country",
+"full_name": "Country / Contemporary Country",
+"vanity_id": "Country-Contemporary-Country"
+},
+{
+"id": 1038,
+"parent_id": 6,
+"name": "Country Gospel",
+"full_name": "Country / Country Gospel",
+"vanity_id": "Country-Country-Gospel"
+},
+{
+"id": 1039,
+"parent_id": 6,
+"name": "Honky Tonk",
+"full_name": "Country / Honky Tonk",
+"vanity_id": "Country-Honky-Tonk"
+},
+{
+"id": 1040,
+"parent_id": 6,
+"name": "Outlaw Country",
+"full_name": "Country / Outlaw Country",
+"vanity_id": "Country-Outlaw-Country"
+},
+{
+"id": 1041,
+"parent_id": 6,
+"name": "Traditional Bluegrass",
+"full_name": "Country / Traditional Bluegrass",
+"vanity_id": "Country-Traditional-Bluegrass"
+},
+{
+"id": 1042,
+"parent_id": 6,
+"name": "Traditional Country",
+"full_name": "Country / Traditional Country",
+"vanity_id": "Country-Traditional-Country"
+},
+{
+"id": 1043,
+"parent_id": 6,
+"name": "Urban Cowboy",
+"full_name": "Country / Urban Cowboy",
+"vanity_id": "Country-Urban-Cowboy"
+},
+{
+"id": 1294,
+"parent_id": 6,
+"name": "Thai Country",
+"full_name": "Country / Thai Country",
+"vanity_id": "Country-Thai-Country"
+},
+{
+"id": 1056,
+"parent_id": 7,
+"name": "Ambient",
+"full_name": "Electronic / Ambient",
+"vanity_id": "Electronic-Ambient"
+},
+{
+"id": 1057,
+"parent_id": 7,
+"name": "Downtempo",
+"full_name": "Electronic / Downtempo",
+"vanity_id": "Electronic-Downtempo"
+},
+{
+"id": 1058,
+"parent_id": 7,
+"name": "Electronica",
+"full_name": "Electronic / Electronica",
+"vanity_id": "Electronic-Electronica"
+},
+{
+"id": 1060,
+"parent_id": 7,
+"name": "IDM/Experimental",
+"full_name": "Electronic / IDM/Experimental",
+"vanity_id": "Electronic-IDM-Experimental"
+},
+{
+"id": 1061,
+"parent_id": 7,
+"name": "Industrial",
+"full_name": "Electronic / Industrial",
+"vanity_id": "Electronic-Industrial"
+},
+{
+"id": 100014,
+"parent_id": 7,
+"name": "Dubstep",
+"full_name": "Electronic / Dubstep",
+"vanity_id": "Electronic-Dubstep"
+},
+{
+"id": 100015,
+"parent_id": 7,
+"name": "Bass",
+"full_name": "Electronic / Bass",
+"vanity_id": "Electronic-Bass"
+},
+{
+"id": 1079,
+"parent_id": 8,
+"name": "Chanukah",
+"full_name": "Holiday / Chanukah",
+"vanity_id": "Holiday-Chanukah"
+},
+{
+"id": 1080,
+"parent_id": 8,
+"name": "Christmas",
+"full_name": "Holiday / Christmas",
+"vanity_id": "Holiday-Christmas"
+},
+{
+"id": 1081,
+"parent_id": 8,
+"name": "Christmas: Children's",
+"full_name": "Holiday / Christmas: Children's",
+"vanity_id": "Holiday-Christmas:-Children's"
+},
+{
+"id": 1082,
+"parent_id": 8,
+"name": "Christmas: Classic",
+"full_name": "Holiday / Christmas: Classic",
+"vanity_id": "Holiday-Christmas:-Classic"
+},
+{
+"id": 1083,
+"parent_id": 8,
+"name": "Christmas: Classical",
+"full_name": "Holiday / Christmas: Classical",
+"vanity_id": "Holiday-Christmas:-Classical"
+},
+{
+"id": 1084,
+"parent_id": 8,
+"name": "Christmas: Jazz",
+"full_name": "Holiday / Christmas: Jazz",
+"vanity_id": "Holiday-Christmas:-Jazz"
+},
+{
+"id": 1085,
+"parent_id": 8,
+"name": "Christmas: Modern",
+"full_name": "Holiday / Christmas: Modern",
+"vanity_id": "Holiday-Christmas:-Modern"
+},
+{
+"id": 1086,
+"parent_id": 8,
+"name": "Christmas: Pop",
+"full_name": "Holiday / Christmas: Pop",
+"vanity_id": "Holiday-Christmas:-Pop"
+},
+{
+"id": 1087,
+"parent_id": 8,
+"name": "Christmas: R&B",
+"full_name": "Holiday / Christmas: R&B",
+"vanity_id": "Holiday-Christmas:-R-B"
+},
+{
+"id": 1088,
+"parent_id": 8,
+"name": "Christmas: Religious",
+"full_name": "Holiday / Christmas: Religious",
+"vanity_id": "Holiday-Christmas:-Religious"
+},
+{
+"id": 1089,
+"parent_id": 8,
+"name": "Christmas: Rock",
+"full_name": "Holiday / Christmas: Rock",
+"vanity_id": "Holiday-Christmas:-Rock"
+},
+{
+"id": 1090,
+"parent_id": 8,
+"name": "Easter",
+"full_name": "Holiday / Easter",
+"vanity_id": "Holiday-Easter"
+},
+{
+"id": 1091,
+"parent_id": 8,
+"name": "Halloween",
+"full_name": "Holiday / Halloween",
+"vanity_id": "Holiday-Halloween"
+},
+{
+"id": 1092,
+"parent_id": 8,
+"name": "Holiday: Other",
+"full_name": "Holiday / Holiday: Other",
+"vanity_id": "Holiday-Holiday:-Other"
+},
+{
+"id": 1093,
+"parent_id": 8,
+"name": "Thanksgiving",
+"full_name": "Holiday / Thanksgiving",
+"vanity_id": "Holiday-Thanksgiving"
+},
+{
+"id": 1062,
+"parent_id": 10,
+"name": "Alternative Folk",
+"full_name": "Singer/Songwriter / Alternative Folk",
+"vanity_id": "Singer-Songwriter-Alternative-Folk"
+},
+{
+"id": 1063,
+"parent_id": 10,
+"name": "Contemporary Folk",
+"full_name": "Singer/Songwriter / Contemporary Folk",
+"vanity_id": "Singer-Songwriter-Contemporary-Folk"
+},
+{
+"id": 1064,
+"parent_id": 10,
+"name": "Contemporary Singer/Songwriter",
+"full_name": "Singer/Songwriter / Contemporary Singer/Songwriter",
+"vanity_id": "Singer-Songwriter-Contemporary-Singer-Songwriter"
+},
+{
+"id": 1065,
+"parent_id": 10,
+"name": "Folk-Rock",
+"full_name": "Singer/Songwriter / Folk-Rock",
+"vanity_id": "Singer-Songwriter-Folk-Rock"
+},
+{
+"id": 1066,
+"parent_id": 10,
+"name": "New Acoustic",
+"full_name": "Singer/Songwriter / New Acoustic",
+"vanity_id": "Singer-Songwriter-New-Acoustic"
+},
+{
+"id": 1067,
+"parent_id": 10,
+"name": "Traditional Folk",
+"full_name": "Singer/Songwriter / Traditional Folk",
+"vanity_id": "Singer-Songwriter-Traditional-Folk"
+},
+{
+"id": 1052,
+"parent_id": 11,
+"name": "Big Band",
+"full_name": "Jazz / Big Band",
+"vanity_id": "Jazz-Big-Band"
+},
+{
+"id": 1053,
+"parent_id": 11,
+"name": "Bebop",
+"full_name": "Jazz / Bebop",
+"vanity_id": "Jazz-Bebop"
+},
+{
+"id": 1106,
+"parent_id": 11,
+"name": "Avant-Garde Jazz",
+"full_name": "Jazz / Avant-Garde Jazz",
+"vanity_id": "Jazz-Avant-Garde-Jazz"
+},
+{
+"id": 1107,
+"parent_id": 11,
+"name": "Contemporary Jazz",
+"full_name": "Jazz / Contemporary Jazz",
+"vanity_id": "Jazz-Contemporary-Jazz"
+},
+{
+"id": 1108,
+"parent_id": 11,
+"name": "Crossover Jazz",
+"full_name": "Jazz / Crossover Jazz",
+"vanity_id": "Jazz-Crossover-Jazz"
+},
+{
+"id": 1109,
+"parent_id": 11,
+"name": "Dixieland",
+"full_name": "Jazz / Dixieland",
+"vanity_id": "Jazz-Dixieland"
+},
+{
+"id": 1110,
+"parent_id": 11,
+"name": "Fusion",
+"full_name": "Jazz / Fusion",
+"vanity_id": "Jazz-Fusion"
+},
+{
+"id": 1111,
+"parent_id": 11,
+"name": "Latin Jazz",
+"full_name": "Jazz / Latin Jazz",
+"vanity_id": "Jazz-Latin-Jazz"
+},
+{
+"id": 1112,
+"parent_id": 11,
+"name": "Mainstream Jazz",
+"full_name": "Jazz / Mainstream Jazz",
+"vanity_id": "Jazz-Mainstream-Jazz"
+},
+{
+"id": 1113,
+"parent_id": 11,
+"name": "Ragtime",
+"full_name": "Jazz / Ragtime",
+"vanity_id": "Jazz-Ragtime"
+},
+{
+"id": 1114,
+"parent_id": 11,
+"name": "Smooth Jazz",
+"full_name": "Jazz / Smooth Jazz",
+"vanity_id": "Jazz-Smooth-Jazz"
+},
+{
+"id": 1175,
+"parent_id": 11,
+"name": "Vocal Jazz",
+"full_name": "Jazz / Vocal Jazz",
+"vanity_id": "Jazz-Vocal-Jazz"
+},
+{
+"id": 1207,
+"parent_id": 11,
+"name": "Hard Bop",
+"full_name": "Jazz / Hard Bop",
+"vanity_id": "Jazz-Hard-Bop"
+},
+{
+"id": 1208,
+"parent_id": 11,
+"name": "Trad Jazz",
+"full_name": "Jazz / Trad Jazz",
+"vanity_id": "Jazz-Trad-Jazz"
+},
+{
+"id": 1209,
+"parent_id": 11,
+"name": "Cool",
+"full_name": "Jazz / Cool Jazz",
+"vanity_id": "Jazz-Cool-Jazz"
+},
+{
+"id": 1292,
+"parent_id": 11,
+"name": "Bebop",
+"full_name": "Jazz / Bebop",
+"vanity_id": null
+},
+{
+"id": 1115,
+"parent_id": 12,
+"name": "Latin Jazz",
+"full_name": "Latin / Latin Jazz",
+"vanity_id": "Latin-Latin-Jazz"
+},
+{
+"id": 1116,
+"parent_id": 12,
+"name": "Contemporary Latin",
+"full_name": "Latin / Contemporary Latin",
+"vanity_id": "Latin-Contemporary-Latin"
+},
+{
+"id": 1117,
+"parent_id": 12,
+"name": "Pop in Spanish",
+"full_name": "Latin / Pop in Spanish",
+"vanity_id": "Latin-Pop-in-Spanish"
+},
+{
+"id": 1118,
+"parent_id": 12,
+"name": "Raices",
+"full_name": "Latin / Raices",
+"vanity_id": "Latin-Raices"
+},
+{
+"id": 1119,
+"parent_id": 12,
+"name": "Latin Urban",
+"full_name": "Latin / Latin Urban",
+"vanity_id": "Latin-Latin-Urban"
+},
+{
+"id": 1120,
+"parent_id": 12,
+"name": "Baladas y Boleros",
+"full_name": "Latin / Baladas y Boleros",
+"vanity_id": "Latin-Baladas-y-Boleros"
+},
+{
+"id": 1121,
+"parent_id": 12,
+"name": "Alternative & Rock in Spanish",
+"full_name": "Latin / Alternative & Rock in Spanish",
+"vanity_id": "Latin-Alternative-Rock-in-Spanish"
+},
+{
+"id": 1123,
+"parent_id": 12,
+"name": "Regional Mexicano",
+"full_name": "Latin / Regional Mexicano",
+"vanity_id": "Latin-Regional-Mexicano"
+},
+{
+"id": 1124,
+"parent_id": 12,
+"name": "Salsa y Tropical",
+"full_name": "Latin / Salsa y Tropical",
+"vanity_id": "Latin-Salsa-y-Tropical"
+},
+{
+"id": 1125,
+"parent_id": 13,
+"name": "Environmental",
+"full_name": "New Age / Environmental",
+"vanity_id": "New-Age-Environmental"
+},
+{
+"id": 1126,
+"parent_id": 13,
+"name": "Healing",
+"full_name": "New Age / Healing",
+"vanity_id": "New-Age-Healing"
+},
+{
+"id": 1127,
+"parent_id": 13,
+"name": "Meditation",
+"full_name": "New Age / Meditation",
+"vanity_id": "New-Age-Meditation"
+},
+{
+"id": 1128,
+"parent_id": 13,
+"name": "Nature",
+"full_name": "New Age / Nature",
+"vanity_id": "New-Age-Nature"
+},
+{
+"id": 1129,
+"parent_id": 13,
+"name": "Relaxation",
+"full_name": "New Age / Relaxation",
+"vanity_id": "New-Age-Relaxation"
+},
+{
+"id": 1130,
+"parent_id": 13,
+"name": "Travel",
+"full_name": "New Age / Travel",
+"vanity_id": "New-Age-Travel"
+},
+{
+"id": 100021,
+"parent_id": 13,
+"name": "Yoga",
+"full_name": "New Age / Yoga",
+"vanity_id": "New-Age-Yoga"
+},
+{
+"id": 1131,
+"parent_id": 14,
+"name": "Adult Contemporary",
+"full_name": "Pop / Adult Contemporary",
+"vanity_id": "Pop-Adult-Contemporary"
+},
+{
+"id": 1132,
+"parent_id": 14,
+"name": "Britpop",
+"full_name": "Pop / Britpop",
+"vanity_id": "Pop-Britpop"
+},
+{
+"id": 1133,
+"parent_id": 14,
+"name": "Pop/Rock",
+"full_name": "Pop / Pop/Rock",
+"vanity_id": "Pop-Pop-Rock"
+},
+{
+"id": 1134,
+"parent_id": 14,
+"name": "Soft Rock",
+"full_name": "Pop / Soft Rock",
+"vanity_id": "Pop-Soft-Rock"
+},
+{
+"id": 1135,
+"parent_id": 14,
+"name": "Teen Pop",
+"full_name": "Pop / Teen Pop",
+"vanity_id": "Pop-Teen-Pop"
+},
+{
+"id": 1250,
+"parent_id": 14,
+"name": "C-Pop",
+"full_name": "Pop / C-Pop",
+"vanity_id": "Pop-C-Pop"
+},
+{
+"id": 1251,
+"parent_id": 14,
+"name": "Cantopop/HK-Pop",
+"full_name": "Pop / Cantopop/HK-Pop",
+"vanity_id": "Pop-Cantopop-HK-Pop"
+},
+{
+"id": 1252,
+"parent_id": 14,
+"name": "Korean Folk-Pop",
+"full_name": "Pop / Korean Folk-Pop",
+"vanity_id": "Pop-Korean-Folk-Pop"
+},
+{
+"id": 1253,
+"parent_id": 14,
+"name": "Mandopop",
+"full_name": "Pop / Mandopop",
+"vanity_id": "Pop-Mandopop"
+},
+{
+"id": 1254,
+"parent_id": 14,
+"name": "Tai-Pop",
+"full_name": "Pop / Tai-Pop",
+"vanity_id": "Pop-Tai-Pop"
+},
+{
+"id": 1255,
+"parent_id": 14,
+"name": "Malaysian Pop",
+"full_name": "Pop / Malaysian Pop",
+"vanity_id": "Pop-Malaysian-Pop"
+},
+{
+"id": 1256,
+"parent_id": 14,
+"name": "Pinoy Pop",
+"full_name": "Pop / Pinoy Pop",
+"vanity_id": "Pop-Pinoy-Pop"
+},
+{
+"id": 1257,
+"parent_id": 14,
+"name": "Original Pilipino Music",
+"full_name": "Pop / Original Pilipino Music",
+"vanity_id": "Pop-Original-Pilipino-Music"
+},
+{
+"id": 1258,
+"parent_id": 14,
+"name": "Manilla Sound",
+"full_name": "Pop / Manilla Sound",
+"vanity_id": "Pop-Manilla-Sound"
+},
+{
+"id": 1259,
+"parent_id": 14,
+"name": "Indo Pop",
+"full_name": "Pop / Indo Pop",
+"vanity_id": "Pop-Indo-Pop"
+},
+{
+"id": 1260,
+"parent_id": 14,
+"name": "Thai Pop",
+"full_name": "Pop / Thai Pop",
+"vanity_id": "Pop-Thai-Pop"
+},
+{
+"id": 1293,
+"parent_id": 14,
+"name": "Oldies",
+"full_name": "Pop / Oldies",
+"vanity_id": "Pop-Oldies"
+},
+{
+"id": 100022,
+"parent_id": 14,
+"name": "Tribute",
+"full_name": "Pop / Tribute",
+"vanity_id": "Pop-Tribute"
+},
+{
+"id": 100023,
+"parent_id": 14,
+"name": "Shows",
+"full_name": "Pop / Shows",
+"vanity_id": "Pop-Shows"
+},
+{
+"id": 1136,
+"parent_id": 15,
+"name": "Contemporary R&B",
+"full_name": "R&B/Soul / Contemporary R&B",
+"vanity_id": "R-B-Soul-Contemporary-R-B"
+},
+{
+"id": 1137,
+"parent_id": 15,
+"name": "Disco",
+"full_name": "R&B/Soul / Disco",
+"vanity_id": "R-B-Soul-Disco"
+},
+{
+"id": 1138,
+"parent_id": 15,
+"name": "Doo Wop",
+"full_name": "R&B/Soul / Doo Wop",
+"vanity_id": "R-B-Soul-Doo-Wop"
+},
+{
+"id": 1139,
+"parent_id": 15,
+"name": "Funk",
+"full_name": "R&B/Soul / Funk",
+"vanity_id": "R-B-Soul-Funk"
+},
+{
+"id": 1140,
+"parent_id": 15,
+"name": "Motown",
+"full_name": "R&B/Soul / Motown",
+"vanity_id": "R-B-Soul-Motown"
+},
+{
+"id": 1141,
+"parent_id": 15,
+"name": "Neo-Soul",
+"full_name": "R&B/Soul / Neo-Soul",
+"vanity_id": "R-B-Soul-Neo-Soul"
+},
+{
+"id": 1142,
+"parent_id": 15,
+"name": "Quiet Storm",
+"full_name": "R&B/Soul / Quiet Storm",
+"vanity_id": "R-B-Soul-Quiet-Storm"
+},
+{
+"id": 1143,
+"parent_id": 15,
+"name": "Soul",
+"full_name": "R&B/Soul / Soul",
+"vanity_id": "R-B-Soul-Soul"
+},
+{
+"id": 1165,
+"parent_id": 16,
+"name": "Foreign Cinema",
+"full_name": "Soundtrack / Foreign Cinema",
+"vanity_id": "Soundtrack-Foreign-Cinema"
+},
+{
+"id": 1166,
+"parent_id": 16,
+"name": "Musicals",
+"full_name": "Soundtrack / Musicals",
+"vanity_id": "Soundtrack-Musicals"
+},
+{
+"id": 1168,
+"parent_id": 16,
+"name": "Original Score",
+"full_name": "Soundtrack / Original Score",
+"vanity_id": "Soundtrack-Original-Score"
+},
+{
+"id": 1169,
+"parent_id": 16,
+"name": "Soundtrack",
+"full_name": "Soundtrack / Soundtrack",
+"vanity_id": "Soundtrack-Soundtrack"
+},
+{
+"id": 1172,
+"parent_id": 16,
+"name": "TV Soundtrack",
+"full_name": "Soundtrack / TV Soundtrack",
+"vanity_id": "Soundtrack-TV-Soundtrack"
+},
+{
+"id": 1288,
+"parent_id": 16,
+"name": "Sound Effects",
+"full_name": "Soundtrack / Sound Effects",
+"vanity_id": "Soundtrack-Sound-Effects"
+},
+{
+"id": 100032,
+"parent_id": 16,
+"name": "Video Games",
+"full_name": "Soundtrack / Video Game",
+"vanity_id": "Soundtrack-Video-Game"
+},
+{
+"id": 1044,
+"parent_id": 17,
+"name": "Breakbeat",
+"full_name": "Dance / Breakbeat",
+"vanity_id": "Dance-Breakbeat"
+},
+{
+"id": 1045,
+"parent_id": 17,
+"name": "Exercise",
+"full_name": "Dance / Exercise",
+"vanity_id": "Dance-Exercise"
+},
+{
+"id": 1046,
+"parent_id": 17,
+"name": "Garage",
+"full_name": "Dance / Garage",
+"vanity_id": "Dance-Garage"
+},
+{
+"id": 1047,
+"parent_id": 17,
+"name": "Hardcore",
+"full_name": "Dance / Hardcore",
+"vanity_id": "Dance-Hardcore"
+},
+{
+"id": 1048,
+"parent_id": 17,
+"name": "House",
+"full_name": "Dance / House",
+"vanity_id": "Dance-House"
+},
+{
+"id": 1049,
+"parent_id": 17,
+"name": "Jungle/Drum'n'bass",
+"full_name": "Dance / Jungle/Drum'n'bass",
+"vanity_id": "Dance-Jungle-Drum'n'bass"
+},
+{
+"id": 1050,
+"parent_id": 17,
+"name": "Techno",
+"full_name": "Dance / Techno",
+"vanity_id": "Dance-Techno"
+},
+{
+"id": 1051,
+"parent_id": 17,
+"name": "Trance",
+"full_name": "Dance / Trance",
+"vanity_id": "Dance-Trance"
+},
+{
+"id": 1068,
+"parent_id": 18,
+"name": "Alternative Rap",
+"full_name": "Hip Hop/Rap / Alternative Rap",
+"vanity_id": "Hip-Hop-Rap-Alternative-Rap"
+},
+{
+"id": 1069,
+"parent_id": 18,
+"name": "Dirty South",
+"full_name": "Hip Hop/Rap / Dirty South",
+"vanity_id": "Hip-Hop-Rap-Dirty-South"
+},
+{
+"id": 1070,
+"parent_id": 18,
+"name": "East Coast Rap",
+"full_name": "Hip Hop/Rap / East Coast Rap",
+"vanity_id": "Hip-Hop-Rap-East-Coast-Rap"
+},
+{
+"id": 1071,
+"parent_id": 18,
+"name": "Gangsta Rap",
+"full_name": "Hip Hop/Rap / Gangsta Rap",
+"vanity_id": "Hip-Hop-Rap-Gangsta-Rap"
+},
+{
+"id": 1072,
+"parent_id": 18,
+"name": "Hardcore Rap",
+"full_name": "Hip Hop/Rap / Hardcore Rap",
+"vanity_id": "Hip-Hop-Rap-Hardcore-Rap"
+},
+{
+"id": 1073,
+"parent_id": 18,
+"name": "Hip-Hop",
+"full_name": "Hip Hop/Rap / Hip-Hop",
+"vanity_id": "Hip-Hop-Rap-Hip-Hop"
+},
+{
+"id": 1074,
+"parent_id": 18,
+"name": "Latin Rap",
+"full_name": "Hip Hop/Rap / Latin Rap",
+"vanity_id": "Hip-Hop-Rap-Latin-Rap"
+},
+{
+"id": 1075,
+"parent_id": 18,
+"name": "Old School Rap",
+"full_name": "Hip Hop/Rap / Old School Rap",
+"vanity_id": "Hip-Hop-Rap-Old-School-Rap"
+},
+{
+"id": 1076,
+"parent_id": 18,
+"name": "Rap",
+"full_name": "Hip Hop/Rap / Rap",
+"vanity_id": "Hip-Hop-Rap-Rap"
+},
+{
+"id": 1077,
+"parent_id": 18,
+"name": "Underground Rap",
+"full_name": "Hip Hop/Rap / Underground Rap",
+"vanity_id": "Hip-Hop-Rap-Underground-Rap"
+},
+{
+"id": 1078,
+"parent_id": 18,
+"name": "West Coast Rap",
+"full_name": "Hip Hop/Rap / West Coast Rap",
+"vanity_id": "Hip-Hop-Rap-West-Coast-Rap"
+},
+{
+"id": 1241,
+"parent_id": 18,
+"name": "Chinese Hip-Hop",
+"full_name": "Hip Hop/Rap / Chinese Hip-Hop",
+"vanity_id": "Hip-Hop-Rap-Chinese-Hip-Hop"
+},
+{
+"id": 1242,
+"parent_id": 18,
+"name": "Korean Hip-Hop",
+"full_name": "Hip Hop/Rap / Korean Hip-Hop",
+"vanity_id": "Hip-Hop-Rap-Korean-Hip-Hop"
+},
+{
+"id": 100016,
+"parent_id": 18,
+"name": "UK Hip Hop",
+"full_name": "Hip Hop/Rap / UK Hip Hop",
+"vanity_id": "Hip-Hop-Rap-UK-Hip-Hop"
+},
+{
+"id": 1177,
+"parent_id": 19,
+"name": "Afro-Beat",
+"full_name": "World / Afro-Beat",
+"vanity_id": "World-Afro-Beat"
+},
+{
+"id": 1178,
+"parent_id": 19,
+"name": "Afro-Pop",
+"full_name": "World / Afro-Pop",
+"vanity_id": "World-Afro-Pop"
+},
+{
+"id": 1179,
+"parent_id": 19,
+"name": "Cajun",
+"full_name": "World / Cajun",
+"vanity_id": "World-Cajun"
+},
+{
+"id": 1180,
+"parent_id": 19,
+"name": "Celtic",
+"full_name": "World / Celtic",
+"vanity_id": "World-Celtic"
+},
+{
+"id": 1181,
+"parent_id": 19,
+"name": "Celtic Folk",
+"full_name": "World / Celtic Folk",
+"vanity_id": "World-Celtic-Folk"
+},
+{
+"id": 1182,
+"parent_id": 19,
+"name": "Contemporary Celtic",
+"full_name": "World / Contemporary Celtic",
+"vanity_id": "World-Contemporary-Celtic"
+},
+{
+"id": 1184,
+"parent_id": 19,
+"name": "Drinking Songs",
+"full_name": "World / Drinking Songs",
+"vanity_id": "World-Drinking-Songs"
+},
+{
+"id": 1186,
+"parent_id": 19,
+"name": "Japanese Pop",
+"full_name": "World / Japanese Pop",
+"vanity_id": "World-Japanese-Pop"
+},
+{
+"id": 1187,
+"parent_id": 19,
+"name": "Klezmer",
+"full_name": "World / Klezmer",
+"vanity_id": "World-Klezmer"
+},
+{
+"id": 1188,
+"parent_id": 19,
+"name": "Polka",
+"full_name": "World / Polka",
+"vanity_id": "World-Polka"
+},
+{
+"id": 1189,
+"parent_id": 19,
+"name": "Traditional Celtic",
+"full_name": "World / Traditional Celtic",
+"vanity_id": "World-Traditional-Celtic"
+},
+{
+"id": 1190,
+"parent_id": 19,
+"name": "Worldbeat",
+"full_name": "World / Worldbeat",
+"vanity_id": "World-Worldbeat"
+},
+{
+"id": 1191,
+"parent_id": 19,
+"name": "Zydeco",
+"full_name": "World / Zydeco",
+"vanity_id": "World-Zydeco"
+},
+{
+"id": 1195,
+"parent_id": 19,
+"name": "Caribbean",
+"full_name": "World / Caribbean",
+"vanity_id": "World-Caribbean"
+},
+{
+"id": 1196,
+"parent_id": 19,
+"name": "South America",
+"full_name": "World / South America",
+"vanity_id": "World-South-America"
+},
+{
+"id": 1198,
+"parent_id": 19,
+"name": "North America",
+"full_name": "World / North America",
+"vanity_id": "World-North-America"
+},
+{
+"id": 1199,
+"parent_id": 19,
+"name": "Hawaii",
+"full_name": "World / Hawaii",
+"vanity_id": "World-Hawaii"
+},
+{
+"id": 1200,
+"parent_id": 19,
+"name": "Australia",
+"full_name": "World / Australia",
+"vanity_id": "World-Australia"
+},
+{
+"id": 1201,
+"parent_id": 19,
+"name": "Japan",
+"full_name": "World / Japan",
+"vanity_id": "World-Japan"
+},
+{
+"id": 1202,
+"parent_id": 19,
+"name": "France",
+"full_name": "World / France",
+"vanity_id": "World-France"
+},
+{
+"id": 1203,
+"parent_id": 19,
+"name": "Africa",
+"full_name": "World / Africa",
+"vanity_id": "World-Africa"
+},
+{
+"id": 1204,
+"parent_id": 19,
+"name": "Asia",
+"full_name": "World / Asia",
+"vanity_id": "World-Asia"
+},
+{
+"id": 1205,
+"parent_id": 19,
+"name": "Europe",
+"full_name": "World / Europe",
+"vanity_id": "World-Europe"
+},
+{
+"id": 1206,
+"parent_id": 19,
+"name": "South Africa",
+"full_name": "World / South Africa",
+"vanity_id": "World-South-Africa"
+},
+{
+"id": 1270,
+"parent_id": 19,
+"name": "Russian Chanson",
+"full_name": "World / Russian Chanson",
+"vanity_id": "World-Russian-Chanson"
+},
+{
+"id": 1271,
+"parent_id": 19,
+"name": "Dini",
+"full_name": "World / Dini",
+"vanity_id": "World-Dini"
+},
+{
+"id": 1272,
+"parent_id": 19,
+"name": "Halk",
+"full_name": "World / Halk",
+"vanity_id": "World-Halk"
+},
+{
+"id": 1273,
+"parent_id": 19,
+"name": "Sanat",
+"full_name": "World / Sanat",
+"vanity_id": "World-Sanat"
+},
+{
+"id": 1274,
+"parent_id": 19,
+"name": "Dangdut",
+"full_name": "World / Dangdut",
+"vanity_id": "World-Dangdut"
+},
+{
+"id": 1275,
+"parent_id": 19,
+"name": "Indonesian Religious",
+"full_name": "World / Indonesian Religious",
+"vanity_id": "World-Indonesian-Religious"
+},
+{
+"id": 1276,
+"parent_id": 19,
+"name": "Calypso",
+"full_name": "World / Calypso",
+"vanity_id": "World-Calypso"
+},
+{
+"id": 1277,
+"parent_id": 19,
+"name": "Soca",
+"full_name": "World / Soca",
+"vanity_id": "World-Soca"
+},
+{
+"id": 1280,
+"parent_id": 19,
+"name": "Arabesque",
+"full_name": "World / Arabesque",
+"vanity_id": "World-Arabesque"
+},
+{
+"id": 1281,
+"parent_id": 19,
+"name": "Afrikaans",
+"full_name": "World / Afrikaans",
+"vanity_id": "World-Afrikaans"
+},
+{
+"id": 1282,
+"parent_id": 19,
+"name": "Farsi",
+"full_name": "World / Farsi",
+"vanity_id": "World-Farsi"
+},
+{
+"id": 1283,
+"parent_id": 19,
+"name": "Israeli",
+"full_name": "World / Israeli",
+"vanity_id": "World-Israeli"
+},
+{
+"id": 1295,
+"parent_id": 19,
+"name": "Flamenco",
+"full_name": "World / Flamenco",
+"vanity_id": "World-Flamenco"
+},
+{
+"id": 1296,
+"parent_id": 19,
+"name": "Tango",
+"full_name": "World / Tango",
+"vanity_id": "World-Tango"
+},
+{
+"id": 1297,
+"parent_id": 19,
+"name": "Fado",
+"full_name": "World / Fado",
+"vanity_id": "World-Fado"
+},
+{
+"id": 1298,
+"parent_id": 19,
+"name": "Iberia",
+"full_name": "World / Iberia",
+"vanity_id": "World-Iberia"
+},
+{
+"id": 1299,
+"parent_id": 19,
+"name": "Russian",
+"full_name": "World / Russian",
+"vanity_id": "World-Russian"
+},
+{
+"id": 1300,
+"parent_id": 19,
+"name": "Turkish",
+"full_name": "World / Turkish",
+"vanity_id": "World-Turkish"
+},
+{
+"id": 1001,
+"parent_id": 20,
+"name": "College Rock",
+"full_name": "Alternative / College Rock",
+"vanity_id": "Alternative-College-Rock"
+},
+{
+"id": 1002,
+"parent_id": 20,
+"name": "Goth Rock",
+"full_name": "Alternative / Goth Rock",
+"vanity_id": "Alternative-Goth-Rock"
+},
+{
+"id": 1003,
+"parent_id": 20,
+"name": "Grunge",
+"full_name": "Alternative / Grunge",
+"vanity_id": "Alternative-Grunge"
+},
+{
+"id": 1004,
+"parent_id": 20,
+"name": "Indie Rock",
+"full_name": "Alternative / Indie Rock",
+"vanity_id": "Alternative-Indie-Rock"
+},
+{
+"id": 1005,
+"parent_id": 20,
+"name": "New Wave",
+"full_name": "Alternative / New Wave",
+"vanity_id": "Alternative-New-Wave"
+},
+{
+"id": 1006,
+"parent_id": 20,
+"name": "Punk",
+"full_name": "Alternative / Punk",
+"vanity_id": "Alternative-Punk"
+},
+{
+"id": 1230,
+"parent_id": 20,
+"name": "Chinese Alt",
+"full_name": "Alternative / Chinese Alt",
+"vanity_id": "Alternative-Chinese-Alt"
+},
+{
+"id": 1231,
+"parent_id": 20,
+"name": "Korean Indie",
+"full_name": "Alternative / Korean Indie",
+"vanity_id": "Alternative-Korean-Indie"
+},
+{
+"id": 100018,
+"parent_id": 20,
+"name": "EMO",
+"full_name": "Alternative / EMO",
+"vanity_id": "Alternative-EMO"
+},
+{
+"id": 100019,
+"parent_id": 20,
+"name": "Pop Punk",
+"full_name": "Alternative / Pop Punk",
+"vanity_id": "Alternative-Pop-Punk"
+},
+{
+"id": 100020,
+"parent_id": 20,
+"name": "Indie Pop",
+"full_name": "Alternative / Indie Pop",
+"vanity_id": "Alternative-Indie-Pop"
+},
+{
+"id": 1144,
+"parent_id": 21,
+"name": "Adult Alternative",
+"full_name": "Rock / Adult Alternative",
+"vanity_id": "Rock-Adult-Alternative"
+},
+{
+"id": 1145,
+"parent_id": 21,
+"name": "American Trad Rock",
+"full_name": "Rock / American Trad Rock",
+"vanity_id": "Rock-American-Trad-Rock"
+},
+{
+"id": 1146,
+"parent_id": 21,
+"name": "Arena Rock",
+"full_name": "Rock / Arena Rock",
+"vanity_id": "Rock-Arena-Rock"
+},
+{
+"id": 1147,
+"parent_id": 21,
+"name": "Blues-Rock",
+"full_name": "Rock / Blues-Rock",
+"vanity_id": "Rock-Blues-Rock"
+},
+{
+"id": 1148,
+"parent_id": 21,
+"name": "British Invasion",
+"full_name": "Rock / British Invasion",
+"vanity_id": "Rock-British-Invasion"
+},
+{
+"id": 1149,
+"parent_id": 21,
+"name": "Death Metal/Black Metal",
+"full_name": "Rock / Death Metal/Black Metal",
+"vanity_id": "Rock-Death-Metal-Black-Metal"
+},
+{
+"id": 1150,
+"parent_id": 21,
+"name": "Glam Rock",
+"full_name": "Rock / Glam Rock",
+"vanity_id": "Rock-Glam-Rock"
+},
+{
+"id": 1151,
+"parent_id": 21,
+"name": "Hair Metal",
+"full_name": "Rock / Hair Metal",
+"vanity_id": "Rock-Hair-Metal"
+},
+{
+"id": 1152,
+"parent_id": 21,
+"name": "Hard Rock",
+"full_name": "Rock / Hard Rock",
+"vanity_id": "Rock-Hard-Rock"
+},
+{
+"id": 1153,
+"parent_id": 21,
+"name": "Heavy Metal",
+"full_name": "Rock / Heavy Metal",
+"vanity_id": "Rock-Heavy-Metal"
+},
+{
+"id": 1154,
+"parent_id": 21,
+"name": "Jam Bands",
+"full_name": "Rock / Jam Bands",
+"vanity_id": "Rock-Jam-Bands"
+},
+{
+"id": 1155,
+"parent_id": 21,
+"name": "Prog-Rock/Art Rock",
+"full_name": "Rock / Prog-Rock/Art Rock",
+"vanity_id": "Rock-Prog-Rock-Art-Rock"
+},
+{
+"id": 1156,
+"parent_id": 21,
+"name": "Psychedelic",
+"full_name": "Rock / Psychedelic",
+"vanity_id": "Rock-Psychedelic"
+},
+{
+"id": 1157,
+"parent_id": 21,
+"name": "Rock & Roll",
+"full_name": "Rock / Rock & Roll",
+"vanity_id": "Rock-Rock-Roll"
+},
+{
+"id": 1158,
+"parent_id": 21,
+"name": "Rockabilly",
+"full_name": "Rock / Rockabilly",
+"vanity_id": "Rock-Rockabilly"
+},
+{
+"id": 1159,
+"parent_id": 21,
+"name": "Roots Rock",
+"full_name": "Rock / Roots Rock",
+"vanity_id": "Rock-Roots-Rock"
+},
+{
+"id": 1160,
+"parent_id": 21,
+"name": "Singer/Songwriter",
+"full_name": "Rock / Singer/Songwriter",
+"vanity_id": "Rock-Singer-Songwriter"
+},
+{
+"id": 1161,
+"parent_id": 21,
+"name": "Southern Rock",
+"full_name": "Rock / Southern Rock",
+"vanity_id": "Rock-Southern-Rock"
+},
+{
+"id": 1162,
+"parent_id": 21,
+"name": "Surf",
+"full_name": "Rock / Surf",
+"vanity_id": "Rock-Surf"
+},
+{
+"id": 1163,
+"parent_id": 21,
+"name": "Tex-Mex",
+"full_name": "Rock / Tex-Mex",
+"vanity_id": "Rock-Tex-Mex"
+},
+{
+"id": 1248,
+"parent_id": 21,
+"name": "Chinese Rock",
+"full_name": "Rock / Chinese Rock",
+"vanity_id": "Rock-Chinese-Rock"
+},
+{
+"id": 1249,
+"parent_id": 21,
+"name": "Korean Rock",
+"full_name": "Rock / Korean Rock",
+"vanity_id": "Rock-Korean-Rock"
+},
+{
+"id": 1094,
+"parent_id": 22,
+"name": "CCM",
+"full_name": "Christian & Gospel / CCM",
+"vanity_id": "Christian-Gospel-CCM"
+},
+{
+"id": 1095,
+"parent_id": 22,
+"name": "Christian Metal",
+"full_name": "Christian & Gospel / Christian Metal",
+"vanity_id": "Christian-Gospel-Christian-Metal"
+},
+{
+"id": 1096,
+"parent_id": 22,
+"name": "Christian Pop",
+"full_name": "Christian & Gospel / Christian Pop",
+"vanity_id": "Christian-Gospel-Christian-Pop"
+},
+{
+"id": 1097,
+"parent_id": 22,
+"name": "Christian Rap",
+"full_name": "Christian & Gospel / Christian Rap",
+"vanity_id": "Christian-Gospel-Christian-Rap"
+},
+{
+"id": 1098,
+"parent_id": 22,
+"name": "Christian Rock",
+"full_name": "Christian & Gospel / Christian Rock",
+"vanity_id": "Christian-Gospel-Christian-Rock"
+},
+{
+"id": 1099,
+"parent_id": 22,
+"name": "Classic Christian",
+"full_name": "Christian & Gospel / Classic Christian",
+"vanity_id": "Christian-Gospel-Classic-Christian"
+},
+{
+"id": 1100,
+"parent_id": 22,
+"name": "Contemporary Gospel",
+"full_name": "Christian & Gospel / Contemporary Gospel",
+"vanity_id": "Christian-Gospel-Contemporary-Gospel"
+},
+{
+"id": 1101,
+"parent_id": 22,
+"name": "Gospel",
+"full_name": "Christian & Gospel / Gospel",
+"vanity_id": "Christian-Gospel-Gospel"
+},
+{
+"id": 1103,
+"parent_id": 22,
+"name": "Praise & Worship",
+"full_name": "Christian & Gospel / Praise & Worship",
+"vanity_id": "Christian-Gospel-Praise-Worship"
+},
+{
+"id": 1104,
+"parent_id": 22,
+"name": "Southern Gospel",
+"full_name": "Christian & Gospel / Southern Gospel",
+"vanity_id": "Christian-Gospel-Southern-Gospel"
+},
+{
+"id": 1105,
+"parent_id": 22,
+"name": "Traditional Gospel",
+"full_name": "Christian & Gospel / Traditional Gospel",
+"vanity_id": "Christian-Gospel-Traditional-Gospel"
+},
+{
+"id": 1173,
+"parent_id": 23,
+"name": "Standards",
+"full_name": "Vocal / Standards",
+"vanity_id": "Vocal-Standards"
+},
+{
+"id": 1174,
+"parent_id": 23,
+"name": "Traditional Pop",
+"full_name": "Vocal / Traditional Pop",
+"vanity_id": "Vocal-Traditional-Pop"
+},
+{
+"id": 1176,
+"parent_id": 23,
+"name": "Vocal Pop",
+"full_name": "Vocal / Vocal Pop",
+"vanity_id": "Vocal-Vocal-Pop"
+},
+{
+"id": 1261,
+"parent_id": 23,
+"name": "Trot",
+"full_name": "Vocal / Trot",
+"vanity_id": "Vocal-Trot"
+},
+{
+"id": 1183,
+"parent_id": 24,
+"name": "Dancehall",
+"full_name": "Reggae / Dancehall",
+"vanity_id": "Reggae-Dancehall"
+},
+{
+"id": 1192,
+"parent_id": 24,
+"name": "Roots Reggae",
+"full_name": "Reggae / Roots Reggae",
+"vanity_id": "Reggae-Roots-Reggae"
+},
+{
+"id": 1193,
+"parent_id": 24,
+"name": "Dub",
+"full_name": "Reggae / Dub",
+"vanity_id": "Reggae-Dub"
+},
+{
+"id": 1194,
+"parent_id": 24,
+"name": "Ska",
+"full_name": "Reggae / Ska",
+"vanity_id": "Reggae-Ska"
+},
+{
+"id": 100017,
+"parent_id": 24,
+"name": "Lovers Rock",
+"full_name": "Reggae / Lovers Rock",
+"vanity_id": "reggae-lovers-rock"
+},
+{
+"id": 1054,
+"parent_id": 25,
+"name": "Lounge",
+"full_name": "Easy Listening / Lounge",
+"vanity_id": "Easy-Listening-Lounge"
+},
+{
+"id": 1055,
+"parent_id": 25,
+"name": "Swing",
+"full_name": "Easy Listening / Swing",
+"vanity_id": "Easy-Listening-Swing"
+},
+{
+"id": 2,
+"parent_id": 34,
+"name": "Blues",
+"full_name": "Blues",
+"vanity_id": "Blues"
+},
+{
+"id": 3,
+"parent_id": 34,
+"name": "Comedy",
+"full_name": "Comedy",
+"vanity_id": "Comedy"
+},
+{
+"id": 4,
+"parent_id": 34,
+"name": "Children's Music",
+"full_name": "Children's Music",
+"vanity_id": "Children's-Music"
+},
+{
+"id": 5,
+"parent_id": 34,
+"name": "Classical",
+"full_name": "Classical",
+"vanity_id": "Classical"
+},
+{
+"id": 6,
+"parent_id": 34,
+"name": "Country",
+"full_name": "Country",
+"vanity_id": "Country"
+},
+{
+"id": 7,
+"parent_id": 34,
+"name": "Electronic",
+"full_name": "Electronic",
+"vanity_id": "Electronic"
+},
+{
+"id": 8,
+"parent_id": 34,
+"name": "Holiday",
+"full_name": "Holiday",
+"vanity_id": "Holiday"
+},
+{
+"id": 9,
+"parent_id": 34,
+"name": "Opera",
+"full_name": "Opera",
+"vanity_id": "Opera"
+},
+{
+"id": 10,
+"parent_id": 34,
+"name": "Singer/Songwriter",
+"full_name": "Singer/Songwriter",
+"vanity_id": "Singer-Songwriter"
+},
+{
+"id": 11,
+"parent_id": 34,
+"name": "Jazz",
+"full_name": "Jazz",
+"vanity_id": "Jazz"
+},
+{
+"id": 12,
+"parent_id": 34,
+"name": "Latin",
+"full_name": "Latin",
+"vanity_id": "Latin"
+},
+{
+"id": 13,
+"parent_id": 34,
+"name": "New Age",
+"full_name": "New Age",
+"vanity_id": "New-Age"
+},
+{
+"id": 14,
+"parent_id": 34,
+"name": "Pop",
+"full_name": "Pop",
+"vanity_id": "Pop"
+},
+{
+"id": 15,
+"parent_id": 34,
+"name": "R&B/Soul",
+"full_name": "R&B/Soul",
+"vanity_id": "R-B-Soul"
+},
+{
+"id": 16,
+"parent_id": 34,
+"name": "Soundtrack",
+"full_name": "Soundtrack",
+"vanity_id": "Soundtrack"
+},
+{
+"id": 17,
+"parent_id": 34,
+"name": "Dance",
+"full_name": "Dance",
+"vanity_id": "Dance"
+},
+{
+"id": 18,
+"parent_id": 34,
+"name": "Hip Hop/Rap",
+"full_name": "Hip-Hop/Rap",
+"vanity_id": "Hip-Hop-Rap"
+},
+{
+"id": 19,
+"parent_id": 34,
+"name": "World",
+"full_name": "World",
+"vanity_id": "World"
+},
+{
+"id": 20,
+"parent_id": 34,
+"name": "Alternative",
+"full_name": "Alternative",
+"vanity_id": "Alternative"
+},
+{
+"id": 21,
+"parent_id": 34,
+"name": "Rock",
+"full_name": "Rock",
+"vanity_id": "Rock"
+},
+{
+"id": 22,
+"parent_id": 34,
+"name": "Christian & Gospel",
+"full_name": "Christian & Gospel",
+"vanity_id": "Christian-Gospel"
+},
+{
+"id": 23,
+"parent_id": 34,
+"name": "Vocal",
+"full_name": "Vocal",
+"vanity_id": "Vocal"
+},
+{
+"id": 24,
+"parent_id": 34,
+"name": "Reggae",
+"full_name": "Reggae",
+"vanity_id": "Reggae"
+},
+{
+"id": 25,
+"parent_id": 34,
+"name": "Easy Listening",
+"full_name": "Easy Listening",
+"vanity_id": "Easy-Listening"
+},
+{
+"id": 27,
+"parent_id": 34,
+"name": "J-Pop",
+"full_name": "J-Pop",
+"vanity_id": "J-Pop"
+},
+{
+"id": 28,
+"parent_id": 34,
+"name": "Enka",
+"full_name": "Enka",
+"vanity_id": "Enka"
+},
+{
+"id": 29,
+"parent_id": 34,
+"name": "Anime",
+"full_name": "Anime",
+"vanity_id": "Anime"
+},
+{
+"id": 30,
+"parent_id": 34,
+"name": "Kayokyoku",
+"full_name": "Kayokyoku",
+"vanity_id": "Kayokyoku"
+},
+{
+"id": 50,
+"parent_id": 34,
+"name": "Fitness & Workout",
+"full_name": "Fitness & Workout",
+"vanity_id": "Fitness-Workout"
+},
+{
+"id": 51,
+"parent_id": 34,
+"name": "K-Pop",
+"full_name": "K-Pop",
+"vanity_id": "K-Pop"
+},
+{
+"id": 52,
+"parent_id": 34,
+"name": "Karaoke",
+"full_name": "Karaoke",
+"vanity_id": "Karaoke"
+},
+{
+"id": 53,
+"parent_id": 34,
+"name": "Instrumental",
+"full_name": "Instrumental",
+"vanity_id": "Instrumental"
+},
+{
+"id": 1122,
+"parent_id": 34,
+"name": "Brazilian",
+"full_name": "Brazilian",
+"vanity_id": "Brazilian"
+},
+{
+"id": 1197,
+"parent_id": 34,
+"name": "Arabic",
+"full_name": "Arabic",
+"vanity_id": "Arabic"
+},
+{
+"id": 1232,
+"parent_id": 34,
+"name": "Chinese",
+"full_name": "Chinese",
+"vanity_id": "Chinese"
+},
+{
+"id": 1243,
+"parent_id": 34,
+"name": "Korean",
+"full_name": "Korean",
+"vanity_id": "Korean"
+},
+{
+"id": 1262,
+"parent_id": 34,
+"name": "Indian",
+"full_name": "Indian",
+"vanity_id": "Indian"
+},
+{
+"id": 1289,
+"parent_id": 34,
+"name": "Folk",
+"full_name": "Folk",
+"vanity_id": "Folk"
+},
+{
+"id": 1290,
+"parent_id": 34,
+"name": "Orchestral",
+"full_name": "Orchestral",
+"vanity_id": "Orchestral"
+},
+{
+"id": 1291,
+"parent_id": 34,
+"name": "Marching Bands",
+"full_name": "Marching Bands",
+"vanity_id": "Marching-Bands"
+},
+{
+"id": 1867,
+"parent_id": 34,
+"name": "Hip-Hop/Rap",
+"full_name": "Hip-Hop/Rap",
+"vanity_id": "Hip-Hop-Rap-1"
+},
+{
+"id": 100000,
+"parent_id": 34,
+"name": "Inspirational",
+"full_name": "Inspirational",
+"vanity_id": "Inspirational"
+},
+{
+"id": 100024,
+"parent_id": 34,
+"name": "Cuban",
+"full_name": "Cuban",
+"vanity_id": "Cuban"
+},
+{
+"id": 50000061,
+"parent_id": 34,
+"name": "Spoken Word",
+"full_name": "Spoken Word",
+"vanity_id": "Spoken-Word"
+},
+{
+"id": 50000063,
+"parent_id": 34,
+"name": "Disney",
+"full_name": "Disney",
+"vanity_id": "Disney"
+},
+{
+"id": 50000064,
+"parent_id": 34,
+"name": "French Pop",
+"full_name": "French Pop",
+"vanity_id": "French-Pop"
+},
+{
+"id": 50000066,
+"parent_id": 34,
+"name": "German Pop",
+"full_name": "German Pop",
+"vanity_id": "German-Pop"
+},
+{
+"id": 50000068,
+"parent_id": 34,
+"name": "German Folk",
+"full_name": "German Folk",
+"vanity_id": "German-Folk"
+},
+{
+"id": 1220,
+"parent_id": 1122,
+"name": "Axé",
+"full_name": "Brazilian / Axé",
+"vanity_id": "Brazilian-Axé"
+},
+{
+"id": 1221,
+"parent_id": 1122,
+"name": "Bossa Nova",
+"full_name": "Brazilian / Bossa Nova",
+"vanity_id": "Brazilian-Bossa-Nova"
+},
+{
+"id": 1222,
+"parent_id": 1122,
+"name": "Choro",
+"full_name": "Brazilian / Choro",
+"vanity_id": "Brazilian-Choro"
+},
+{
+"id": 1223,
+"parent_id": 1122,
+"name": "Forró",
+"full_name": "Brazilian / Forró",
+"vanity_id": "Brazilian-Forró"
+},
+{
+"id": 1224,
+"parent_id": 1122,
+"name": "Frevo",
+"full_name": "Brazilian / Frevo",
+"vanity_id": "Brazilian-Frevo"
+},
+{
+"id": 1225,
+"parent_id": 1122,
+"name": "MPB",
+"full_name": "Brazilian / MPB",
+"vanity_id": "Brazilian-MPB"
+},
+{
+"id": 1226,
+"parent_id": 1122,
+"name": "Pagode",
+"full_name": "Brazilian / Pagode",
+"vanity_id": "Brazilian-Pagode"
+},
+{
+"id": 1227,
+"parent_id": 1122,
+"name": "Samba",
+"full_name": "Brazilian / Samba",
+"vanity_id": "Brazilian-Samba"
+},
+{
+"id": 1228,
+"parent_id": 1122,
+"name": "Sertanejo",
+"full_name": "Brazilian / Sertanejo",
+"vanity_id": "Brazilian-Sertanejo"
+},
+{
+"id": 1229,
+"parent_id": 1122,
+"name": "Baile Funk",
+"full_name": "Brazilian / Baile Funk",
+"vanity_id": "Brazilian-Baile-Funk"
+},
+{
+"id": 1284,
+"parent_id": 1197,
+"name": "Khaleeji",
+"full_name": "Arabic / Khaleeji",
+"vanity_id": "Arabic-Khaleeji"
+},
+{
+"id": 1285,
+"parent_id": 1197,
+"name": "North African",
+"full_name": "Arabic / North African",
+"vanity_id": "Arabic-North-African"
+},
+{
+"id": 1286,
+"parent_id": 1197,
+"name": "Arabic Pop",
+"full_name": "Arabic / Arabic Pop",
+"vanity_id": "Arabic-Arabic-Pop"
+},
+{
+"id": 1287,
+"parent_id": 1197,
+"name": "Islamic",
+"full_name": "Arabic / Islamic",
+"vanity_id": "Arabic-Islamic"
+},
+{
+"id": 1233,
+"parent_id": 1232,
+"name": "Chinese Classical",
+"full_name": "Chinese / Chinese Classical",
+"vanity_id": "Chinese-Chinese-Classical"
+},
+{
+"id": 1234,
+"parent_id": 1232,
+"name": "Chinese Flute",
+"full_name": "Chinese / Chinese Flute",
+"vanity_id": "Chinese-Chinese-Flute"
+},
+{
+"id": 1235,
+"parent_id": 1232,
+"name": "Chinese Opera",
+"full_name": "Chinese / Chinese Opera",
+"vanity_id": "Chinese-Chinese-Opera"
+},
+{
+"id": 1236,
+"parent_id": 1232,
+"name": "Chinese Orchestral",
+"full_name": "Chinese / Chinese Orchestral",
+"vanity_id": "Chinese-Chinese-Orchestral"
+},
+{
+"id": 1237,
+"parent_id": 1232,
+"name": "Chinese Regional Folk",
+"full_name": "Chinese / Chinese Regional Folk",
+"vanity_id": "Chinese-Chinese-Regional-Folk"
+},
+{
+"id": 1238,
+"parent_id": 1232,
+"name": "Chinese Strings",
+"full_name": "Chinese / Chinese Strings",
+"vanity_id": "Chinese-Chinese-Strings"
+},
+{
+"id": 1239,
+"parent_id": 1232,
+"name": "Taiwanese Folk",
+"full_name": "Chinese / Taiwanese Folk",
+"vanity_id": "Chinese-Taiwanese-Folk"
+},
+{
+"id": 1240,
+"parent_id": 1232,
+"name": "Tibetan Native Music",
+"full_name": "Chinese / Tibetan Native Music",
+"vanity_id": "Chinese-Tibetan-Native-Music"
+},
+{
+"id": 1244,
+"parent_id": 1243,
+"name": "Korean Classical",
+"full_name": "Korean / Korean Classical",
+"vanity_id": "Korean-Korean-Classical"
+},
+{
+"id": 1245,
+"parent_id": 1243,
+"name": "Korean Trad Song",
+"full_name": "Korean / Korean Trad Song",
+"vanity_id": "Korean-Korean-Trad-Song"
+},
+{
+"id": 1246,
+"parent_id": 1243,
+"name": "Korean Trad Instrumental",
+"full_name": "Korean / Korean Trad Instrumental",
+"vanity_id": "Korean-Korean-Trad-Instrumental"
+},
+{
+"id": 1247,
+"parent_id": 1243,
+"name": "Korean Trad Theater",
+"full_name": "Korean / Korean Trad Theater",
+"vanity_id": "Korean-Korean-Trad-Theater"
+},
+{
+"id": 0,
+"parent_id": 1262,
+"name": "indian / regional indian / punjabi / punjabi pop",
+"full_name": "indian / regional indian / punjabi / punjabi pop",
+"vanity_id": "indian-regional-indian-punjabi-punjabi-pop"
+},
+{
+"id": 1185,
+"parent_id": 1262,
+"name": "Indian Pop",
+"full_name": "Indian / Indian Pop",
+"vanity_id": "Indian-Indian-Pop"
+},
+{
+"id": 1263,
+"parent_id": 1262,
+"name": "Bollywood",
+"full_name": "Indian / Bollywood",
+"vanity_id": "Indian-Bollywood"
+},
+{
+"id": 1264,
+"parent_id": 1262,
+"name": "Tamil",
+"full_name": "Indian / Tamil",
+"vanity_id": "Indian-Tamil"
+},
+{
+"id": 1265,
+"parent_id": 1262,
+"name": "Telugu",
+"full_name": "Indian / Telugu",
+"vanity_id": "Indian-Telugu"
+},
+{
+"id": 1266,
+"parent_id": 1262,
+"name": "Regional Indian",
+"full_name": "Indian / Regional Indian",
+"vanity_id": "Indian-Regional-Indian"
+},
+{
+"id": 1267,
+"parent_id": 1262,
+"name": "Devotional & Spiritual",
+"full_name": "Indian / Devotional & Spiritual",
+"vanity_id": "Indian-Devotional-Spiritual"
+},
+{
+"id": 1268,
+"parent_id": 1262,
+"name": "Sufi",
+"full_name": "Indian / Sufi",
+"vanity_id": "Indian-Sufi"
+},
+{
+"id": 1269,
+"parent_id": 1262,
+"name": "Indian Classical",
+"full_name": "Indian / Indian Classical",
+"vanity_id": "Indian-Indian-Classical"
+},
+{
+"id": 1278,
+"parent_id": 1262,
+"name": "Ghazals",
+"full_name": "Indian / Ghazals",
+"vanity_id": "Indian-Ghazals"
+},
+{
+"id": 1279,
+"parent_id": 1262,
+"name": "Indian Folk",
+"full_name": "Indian / Indian Folk",
+"vanity_id": "Indian-Indian-Folk"
+},
+{
+"id": 100033,
+"parent_id": 1262,
+"name": "Punjabi Pop",
+"full_name": "Indian / Punjabi Pop",
+"vanity_id": "Indian-Punjabi-Pop"
+},
+{
+"id": 100034,
+"parent_id": 1262,
+"name": "Rabindra Sangeet",
+"full_name": "Indian / Rabindra Sangeet",
+"vanity_id": "Indian-Rabindra-Sangeet"
+},
+{
+"id": 1656,
+"parent_id": 1614,
+"name": "Cantopop",
+"full_name": "Pop / Cantopop",
+"vanity_id": "Pop-Cantopop"
+},
+{
+"id": 1686,
+"parent_id": 1614,
+"name": "K-Pop",
+"full_name": "Pop / K-Pop",
+"vanity_id": "Pop-K-Pop"
+},
+{
+"id": 1866,
+"parent_id": 8053,
+"name": "Modern Dancehall",
+"full_name": "Reggae / Modern Dancehall",
+"vanity_id": "Reggae-Modern-Dancehall"
+},
+{
+"id": 8217,
+"parent_id": 8216,
+"name": "Korean Traditional",
+"full_name": "Korean / Korean Traditional",
+"vanity_id": "Korean-Korean-Traditional"
+},
+{
+"id": 100025,
+"parent_id": 100024,
+"name": "Cuban / Mambo",
+"full_name": "Cuban / Mambo",
+"vanity_id": "Cuban-Mambo"
+},
+{
+"id": 100028,
+"parent_id": 100024,
+"name": "Cuban / Son",
+"full_name": "Cuban / Son",
+"vanity_id": "Cuban-Son"
+},
+{
+"id": 100029,
+"parent_id": 100024,
+"name": "Cuban / Bolero",
+"full_name": "Cuban / Bolero",
+"vanity_id": "Cuban-Bolero"
+}
+]

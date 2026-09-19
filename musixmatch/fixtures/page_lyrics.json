@@ -1,0 +1,699 @@
+{
+ "trackInfo": {
+  "data": {
+   "lyrics": {
+    "body": "Look at the stars\nLook how they shine for you\nAnd everything you do\nYeah, they were all yellow\n\nI came along\nI wrote a song for you\nAnd all the things you do\nAnd it was called, \"Yellow\"\n\nSo then I took my turn\nOh, what a thing to have done\nAnd it was all yellow\n\n(Ah) your skin, oh yeah, your skin and bones\n(Ooh) turn into something beautiful\n(Ah) and you know, you know I love you so\nYou know I love you so\n\nI swam across\nI jumped across for you\nOh, what a thing to do\n′Cause you were all yellow\n\nI drew a line\nI drew a line for you\nOh, what a thing to do\nAnd it was all yellow\n\n(Ah) and your skin, oh, yeah, your skin and bones\n(Ooh) turn into somethin' beautiful\n(Ah) and you know, for you, I′d bleed myself dry\nFor you, I'd bleed myself dry\n\nIt's true\nLook how they shine for you\nLook how they shine for you\nLook how they shine for-\nLook how they shine for you\nLook how they shine for you\nLook how they shine\n\nLook at the stars\nLook how they shine for you\nAnd all the things that you do",
+    "canEdit": false,
+    "copyright": "Writer(s): William Champion, Jonathan Mark Buckland, Christopher Anthony John Martin, Guy Rupert Berryman\n",
+    "id": 48665822,
+    "language": "en",
+    "languageDescription": "English",
+    "lyricsUser": {
+     "uaid": "3vUCAGG2pN92g1T65jKRiWi4Rk6pZUx7n-FBCajK70GK4u1rVvHwPl0MrZn9jYpfDzYbt1_VTn3gjNZcSoPwZXzMbnVo07Rc89AEdXnLf8HU23FRBQFNsEhTVsAk1Xw8mdOdxW-7AArJ8t2nuokEtBcs4aBl-gj54VKHo7JgIn4",
+     "is_mine": 0,
+     "user_name": "Mary O.",
+     "user_name_alias": "",
+     "created": "2021-06-11T11:20:54Z",
+     "user_profile_photo": "https://www.gravatar.com/avatar/27224359e6df065f9be802325c1a14a6?r=g&d=https%3A%2F%2Fstatic.musixmatch.com%2Fuser%2Fuser_empty.png",
+     "has_private_profile": 0,
+     "has_informative_profile_page": 0,
+     "has_distributor_profile_page": 0,
+     "score": 813823,
+     "position": 0,
+     "level": "top",
+     "key": "2aa683371349d0d059b49dbfedb87a2714098386313a93ead3f1df3cca32e7e3",
+     "rank_level": 60,
+     "rank_name": "king",
+     "rank_color": "D4A34B",
+     "rank_colors": {
+      "rank_color_10": "FFF4DE",
+      "rank_color_50": "EFCA87",
+      "rank_color_100": "D4A34B",
+      "rank_color_200": "B78436"
+     },
+     "rank_image_url": "https://static.musixmatch.com/badges/rank_icons/king.png",
+     "weekly_score": 0,
+     "points_to_next_level": 0,
+     "ratio_to_next_level": 0,
+     "next_rank_name": "",
+     "ratio_to_next_rank": 0,
+     "next_rank_color": null,
+     "next_rank_colors": null,
+     "next_rank_image_url": null,
+     "admin": true,
+     "moderator": true,
+     "artist_manager": 0,
+     "academy_completed": false,
+     "labels": [
+      "specialist"
+     ]
+    },
+    "pixelTrackingUrl": "https://tracking.musixmatch.com/t1.0/m_img/e_0/sn_0/l_48665822/su_0/rs_0/tr_3vUCAEs_D_vxNWDX_vH9RLhBCpJH2XqVF09uQwwNo_A5gsCPpD41BaDwjNOXrsy-bkGctkrgt3EtOAzTz7To7rIerGYN0wkMhNL0b-Mjonu95oUZCCgur4CQUdAhMi2oQ7uz-muz8MJS3_VmTDMJdMZf7--3ptE_pvzZmUbhI3ewlJ5hyfCnWAyh_VQK6grU50MRnCYuymfVacrMxTeLapb28eGt5VnZW4e-sBsjNFFocI3Tl61wMxtH1ig0zzZbWVnjTFt6tHWvNyqp2OicnUpNuRq2Hkr__QMEJzEL9wHOnmeDd5J75rf7iVN9B8s_W5aBqHsOgnYNtCx0tKbx8vtC91IV-kOKbYIkDKXK9K5YQgDOMeO1338068Dfxh37cR8n5bmn6Nb7Safqjv2F8EMWvc0B0XI35yCqjbByA09FhQYnQ-hK755gbfD0lLQKP3vtaQ1Mwv7OEdAUS1MYEpOijFB7cUoef7mAg3lo8vSEtzmDrbHDNw3d/",
+    "verifier": "musixmatch"
+   },
+   "track": {
+    "albumId": 20908173,
+    "albumName": "Parachutes",
+    "albumVanityId": "Coldplay/Parachutes",
+    "artistId": 1039,
+    "artistName": "Coldplay",
+    "artists": [
+     {
+      "aliases": [
+       "コールドプレイ",
+       "ku wan yue dui",
+       "The Coldplay",
+       "Cold Play",
+       "Coldplay",
+       "Luser"
+      ],
+      "bandsintownUrl": "https://www.bandsintown.com/a/99?came_from=267&app_id=7559e17e1f14e047556d08f47c08faf8",
+      "externalIds": {
+       "itunes": [
+        "471744"
+       ],
+       "spotify": [
+        "4gzpq5DPGxSnKTe4SA8HAU"
+       ]
+      },
+      "genres": [
+       {
+        "id": 1133,
+        "name": "Pop/Rock",
+        "vanity_id": "Pop-Pop-Rock"
+       }
+      ],
+      "id": 1039,
+      "image": "https://static.musixmatch.com/images-storage/mxmimages/6/2/26_2.jpg",
+      "imageCopyright": "",
+      "isFeaturingArtist": false,
+      "isVerified": true,
+      "name": "Coldplay",
+      "rating": 8,
+      "twitterUrl": "https://twitter.com/coldplay",
+      "vanityId": "Coldplay",
+      "websiteUrl": "https://www.coldplay.com/",
+      "youtubeUrl": "https://www.youtube.com/@ColdplayVEVO"
+     }
+    ],
+    "commonTrackId": 288342521,
+    "commontrackItunesIds": [
+     6801455163,
+     6786615838,
+     6784153646
+    ],
+    "commontrackSpotifyIds": [
+     "3AJwUDP919kvQ9QcozQPxg",
+     "1jhXh9swU3hBDi3YHiwhWE",
+     "4iT4Izk4PUWjcXwgWQFia3"
+    ],
+    "coverImage": "https://s.mxmcdn.net/images-storage/albums/5/9/6/5/7/4/11475695_350_350.jpg",
+    "coverImageHD": "https://s.mxmcdn.net/images-storage/albums/5/9/6/5/7/4/11475695_500_500.jpg",
+    "hasLyrics": true,
+    "hasPreReleaseRestricted": false,
+    "hasSync": true,
+    "hasTrackStructure": true,
+    "id": 461806032,
+    "isExplicit": false,
+    "isInstrumental": false,
+    "isPreRelease": false,
+    "lastEditDate": "2026-08-29T05:50:25Z",
+    "lens": {
+     "meaning": {
+      "explanation": "The song 'Yellow' by Coldplay uses the color yellow as a metaphor for love and admiration. The lyrics describe how the singer sees beauty and brightness in the person they love, expressing deep affection and willingness to go to great lengths for them.",
+      "type": "meaning"
+     },
+     "moods": {
+      "main_moods": [
+       "love",
+       "affection",
+       "devotion",
+       "passion"
+      ],
+      "type": "moods"
+     },
+     "rating": {
+      "audience": "G",
+      "descriptor": "The lyrics contain no inappropriate themes, language, or content that would offend parents. They focus on love and admiration, making them suitable for all ages.",
+      "type": "rating"
+     },
+     "themes": {
+      "main_themes": [
+       {
+        "theme": "love and devotion",
+        "quotes": [
+         "I wrote a song for you",
+         "You know I love you so",
+         "For you, I'd bleed myself dry"
+        ]
+       },
+       {
+        "theme": "beauty and admiration",
+        "quotes": [
+         "Your skin and bones turn into something beautiful",
+         "Look how they shine for you"
+        ]
+       }
+      ],
+      "type": "themes"
+     }
+    },
+    "name": "Yellow",
+    "performersMiscTags": {
+     "fan_chant": "Fanchant",
+     "voice_over": "Voice-over",
+     "backing_vocalist": "Backing vocalist",
+     "robotic_vocal": "Robotic vocal",
+     "unknown": "Unknown"
+    },
+    "performersTagging": null,
+    "releaseDate": "2000-07-10T00:00:00Z",
+    "spotifyId": "3AJwUDP919kvQ9QcozQPxg",
+    "vanityId": "Coldplay/Yellow"
+   },
+   "trackStructureList": [
+    {
+     "lines": [
+      {
+       "text": "Look at the stars",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "Look how they shine for you",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "And everything you do",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "Yeah, they were all yellow",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      }
+     ],
+     "title": "verse"
+    },
+    {
+     "lines": [
+      {
+       "text": "I came along",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "I wrote a song for you",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "And all the things you do",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "And it was called, \"Yellow\"",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      }
+     ],
+     "title": "verse"
+    },
+    {
+     "lines": [
+      {
+       "text": "So then I took my turn",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "Oh, what a thing to have done",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "And it was all yellow",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      }
+     ],
+     "title": "pre-chorus"
+    },
+    {
+     "lines": [
+      {
+       "text": "(Ah) your skin, oh yeah, your skin and bones",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "(Ooh) turn into something beautiful",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "(Ah) and you know, you know I love you so",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "You know I love you so",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      }
+     ],
+     "title": "chorus"
+    },
+    {
+     "lines": [
+      {
+       "text": "I swam across",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "I jumped across for you",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "Oh, what a thing to do",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "′Cause you were all yellow",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      }
+     ],
+     "title": "verse"
+    },
+    {
+     "lines": [
+      {
+       "text": "I drew a line",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "I drew a line for you",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "Oh, what a thing to do",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "And it was all yellow",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      }
+     ],
+     "title": "verse"
+    },
+    {
+     "lines": [
+      {
+       "text": "(Ah) and your skin, oh, yeah, your skin and bones",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "(Ooh) turn into somethin' beautiful",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "(Ah) and you know, for you, I′d bleed myself dry",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "For you, I'd bleed myself dry",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      }
+     ],
+     "title": "chorus"
+    },
+    {
+     "lines": [
+      {
+       "text": "It's true",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "Look how they shine for you",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "Look how they shine for you",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "Look how they shine for-",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "Look how they shine for you",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "Look how they shine for you",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "Look how they shine",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      }
+     ],
+     "title": "bridge"
+    },
+    {
+     "lines": [
+      {
+       "text": "Look at the stars",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "Look how they shine for you",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "And all the things that you do",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      }
+     ],
+     "title": "outro"
+    }
+   ],
+   "translationStatuses": {},
+   "type": "lyrics"
+  }
+ },
+ "creditsTrackCollaboratorsGet": {
+  "data": [
+   {
+    "avatar_img_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/ChrisMartinManch030623_%28cropped%29.jpg",
+    "categoryIds": [
+     "3",
+     "4"
+    ],
+    "firstName": "",
+    "id": "000f2844-5820-4064-8ad8-e84b94cacaba",
+    "lastName": "",
+    "name": "Chris Martin",
+    "roles": [
+     {
+      "id": "3",
+      "name": "Composer"
+     },
+     {
+      "id": "4",
+      "name": "Composer Lyricist"
+     }
+    ],
+    "stageName": "Chris Martin",
+    "vanity": "Chris-Martin-3"
+   },
+   {
+    "avatar_img_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/GuyBerrymanManch030623_%28cropped%29.jpg",
+    "categoryIds": [
+     "3",
+     "4"
+    ],
+    "firstName": "Rupert Guy",
+    "id": "00c73e04-544d-4deb-9608-260b10848cd1",
+    "lastName": "Berryman",
+    "name": "Guy Rupert Berryman",
+    "roles": [
+     {
+      "id": "3",
+      "name": "Composer"
+     },
+     {
+      "id": "4",
+      "name": "Composer Lyricist"
+     }
+    ],
+    "stageName": "Guy Berryman",
+    "vanity": "Guy-Rupert-Berryman"
+   },
+   {
+    "avatar_img_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/ColdplayBBC0712214453_%28cropped%29.jpg",
+    "categoryIds": [
+     "3",
+     "4"
+    ],
+    "firstName": "William",
+    "id": "1101e679-b42f-44ea-a9bc-ed3fb87a733c",
+    "lastName": "Champion",
+    "name": "William Champion",
+    "roles": [
+     {
+      "id": "3",
+      "name": "Composer"
+     },
+     {
+      "id": "4",
+      "name": "Composer Lyricist"
+     }
+    ],
+    "stageName": "Will Champion",
+    "vanity": "William-Champion"
+   }
+  ]
+ },
+ "crowdTrackHistoryGet": {
+  "data": [
+   {
+    "avatar": "https://www.gravatar.com/avatar/27224359e6df065f9be802325c1a14a6?r=g&d=https%3A%2F%2Fstatic.musixmatch.com%2Fuser%2Fuser_empty.png",
+    "id": "3vUCAHrIfcCcUuvdwOJsYfX03RZK-6rtTgVCRaeUbIA6WvhBE4JMu_7B_nPU1LAXzE-NQuUV1W6vefA801D6izXSEh0s4C7LzaGRdN0DhFJvbkmnQiEsw5E3k-aPYyVAvVshYZUhO2RlI5taU_bVxDYaDoX9IxaEamqfUx098Ks",
+    "isAI": false,
+    "name": "Mary O.",
+    "role": "specialist",
+    "contributionType": "track_structure",
+    "date": "2026-08-29T05:50:35Z"
+   },
+   {
+    "avatar": "https://www.gravatar.com/avatar/27224359e6df065f9be802325c1a14a6?r=g&d=https%3A%2F%2Fstatic.musixmatch.com%2Fuser%2Fuser_empty.png",
+    "id": "3vUCALpOaUSpk6n06Vd4mxFXo_a45lRNaW6sN8XxgxyvHIB6dsnHCXtwzh9tefFeiRLBMGcdLF6bMeKNXrb5A9w3GIxTCGLX5nKOaKGsQyCLzM_ZBv0TOS6GDg4eg0H7jQrPR55Uk6d47V2saZLb9DbnO7F5ylH5aV_V6cuKKhI",
+    "isAI": false,
+    "name": "Mary O.",
+    "role": "specialist",
+    "contributionType": "lyrics_changed",
+    "date": "2026-08-29T05:50:25Z"
+   },
+   {
+    "avatar": "https://www.gravatar.com/avatar/27224359e6df065f9be802325c1a14a6?r=g&d=https%3A%2F%2Fstatic.musixmatch.com%2Fuser%2Fuser_empty.png",
+    "id": "3vUCAA19SBWjAGTyOcs-mTf7_IKA-2qg6dlMI3g7h5qCrzjpNI0avhafSGBbsqHJqhzk5x3Xxfu0rvhvuScRFz3VbIcoL_D1Be4KGMI3LzIkGBTzZeIanNpOwPvXvQGEldFf3n5BabMazcQMLLpsMWxcw-MWROGr-vy0lF7s0hU",
+    "isAI": false,
+    "name": "Mary O.",
+    "role": "specialist",
+    "contributionType": "lyrics_missing",
+    "date": "2026-08-29T05:50:20Z"
+   }
+  ]
+ }
+}

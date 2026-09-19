@@ -1,0 +1,588 @@
+{
+ "trackInfo": {
+  "data": {
+   "lyrics": {
+    "body": "Look at the stars\nLook how they shine for you\nAnd everything you do\nYeah, they were all yellow\n\nI came along\nI wrote a song for you\nAnd all the things you do\nAnd it was called, \"Yellow\"\n\nSo then I took my turn\nOh, what a thing to have done\nAnd it was all yellow\n\n(Ah) your skin, oh yeah, your skin and bones\n(Ooh) turn into something beautiful\n(Ah) and you know, you know I love you so\nYou know I love you so\n\nI swam across\nI jumped across for you\nOh, what a thing to do\n′Cause you were all yellow\n\nI drew a line\nI drew a line for you\nOh, what a thing to do\nAnd it was all yellow\n\n(Ah) and your skin, oh, yeah, your skin and bones\n(Ooh) turn into somethin' beautiful\n(Ah) and you know, for you, I′d bleed myself dry\nFor you, I'd bleed myself dry\n\nIt's true\nLook how they shine for you\nLook how they shine for you\nLook how they shine for-\nLook how they shine for you\nLook how they shine for you\nLook how they shine\n\nLook at the stars\nLook how they shine for you\nAnd all the things that you do",
+    "canEdit": false,
+    "copyright": "Writer(s): William Champion, Jonathan Mark Buckland, Christopher Anthony John Martin, Guy Rupert Berryman\n",
+    "id": 48665822,
+    "language": "en",
+    "languageDescription": "English",
+    "pixelTrackingUrl": "https://tracking.musixmatch.com/t1.0/m_img/e_0/sn_0/l_48665822/su_0/rs_0/tr_3vUCAJW6BJBAoxzn5NuGQUCFLd5_0VyXcvmdmSCZW6b54ygHVZSw-ltNiySJasulhPi0b5zACnMUDjUToQeRJy4-eic9EwbHI6vvXvLNHhUf_tlpjXHjrUM6u_ZJMrXyzAOz9N34auVNKTYdBqbBV---ls68F-9k_hPG2ftu4GhtILOWTBi2ehHsQyhLptqIbufzZ3wcZhLZoOsPxKmHEYpSHWPuLOmHigAtlLFRh4GUpU5ERuCv1O0fVUTE6QrpphbfrV_fahOKlzlWFC4bm_xKZLlNoed8_xU_eWeYf9wlKM39kWVExToOMkN5ZuqMyJUry7u93xcAenj9GW_-ZK2Yb6jwZ_MfXYxX1lM3frrI8dqq1BGK6RjclOorW2JfLk2l-sqBwCqiYiSi-G22PZfGkkR-IU_4iNY3-16kUQ0ouGcXNONr43p-HJcqBchiEZXDubbHLm2IQw_Z9AIzdtQa7JWqRDtbfGkmN9_9kZiN2qBeWwSDIp7P/",
+    "verifier": "musixmatch"
+   },
+   "track": {
+    "albumId": 20908173,
+    "albumName": "Parachutes",
+    "albumVanityId": "Coldplay/Parachutes",
+    "artistId": 1039,
+    "artistName": "Coldplay",
+    "artists": [
+     {
+      "aliases": [
+       "コールドプレイ",
+       "ku wan yue dui",
+       "The Coldplay",
+       "Cold Play",
+       "Coldplay",
+       "Luser"
+      ],
+      "bandsintownUrl": "https://www.bandsintown.com/a/99?came_from=267&app_id=7559e17e1f14e047556d08f47c08faf8",
+      "externalIds": {
+       "itunes": [
+        "471744"
+       ],
+       "spotify": [
+        "4gzpq5DPGxSnKTe4SA8HAU"
+       ]
+      },
+      "genres": [
+       {
+        "id": 1133,
+        "name": "Pop/Rock",
+        "vanity_id": "Pop-Pop-Rock"
+       }
+      ],
+      "id": 1039,
+      "image": "https://static.musixmatch.com/images-storage/mxmimages/6/2/26_2.jpg",
+      "imageCopyright": "",
+      "isFeaturingArtist": false,
+      "isVerified": true,
+      "name": "Coldplay",
+      "rating": 32,
+      "twitterUrl": "https://twitter.com/coldplay",
+      "vanityId": "Coldplay",
+      "websiteUrl": "https://www.coldplay.com/",
+      "youtubeUrl": "https://www.youtube.com/@ColdplayVEVO"
+     }
+    ],
+    "commonTrackId": 288342521,
+    "commontrackItunesIds": [
+     6801455163,
+     6786615838,
+     6784153646
+    ],
+    "commontrackSpotifyIds": [
+     "3AJwUDP919kvQ9QcozQPxg",
+     "1jhXh9swU3hBDi3YHiwhWE",
+     "4iT4Izk4PUWjcXwgWQFia3"
+    ],
+    "coverImage": "https://s.mxmcdn.net/images-storage/albums/5/9/6/5/7/4/11475695_350_350.jpg",
+    "coverImageHD": "https://s.mxmcdn.net/images-storage/albums/5/9/6/5/7/4/11475695_500_500.jpg",
+    "hasLyrics": true,
+    "hasPreReleaseRestricted": false,
+    "hasSync": true,
+    "hasTrackStructure": true,
+    "id": 461806032,
+    "isExplicit": false,
+    "isInstrumental": false,
+    "isPreRelease": false,
+    "lastEditDate": "2026-08-29T05:50:25Z",
+    "lens": {
+     "meaning": {
+      "explanation": "The song 'Yellow' by Coldplay uses the color yellow as a metaphor for love and admiration. The lyrics describe how the singer sees beauty and brightness in the person they love, expressing deep affection and willingness to go to great lengths for them.",
+      "type": "meaning"
+     },
+     "moods": {
+      "main_moods": [
+       "love",
+       "affection",
+       "devotion",
+       "passion"
+      ],
+      "type": "moods"
+     },
+     "rating": {
+      "audience": "G",
+      "descriptor": "The lyrics contain no inappropriate themes, language, or content that would offend parents. They focus on love and admiration, making them suitable for all ages.",
+      "type": "rating"
+     },
+     "themes": {
+      "main_themes": [
+       {
+        "theme": "love and devotion",
+        "quotes": [
+         "I wrote a song for you",
+         "You know I love you so",
+         "For you, I'd bleed myself dry"
+        ]
+       },
+       {
+        "theme": "beauty and admiration",
+        "quotes": [
+         "Your skin and bones turn into something beautiful",
+         "Look how they shine for you"
+        ]
+       }
+      ],
+      "type": "themes"
+     }
+    },
+    "name": "Yellow",
+    "performersMiscTags": {
+     "fan_chant": "Fanchant",
+     "voice_over": "Voice-over",
+     "backing_vocalist": "Backing vocalist",
+     "robotic_vocal": "Robotic vocal",
+     "unknown": "Unknown"
+    },
+    "performersTagging": null,
+    "releaseDate": "2000-07-10T00:00:00Z",
+    "spotifyId": "3AJwUDP919kvQ9QcozQPxg",
+    "vanityId": "Coldplay/Yellow"
+   },
+   "trackStructureList": [
+    {
+     "lines": [
+      {
+       "text": "Look at the stars",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "Look how they shine for you",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "And everything you do",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "Yeah, they were all yellow",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      }
+     ],
+     "title": "verse"
+    },
+    {
+     "lines": [
+      {
+       "text": "I came along",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "I wrote a song for you",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "And all the things you do",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "And it was called, \"Yellow\"",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      }
+     ],
+     "title": "verse"
+    },
+    {
+     "lines": [
+      {
+       "text": "So then I took my turn",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "Oh, what a thing to have done",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "And it was all yellow",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      }
+     ],
+     "title": "pre-chorus"
+    },
+    {
+     "lines": [
+      {
+       "text": "(Ah) your skin, oh yeah, your skin and bones",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "(Ooh) turn into something beautiful",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "(Ah) and you know, you know I love you so",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "You know I love you so",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      }
+     ],
+     "title": "chorus"
+    },
+    {
+     "lines": [
+      {
+       "text": "I swam across",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "I jumped across for you",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "Oh, what a thing to do",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "′Cause you were all yellow",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      }
+     ],
+     "title": "verse"
+    },
+    {
+     "lines": [
+      {
+       "text": "I drew a line",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "I drew a line for you",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "Oh, what a thing to do",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "And it was all yellow",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      }
+     ],
+     "title": "verse"
+    },
+    {
+     "lines": [
+      {
+       "text": "(Ah) and your skin, oh, yeah, your skin and bones",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "(Ooh) turn into somethin' beautiful",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "(Ah) and you know, for you, I′d bleed myself dry",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "For you, I'd bleed myself dry",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      }
+     ],
+     "title": "chorus"
+    },
+    {
+     "lines": [
+      {
+       "text": "It's true",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "Look how they shine for you",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "Look how they shine for you",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "Look how they shine for-",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "Look how they shine for you",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "Look how they shine for you",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "Look how they shine",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      }
+     ],
+     "title": "bridge"
+    },
+    {
+     "lines": [
+      {
+       "text": "Look at the stars",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "Look how they shine for you",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      },
+      {
+       "text": "And all the things that you do",
+       "time": {
+        "hundredths": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "total": 0
+       },
+       "type": "lyrics"
+      }
+     ],
+     "title": "outro"
+    }
+   ],
+   "translationStatuses": {},
+   "type": "lyrics"
+  }
+ },
+ "crowdTranslationGet": {
+  "data": {
+   "Look at the stars": "Regardez les étoiles",
+   "Look how they shine for you": "Regarde comme ils brillent pour toi",
+   "And everything you do": "Et tout ce que vous faites",
+   "Yeah, they were all yellow": "Oui, ils étaient tous jaunes",
+   "I came along": "Je suis venu",
+   "I wrote a song for you": "J'ai écrit une chanson pour toi",
+   "And all the things you do": "Et toutes les choses que vous faites",
+   "And it was called, \"Yellow\"": "Et il s'appelait  Jaune .",
+   "So then I took my turn": "Alors, ce fut mon tour.",
+   "Oh, what a thing to have done": "Oh, quelle chose terrible d'avoir fait",
+   "And it was all yellow": "Et tout était jaune",
+   "(Ah) your skin, oh yeah, your skin and bones": "(Ah) ta peau, oh oui, ta peau et tes os",
+   "(Ooh) turn into something beautiful": "(Ooh) se transformer en quelque chose de beau",
+   "(Ah) and you know, you know I love you so": "(Ah) et tu sais, tu sais que je t'aime tellement",
+   "You know I love you so": "Tu sais que je t'aime tellement",
+   "I swam across": "J'ai traversé à la nage",
+   "I jumped across for you": "J'ai fait le saut pour toi",
+   "Oh, what a thing to do": "Oh, quelle chose à faire",
+   "'Cause you were all yellow": "Parce que tu étais tout jaune",
+   "I drew a line": "J'ai tracé une ligne",
+   "I drew a line for you": "J'ai tracé une ligne pour toi",
+   "(Ah) and your skin, oh, yeah, your skin and bones": "(Ah) et ta peau, oh oui, ta peau et tes os",
+   "(Ooh) turn into somethin' beautiful": "(Ooh) se transformer en quelque chose de beau",
+   "(Ah) and you know, for you, I'd bleed myself dry": "(Ah) et tu sais, pour toi, je me viderais de mon sang.",
+   "For you, I'd bleed myself dry": "Pour toi, je me viderais de mon sang.",
+   "It's true": "C'est vrai",
+   "Look how they shine for-": "Regardez comme ils brillent pour-",
+   "Look how they shine": "Regardez comme ils brillent",
+   "And all the things that you do": "Et toutes les choses que vous faites"
+  }
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "artist.get": {
+  "message": {
+   "header": {
+    "status_code": 200,
+    "execute_time": 0.0040040016174316
+   },
+   "body": {
+    "artist": {
+     "artist_id": 1039,
+     "artist_fq_id": "mxm:artist:1039",
+     "artist_mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+     "artist_name": "Coldplay",
+     "artist_name_translation_list": [
+      {
+       "artist_name_translation": {
+        "language": "JA",
+        "translation": "コールドプレイ"
+       }
+      }
+     ],
+     "artist_comment": "",
+     "artist_crowd_favourites": 17660,
+     "artist_country": "GB",
+     "artist_alias_list": [
+      {
+       "artist_alias": "コールドプレイ"
+      },
+      {
+       "artist_alias": "ku wan yue dui"
+      },
+      {
+       "artist_alias": "The Coldplay"
+      },
+      {
+       "artist_alias": "Cold Play"
+      },
+      {
+       "artist_alias": "Coldplay"
+      },
+      {
+       "artist_alias": "Luser"
+      }
+     ],
+     "artist_rating": 32,
+     "primary_genres": {
+      "music_genre_list": [
+       {
+        "music_genre": {
+         "music_genre_id": 1133,
+         "music_genre_parent_id": 14,
+         "music_genre_name": "Pop/Rock",
+         "music_genre_name_extended": "Pop / Pop/Rock",
+         "music_genre_vanity": "Pop-Pop-Rock"
+        }
+       }
+      ]
+     },
+     "secondary_genres": {
+      "music_genre_list": []
+     },
+     "artist_twitter_url": "https://twitter.com/coldplay",
+     "artist_website_url": "http://www.coldplay.com/",
+     "artist_instagram_url": "",
+     "artist_tiktok_url": "",
+     "artist_facebook_url": "https://www.facebook.com/coldplay",
+     "artist_bandsintown_url": "https://www.bandsintown.com/a/99?came_from=267&app_id=7559e17e1f14e047556d08f47c08faf8",
+     "artist_ticketmaster_url": "",
+     "artist_youtube_url": "http://www.youtube.com/user/ColdplayVEVO",
+     "artist_merchandising_url": "",
+     "artist_tour_url": "",
+     "artist_vanity_id": "Coldplay",
+     "artist_edit_url": "https://www.musixmatch.com/artist/Coldplay?utm_source=application&utm_campaign=api&utm_medium=musixmatch-community%3A1409608317702",
+     "artist_share_url": "https://www.musixmatch.com/artist/Coldplay",
+     "artist_credits": {
+      "artist_list": []
+     },
+     "restricted": 0,
+     "managed": 1,
+     "updated_time": "2013-11-05T11:24:57Z",
+     "external_ids": {
+      "spotify": [
+       "4gzpq5DPGxSnKTe4SA8HAU"
+      ],
+      "itunes": [
+       "471744"
+      ],
+      "7digital": [
+       "16394777",
+       "18006932",
+       "20",
+       "7657301",
+       "7814442",
+       "7920682"
+      ]
+     },
+     "begin_date_year": "1996",
+     "begin_date": "1996-09-00",
+     "end_date_year": "",
+     "end_date": "0000-00-00"
+    }
+   }
+  }
+ },
+ "artist_id": 1039,
+ "image_sequence_length": 5,
+ "key": "/images-storage/mxmimages/6/2/26_15.jpg",
+ "image_id": 26,
+ "final_url": "http://r.mxmcdn.net/static.musixmatch.com/images-storage/mxmimages/6/2/26_16.jpg?w=500&h=500&scale=both&mode=crop&c.finalmode=crop&c.zoom=false&c.focus=126.12612612612612,136.63663663663664,201.2012012012012,211.7117117117117"
+}

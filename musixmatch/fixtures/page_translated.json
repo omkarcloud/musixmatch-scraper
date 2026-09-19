@@ -1,0 +1,102 @@
+{
+ "trackTranslationSearch": {
+  "data": [
+   {
+    "albumId": 112634589,
+    "albumName": "Nicole Kidman",
+    "albumVanityId": "ADÉLA-23/Nicole-Kidman",
+    "artistId": 61768745,
+    "artistName": "ADÉLA",
+    "artists": [],
+    "commonTrackId": 283059840,
+    "commontrackItunesIds": [
+     6802430862,
+     6792884088
+    ],
+    "commontrackSpotifyIds": [
+     "70cHKK8bHAfJrOGVnfRG9J",
+     "4fBnFBSVjHfDv8dqXxKw05"
+    ],
+    "coverImage": "https://s.mxmcdn.net/images-storage/albums5/2/4/4/0/5/7/123750442_350_350.jpg",
+    "coverImageHD": "https://s.mxmcdn.net/images-storage/albums5/2/4/4/0/5/7/123750442_500_500.jpg",
+    "hasLyrics": true,
+    "hasPreReleaseRestricted": false,
+    "hasSync": true,
+    "hasTrackStructure": true,
+    "id": 463617793,
+    "isExplicit": true,
+    "isInstrumental": false,
+    "isPreRelease": false,
+    "lastEditDate": "2026-09-04T09:26:03Z",
+    "name": "Nicole Kidman",
+    "releaseDate": "2026-09-04T00:00:00Z",
+    "spotifyId": "4fBnFBSVjHfDv8dqXxKw05",
+    "vanityId": "ADÉLA-23/Track-2"
+   },
+   {
+    "albumId": 101212505,
+    "albumName": "Dandelion",
+    "albumVanityId": "Ella-Langley/Dandelion-2",
+    "artistId": 36034079,
+    "artistName": "Ella Langley",
+    "artists": [],
+    "commonTrackId": 223773736,
+    "commontrackItunesIds": [
+     6794945006,
+     6763094066,
+     1869436839
+    ],
+    "commontrackSpotifyIds": [
+     "4Rin9yz8fuTDI0fLGqngFT",
+     "65DbTqJKhbwqYbZ1Okr0rc",
+     "1REy2Bm9XrSoRMBKNXW69l"
+    ],
+    "coverImage": "https://s.mxmcdn.net/images-storage/albums2/4/5/7/8/2/3/112328754_350_350.jpg",
+    "coverImageHD": "https://s.mxmcdn.net/images-storage/albums2/4/5/7/8/2/3/112328754_500_500.jpg",
+    "hasLyrics": true,
+    "hasPreReleaseRestricted": false,
+    "hasSync": true,
+    "hasTrackStructure": true,
+    "id": 432264839,
+    "isExplicit": false,
+    "isInstrumental": false,
+    "isPreRelease": false,
+    "lastEditDate": "2026-09-07T12:48:26Z",
+    "name": "Choosin' Texas",
+    "releaseDate": "2026-01-30T00:00:00Z",
+    "spotifyId": "4Rin9yz8fuTDI0fLGqngFT",
+    "vanityId": "Ella-Langley/Choosin-Texas"
+   },
+   {
+    "albumId": 110359990,
+    "albumName": "NO ME ARREPIENTO DE SENTIR TANTO",
+    "albumVanityId": "KAROL-G-7/NO-ME-ARREPIENTO-DE-SENTIR-TANTO",
+    "artistId": 54050596,
+    "artistName": "KAROL G",
+    "artists": [],
+    "commonTrackId": 285051242,
+    "commontrackItunesIds": [
+     6796864754
+    ],
+    "commontrackSpotifyIds": [
+     "3h5T5JypYU7huFiVYhv1dr"
+    ],
+    "coverImage": "https://s.mxmcdn.net/images-storage/albums2/7/0/9/5/7/4/121475907_350_350.jpg",
+    "coverImageHD": "https://s.mxmcdn.net/images-storage/albums2/7/0/9/5/7/4/121475907_500_500.jpg",
+    "hasLyrics": true,
+    "hasPreReleaseRestricted": false,
+    "hasSync": true,
+    "hasTrackStructure": true,
+    "id": 458121648,
+    "isExplicit": false,
+    "isInstrumental": false,
+    "isPreRelease": false,
+    "lastEditDate": "2026-09-15T02:35:56Z",
+    "name": "BbY WOW",
+    "releaseDate": "2026-08-07T00:00:00Z",
+    "spotifyId": "3h5T5JypYU7huFiVYhv1dr",
+    "vanityId": "KAROL-G-Judeline-rusowsky/BbY-WOW"
+   }
+  ]
+ }
+}

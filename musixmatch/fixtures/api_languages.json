@@ -1,0 +1,39 @@
+{
+ "language_list": [
+  {
+   "language": {
+    "language_iso_code_1": "n4",
+    "language_iso_code_3": "nah",
+    "language_name": "nahuatl"
+   }
+  },
+  {
+   "language": {
+    "language_iso_code_1": "aa",
+    "language_iso_code_3": "aar",
+    "language_name": "afar"
+   }
+  },
+  {
+   "language": {
+    "language_iso_code_1": "ab",
+    "language_iso_code_3": "abk",
+    "language_name": "abkhazian"
+   }
+  },
+  {
+   "language": {
+    "language_iso_code_1": "af",
+    "language_iso_code_3": "afr",
+    "language_name": "afrikaans"
+   }
+  },
+  {
+   "language": {
+    "language_iso_code_1": "ak",
+    "language_iso_code_3": "aka",
+    "language_name": "akan"
+   }
+  }
+ ]
+}
